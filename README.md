@@ -35,7 +35,7 @@ A web application built with C# and .NET Core to upload, sort, and display stude
     dotnet run
     ```
 
-4. Open your browser and navigate to `https://localhost:5001`.
+4. Open your browser and navigate to the local uri that is given in the output (in Terminal).
 
 ## Usage
 
