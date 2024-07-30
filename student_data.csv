@@ -1,0 +1,2001 @@
+Name,Age,Major,GPA,Year,Club,Position
+James Smith,20,Electrical Engineering,3.7,Sophomore,Business Club,Part-time at MarketPlace
+Jessica Harris,25,Computer Science,3.31,Freshman,Coding Club,Member of ChemClub
+Christopher Martin,19,Physics,3.63,Sophomore,IEEE Member,Part-time at MarketPlace
+Emily Taylor,21,Mechanical Engineering,3.29,Junior,Coding Club,Part-time at MarketPlace
+Linda Brown,21,Environmental Science,3.63,Freshman,Robotics Team,Tutor at MathCenter
+Robert White,19,Civil Engineering,2.65,Freshman,Math Club,Member of ChemClub
+Patricia Moore,21,Mathematics,3.76,Senior,Coding Club,Tutor at MathCenter
+Michael Moore,21,Physics,3.96,Sophomore,Robotics Team,Business Club President
+David Smith,19,Business Administration,2.6,Senior,Business Club,Part-time at BuildCorp
+Barbara Brown,23,Computer Science,2.5,Freshman,Debate Team,Research Assistant
+Jessica Harris,23,Environmental Science,3.48,Junior,Soccer Club,Part-time at AutoWorks
+Linda Taylor,23,Mechanical Engineering,3.89,Junior,Green Club,Part-time at MarketPlace
+Michael Thomas,19,Chemistry,3.38,Junior,Debate Team,Intern at TechCorp
+Jessica Clark,20,Mechanical Engineering,3.63,Freshman,Coding Club,Intern at TechCorp
+John Anderson,21,Chemistry,3.2,Junior,IEEE Member,Intern at StartUp
+John Davis,18,Economics,2.21,Sophomore,Research Assistant,Part-time at ElectricWorks
+Thomas Clark,18,Electrical Engineering,3.81,Junior,Coding Club,Part-time at AutoWorks
+Sarah Taylor,19,Mathematics,2.74,Senior,Green Club,Member of BioSociety
+Thomas Doe,18,Business Administration,3.98,Freshman,Research Assistant,Tutor at MathCenter
+Linda Jackson,23,Computer Science,3.34,Junior,ChemClub,Part-time at MarketPlace
+Jane Smith,24,Environmental Science,2.04,Junior,Research Assistant,Intern at ResearchLab
+Patricia Anderson,19,Mechanical Engineering,2.48,Senior,ASCE Member,Business Club President
+Robert Smith,19,Biology,2.5,Junior,Green Club,Tutor at MathCenter
+John Anderson,22,Mathematics,3.72,Senior,Business Club,Intern at TechCorp
+Linda Brown,21,Biology,2.84,Sophomore,Debate Team,Member of ChemClub
+Barbara Harris,22,Business Administration,2.94,Freshman,Business Club,Intern at ResearchLab
+David Wilson,24,Chemistry,3.45,Senior,Math Club,Tutor at MathCenter
+Christopher Wilson,21,Mechanical Engineering,3.67,Sophomore,Debate Team,Member of BioSociety
+Thomas Davis,20,Biology,3.09,Sophomore,Business Club,Member of ChemClub
+Emily Thomas,23,Civil Engineering,2.3,Sophomore,Green Club,Intern at ResearchLab
+David Harris,24,Biology,3.46,Sophomore,ASCE Member,Part-time at MarketPlace
+Barbara Clark,23,Mechanical Engineering,2.26,Sophomore,Math Club,Member of BioSociety
+Mary Anderson,23,Business Administration,2.46,Sophomore,ChemClub,Member of BioSociety
+Thomas Doe,25,Environmental Science,2.65,Freshman,BioSociety,Research Assistant
+Robert Martin,18,Mathematics,2.65,Sophomore,Robotics Team,Research Assistant
+Linda Johnson,21,Environmental Science,2.16,Freshman,BioSociety,Intern at StartUp
+Jane Davis,23,Environmental Science,2.59,Freshman,Robotics Team,Part-time at MarketPlace
+Thomas Brown,24,Electrical Engineering,2.53,Sophomore,Debate Team,Intern at TechCorp
+Patricia Anderson,19,Biology,3.09,Sophomore,Robotics Team,Member of ChemClub
+Michael White,25,Mathematics,3.96,Freshman,Coding Club,Member of BioSociety
+Barbara Moore,21,Computer Science,2.76,Junior,ChemClub,Intern at TechCorp
+Christopher Martin,23,Mathematics,3.16,Junior,Coding Club,Part-time at MarketPlace
+Jessica White,23,Physics,3.88,Freshman,Coding Club,Part-time at AutoWorks
+James Taylor,19,Chemistry,2.75,Freshman,BioSociety,Business Club President
+Linda Harris,22,Computer Science,3.7,Freshman,Debate Team,Research Assistant
+Christopher Johnson,25,Chemistry,3.17,Sophomore,Robotics Team,Part-time at AutoWorks
+Jessica Martin,23,Mathematics,3.89,Sophomore,BioSociety,Business Club President
+Barbara Anderson,24,Civil Engineering,3.23,Freshman,ASCE Member,Part-time at MarketPlace
+Sarah Jackson,24,Economics,3.87,Senior,BioSociety,Business Club President
+Michael Moore,18,Environmental Science,2.05,Freshman,Coding Club,Intern at StartUp
+Jane Smith,19,Economics,2.51,Freshman,Green Club,Tutor at MathCenter
+Christopher Jackson,20,Environmental Science,2.82,Sophomore,IEEE Member,Research Assistant
+James Clark,19,Electrical Engineering,3.19,Senior,Coding Club,Intern at StartUp
+Jessica Doe,20,Computer Science,2.37,Junior,Green Club,Business Club President
+John Doe,19,Biology,3.36,Junior,ChemClub,Business Club President
+Thomas Jackson,20,Environmental Science,2.63,Sophomore,Debate Team,Business Club President
+Christopher Johnson,21,Civil Engineering,2.99,Freshman,Coding Club,Part-time at ElectricWorks
+Patricia Thomas,22,Business Administration,2.57,Freshman,Coding Club,Part-time at ElectricWorks
+Mary Johnson,19,Chemistry,3.0,Freshman,Business Club,Intern at TechCorp
+David White,21,Environmental Science,2.76,Sophomore,Business Club,Research Assistant
+Jane Harris,22,Economics,3.0,Senior,ASCE Member,Member of ChemClub
+Christopher Anderson,22,Biology,2.93,Senior,Business Club,Research Assistant
+Linda Taylor,19,Physics,3.13,Senior,Math Club,Tutor at MathCenter
+David Thomas,21,Environmental Science,2.74,Sophomore,Coding Club,Intern at ResearchLab
+Christopher Doe,25,Economics,2.83,Sophomore,Green Club,Part-time at BuildCorp
+Thomas Thomas,20,Biology,3.62,Freshman,Soccer Club,Intern at TechCorp
+Patricia Brown,25,Civil Engineering,2.44,Junior,ASCE Member,Research Assistant
+Mary Harris,20,Economics,3.63,Junior,Research Assistant,Member of ChemClub
+Mary Doe,24,Chemistry,2.4,Sophomore,ASCE Member,Intern at TechCorp
+Emily Moore,21,Business Administration,2.01,Freshman,ChemClub,Business Club President
+Thomas White,25,Biology,2.47,Sophomore,IEEE Member,Tutor at MathCenter
+Robert Martin,21,Computer Science,2.38,Sophomore,IEEE Member,Intern at TechCorp
+Michael Moore,20,Economics,2.97,Senior,Robotics Team,Part-time at MarketPlace
+David Wilson,23,Electrical Engineering,2.72,Senior,Soccer Club,Part-time at BuildCorp
+Thomas Johnson,23,Computer Science,2.09,Sophomore,Debate Team,Part-time at ElectricWorks
+Patricia White,20,Civil Engineering,2.72,Senior,Math Club,Part-time at ElectricWorks
+David Jackson,24,Environmental Science,2.16,Sophomore,Business Club,Intern at StartUp
+Jessica Brown,24,Chemistry,3.5,Freshman,Business Club,Tutor at MathCenter
+Barbara Smith,19,Mathematics,2.41,Junior,Soccer Club,Member of ChemClub
+Barbara Thomas,20,Economics,3.96,Junior,Math Club,Research Assistant
+Thomas Doe,22,Business Administration,3.1,Sophomore,ASCE Member,Intern at StartUp
+Sarah Johnson,18,Civil Engineering,3.97,Sophomore,BioSociety,Part-time at MarketPlace
+Sarah Harris,21,Economics,2.68,Junior,ASCE Member,Intern at StartUp
+Christopher Thomas,24,Business Administration,2.18,Sophomore,ASCE Member,Intern at ResearchLab
+Linda Thomas,21,Physics,3.61,Freshman,Coding Club,Part-time at AutoWorks
+Jessica Johnson,23,Business Administration,3.21,Sophomore,Robotics Team,Intern at TechCorp
+Patricia Thomas,25,Biology,2.21,Senior,Robotics Team,Intern at TechCorp
+Robert Taylor,18,Environmental Science,3.08,Sophomore,Robotics Team,Part-time at MarketPlace
+John Johnson,21,Mathematics,2.42,Junior,Debate Team,Part-time at MarketPlace
+Christopher White,22,Physics,3.67,Sophomore,Coding Club,Intern at StartUp
+Jane Harris,24,Chemistry,2.4,Junior,BioSociety,Part-time at ElectricWorks
+James Harris,20,Civil Engineering,3.84,Sophomore,BioSociety,Part-time at AutoWorks
+John Brown,23,Physics,2.39,Junior,Coding Club,Tutor at MathCenter
+Patricia White,22,Business Administration,2.17,Sophomore,Math Club,Part-time at BuildCorp
+Linda Wilson,19,Civil Engineering,2.25,Senior,Debate Team,Research Assistant
+David Smith,23,Economics,2.55,Junior,Soccer Club,Research Assistant
+Robert Wilson,23,Economics,3.08,Senior,Soccer Club,Part-time at ElectricWorks
+Christopher White,23,Business Administration,3.26,Junior,ChemClub,Part-time at BuildCorp
+Sarah Taylor,23,Civil Engineering,2.99,Junior,Robotics Team,Research Assistant
+Jessica Davis,20,Economics,3.76,Freshman,Research Assistant,Part-time at AutoWorks
+Christopher Harris,22,Civil Engineering,2.89,Sophomore,Green Club,Intern at TechCorp
+John Davis,24,Environmental Science,3.22,Junior,BioSociety,Part-time at MarketPlace
+Barbara Clark,18,Mathematics,2.65,Junior,IEEE Member,Part-time at AutoWorks
+James Davis,25,Business Administration,2.78,Sophomore,Debate Team,Business Club President
+Patricia Harris,25,Chemistry,2.8,Junior,Business Club,Part-time at BuildCorp
+Michael Smith,20,Business Administration,2.13,Sophomore,Research Assistant,Part-time at MarketPlace
+Barbara Thomas,25,Biology,3.25,Junior,Soccer Club,Intern at ResearchLab
+Jane White,18,Business Administration,2.89,Sophomore,ChemClub,Member of BioSociety
+Mary Smith,20,Economics,2.7,Senior,Business Club,Part-time at ElectricWorks
+Jane White,24,Chemistry,3.39,Sophomore,IEEE Member,Intern at TechCorp
+Jessica Jackson,21,Electrical Engineering,2.87,Senior,Green Club,Member of BioSociety
+Emily Jackson,21,Mathematics,3.59,Senior,ChemClub,Tutor at MathCenter
+Barbara Johnson,18,Economics,2.22,Freshman,BioSociety,Member of BioSociety
+Linda Doe,25,Electrical Engineering,3.42,Senior,Debate Team,Part-time at ElectricWorks
+John Taylor,25,Electrical Engineering,3.46,Sophomore,Coding Club,Member of ChemClub
+Thomas Johnson,20,Mechanical Engineering,3.1,Junior,Research Assistant,Intern at ResearchLab
+Robert White,23,Biology,3.57,Senior,ChemClub,Intern at StartUp
+Jane Moore,23,Electrical Engineering,2.24,Freshman,ASCE Member,Part-time at AutoWorks
+Thomas Jackson,20,Chemistry,3.79,Senior,Green Club,Part-time at ElectricWorks
+Mary Smith,21,Mathematics,2.35,Senior,ASCE Member,Part-time at ElectricWorks
+David Smith,24,Mathematics,2.33,Senior,Soccer Club,Part-time at BuildCorp
+Jessica Wilson,22,Business Administration,2.69,Junior,ASCE Member,Intern at ResearchLab
+Christopher Smith,22,Biology,3.73,Junior,Green Club,Research Assistant
+James White,22,Mechanical Engineering,2.25,Senior,Research Assistant,Part-time at BuildCorp
+Thomas Martin,23,Chemistry,3.88,Senior,IEEE Member,Research Assistant
+Robert Davis,21,Chemistry,2.24,Senior,Robotics Team,Part-time at MarketPlace
+Christopher Anderson,20,Civil Engineering,3.3,Freshman,BioSociety,Member of BioSociety
+Mary Moore,20,Physics,2.69,Sophomore,Math Club,Intern at StartUp
+Emily Anderson,19,Biology,3.96,Sophomore,ChemClub,Part-time at MarketPlace
+Thomas Davis,24,Chemistry,2.98,Freshman,Debate Team,Member of ChemClub
+Linda White,18,Civil Engineering,2.4,Junior,ChemClub,Intern at TechCorp
+Christopher Thomas,24,Mechanical Engineering,3.69,Senior,Math Club,Intern at TechCorp
+Thomas Brown,18,Mathematics,3.04,Senior,IEEE Member,Member of BioSociety
+Emily Davis,25,Physics,2.77,Junior,Green Club,Part-time at ElectricWorks
+Jessica Martin,21,Environmental Science,2.54,Freshman,Math Club,Part-time at BuildCorp
+Robert Martin,18,Business Administration,2.94,Sophomore,IEEE Member,Tutor at MathCenter
+James White,22,Economics,3.64,Freshman,Debate Team,Research Assistant
+Michael Davis,22,Biology,2.49,Senior,Green Club,Part-time at BuildCorp
+James Wilson,24,Environmental Science,3.86,Sophomore,IEEE Member,Intern at StartUp
+Jane Martin,21,Business Administration,3.63,Freshman,ChemClub,Intern at StartUp
+Sarah Martin,20,Environmental Science,3.18,Sophomore,Green Club,Part-time at BuildCorp
+David Davis,22,Environmental Science,2.27,Freshman,Soccer Club,Tutor at MathCenter
+Emily Thomas,24,Business Administration,2.87,Freshman,Coding Club,Member of BioSociety
+Barbara Brown,21,Mechanical Engineering,2.69,Sophomore,ChemClub,Part-time at MarketPlace
+Robert Martin,22,Economics,3.22,Junior,Soccer Club,Intern at ResearchLab
+Patricia Davis,19,Business Administration,2.63,Senior,ASCE Member,Member of ChemClub
+David Harris,22,Electrical Engineering,3.2,Freshman,ChemClub,Part-time at BuildCorp
+Christopher Davis,22,Business Administration,2.13,Sophomore,ASCE Member,Part-time at BuildCorp
+Thomas Davis,22,Civil Engineering,3.77,Freshman,Math Club,Intern at StartUp
+Robert Doe,25,Mechanical Engineering,3.51,Freshman,Business Club,Member of BioSociety
+Sarah Martin,24,Business Administration,2.15,Sophomore,Soccer Club,Business Club President
+Sarah Anderson,24,Economics,2.96,Sophomore,Coding Club,Part-time at AutoWorks
+Christopher Moore,21,Business Administration,3.25,Sophomore,IEEE Member,Part-time at AutoWorks
+Emily Anderson,24,Chemistry,2.04,Junior,Robotics Team,Part-time at ElectricWorks
+David Johnson,23,Business Administration,3.12,Sophomore,Coding Club,Part-time at BuildCorp
+Jessica Anderson,25,Chemistry,3.95,Junior,Research Assistant,Intern at StartUp
+Linda Thomas,23,Biology,2.29,Senior,Soccer Club,Intern at TechCorp
+Barbara Harris,19,Civil Engineering,3.66,Sophomore,Robotics Team,Member of ChemClub
+Michael Jackson,19,Mechanical Engineering,3.12,Sophomore,ChemClub,Tutor at MathCenter
+Patricia Doe,20,Computer Science,3.54,Sophomore,Green Club,Part-time at BuildCorp
+Jessica Johnson,18,Computer Science,3.19,Sophomore,Coding Club,Part-time at AutoWorks
+Sarah Moore,20,Chemistry,2.7,Senior,Soccer Club,Part-time at ElectricWorks
+Jessica Clark,24,Electrical Engineering,3.22,Junior,Math Club,Tutor at MathCenter
+Linda Smith,22,Electrical Engineering,2.15,Freshman,ASCE Member,Intern at ResearchLab
+James Smith,23,Computer Science,2.84,Freshman,Soccer Club,Part-time at ElectricWorks
+David Johnson,22,Physics,3.29,Sophomore,Soccer Club,Part-time at MarketPlace
+Jessica Harris,23,Physics,3.75,Junior,ChemClub,Intern at StartUp
+John Clark,24,Economics,2.28,Freshman,ChemClub,Business Club President
+Barbara Davis,24,Economics,2.17,Freshman,Debate Team,Intern at ResearchLab
+Thomas Jackson,23,Civil Engineering,3.67,Senior,Soccer Club,Tutor at MathCenter
+Emily White,25,Physics,3.58,Freshman,Research Assistant,Part-time at MarketPlace
+Thomas Doe,25,Mechanical Engineering,3.37,Junior,BioSociety,Research Assistant
+David Davis,18,Business Administration,2.3,Junior,Soccer Club,Part-time at ElectricWorks
+Christopher Johnson,20,Business Administration,2.53,Freshman,ChemClub,Research Assistant
+Robert Anderson,20,Physics,2.17,Senior,Math Club,Intern at StartUp
+Jessica Wilson,25,Mathematics,2.76,Sophomore,Debate Team,Part-time at BuildCorp
+Sarah Taylor,22,Physics,2.95,Freshman,Soccer Club,Member of ChemClub
+Robert Doe,21,Electrical Engineering,2.2,Senior,ChemClub,Part-time at ElectricWorks
+Robert Harris,21,Biology,3.19,Freshman,IEEE Member,Intern at StartUp
+Jane Jackson,19,Business Administration,3.01,Junior,Business Club,Business Club President
+Mary Clark,22,Business Administration,3.13,Sophomore,Business Club,Intern at ResearchLab
+Linda Martin,23,Economics,2.77,Freshman,Debate Team,Member of BioSociety
+Patricia Taylor,24,Biology,2.68,Junior,Soccer Club,Member of BioSociety
+David Martin,25,Mechanical Engineering,2.76,Sophomore,Green Club,Intern at StartUp
+Jane Johnson,25,Mathematics,2.67,Senior,Soccer Club,Business Club President
+Barbara Taylor,21,Electrical Engineering,2.14,Sophomore,Research Assistant,Member of ChemClub
+Michael Anderson,22,Mechanical Engineering,2.52,Sophomore,ASCE Member,Intern at ResearchLab
+Robert White,20,Electrical Engineering,3.47,Junior,IEEE Member,Part-time at MarketPlace
+Jessica White,19,Chemistry,2.16,Junior,ChemClub,Intern at ResearchLab
+John Thomas,19,Civil Engineering,3.34,Senior,Math Club,Part-time at BuildCorp
+Thomas Harris,20,Computer Science,3.47,Sophomore,Math Club,Part-time at BuildCorp
+Mary Johnson,25,Electrical Engineering,2.45,Sophomore,Research Assistant,Part-time at BuildCorp
+David Wilson,24,Physics,2.54,Sophomore,Business Club,Part-time at AutoWorks
+Christopher Johnson,20,Business Administration,3.03,Freshman,Debate Team,Part-time at BuildCorp
+Michael Clark,22,Economics,2.21,Freshman,Robotics Team,Member of BioSociety
+Barbara Taylor,20,Civil Engineering,3.81,Freshman,Coding Club,Intern at TechCorp
+Robert Doe,19,Business Administration,4.0,Sophomore,ChemClub,Tutor at MathCenter
+Thomas Anderson,25,Chemistry,2.45,Freshman,IEEE Member,Part-time at BuildCorp
+Thomas Moore,19,Economics,2.24,Sophomore,Debate Team,Tutor at MathCenter
+Jane White,19,Chemistry,2.59,Junior,BioSociety,Member of ChemClub
+Emily Smith,18,Mathematics,3.87,Freshman,BioSociety,Part-time at BuildCorp
+John Johnson,19,Business Administration,3.62,Freshman,BioSociety,Part-time at ElectricWorks
+David White,20,Biology,2.66,Senior,Business Club,Tutor at MathCenter
+John Doe,20,Mathematics,2.67,Junior,Research Assistant,Intern at TechCorp
+Thomas Jackson,21,Chemistry,2.29,Junior,IEEE Member,Intern at StartUp
+Barbara Wilson,25,Physics,2.95,Senior,Business Club,Intern at StartUp
+Patricia Brown,20,Mechanical Engineering,3.98,Junior,Robotics Team,Intern at TechCorp
+Christopher Davis,22,Computer Science,2.39,Sophomore,ASCE Member,Part-time at ElectricWorks
+Jane Davis,20,Computer Science,2.02,Junior,Soccer Club,Tutor at MathCenter
+Michael Jackson,18,Biology,2.02,Junior,Business Club,Part-time at AutoWorks
+Michael Taylor,19,Biology,3.93,Freshman,Robotics Team,Part-time at AutoWorks
+Linda Taylor,25,Electrical Engineering,3.68,Junior,IEEE Member,Part-time at BuildCorp
+Robert Taylor,22,Chemistry,2.12,Sophomore,ChemClub,Part-time at MarketPlace
+Robert Brown,21,Chemistry,2.11,Freshman,Debate Team,Tutor at MathCenter
+Sarah Clark,18,Economics,3.99,Junior,IEEE Member,Intern at ResearchLab
+John Wilson,18,Mechanical Engineering,3.5,Senior,Research Assistant,Intern at TechCorp
+James Moore,20,Biology,3.35,Senior,Robotics Team,Member of BioSociety
+John Martin,20,Economics,2.7,Freshman,BioSociety,Research Assistant
+Christopher Anderson,19,Physics,3.68,Freshman,Math Club,Member of BioSociety
+Emily Clark,19,Chemistry,2.64,Sophomore,Soccer Club,Research Assistant
+Jessica Moore,20,Mathematics,3.31,Senior,BioSociety,Tutor at MathCenter
+Robert Doe,20,Environmental Science,3.89,Sophomore,Business Club,Intern at StartUp
+John Davis,19,Mechanical Engineering,3.17,Junior,Coding Club,Part-time at AutoWorks
+Jessica Thomas,19,Electrical Engineering,2.99,Sophomore,Robotics Team,Intern at StartUp
+John Moore,18,Physics,2.26,Senior,Soccer Club,Part-time at MarketPlace
+Barbara Wilson,24,Chemistry,2.51,Freshman,Robotics Team,Part-time at AutoWorks
+James Smith,20,Physics,2.27,Sophomore,ChemClub,Member of ChemClub
+Christopher Johnson,23,Mechanical Engineering,2.29,Senior,Math Club,Member of BioSociety
+Emily Taylor,21,Computer Science,3.54,Sophomore,BioSociety,Part-time at AutoWorks
+Sarah Wilson,24,Civil Engineering,3.53,Junior,Soccer Club,Tutor at MathCenter
+Robert Anderson,21,Mathematics,2.51,Freshman,IEEE Member,Business Club President
+Patricia Moore,23,Biology,2.99,Sophomore,Green Club,Intern at TechCorp
+Patricia Doe,21,Electrical Engineering,3.42,Freshman,ChemClub,Part-time at BuildCorp
+James Brown,20,Biology,3.9,Senior,IEEE Member,Research Assistant
+Linda Doe,18,Mechanical Engineering,3.12,Junior,Research Assistant,Research Assistant
+Emily Jackson,24,Mathematics,3.85,Sophomore,Robotics Team,Part-time at MarketPlace
+Barbara Martin,20,Mathematics,3.54,Freshman,Debate Team,Business Club President
+Thomas Doe,25,Mechanical Engineering,3.3,Senior,Math Club,Member of ChemClub
+Sarah Anderson,22,Economics,2.52,Freshman,Coding Club,Intern at ResearchLab
+David Jackson,18,Electrical Engineering,2.31,Sophomore,Robotics Team,Research Assistant
+Christopher Doe,22,Mathematics,3.0,Junior,ASCE Member,Member of ChemClub
+Robert White,23,Physics,2.37,Senior,Coding Club,Intern at StartUp
+David Clark,20,Physics,3.36,Freshman,Debate Team,Intern at StartUp
+John Doe,20,Electrical Engineering,2.24,Freshman,ChemClub,Intern at ResearchLab
+Michael Clark,20,Civil Engineering,3.2,Junior,Soccer Club,Research Assistant
+Mary Davis,25,Electrical Engineering,2.11,Freshman,IEEE Member,Part-time at BuildCorp
+Thomas Thomas,23,Mechanical Engineering,3.51,Sophomore,Business Club,Intern at TechCorp
+Michael Clark,24,Biology,2.45,Sophomore,ChemClub,Intern at ResearchLab
+Christopher Harris,24,Biology,3.14,Freshman,Business Club,Part-time at ElectricWorks
+John Jackson,25,Physics,2.02,Senior,ChemClub,Part-time at MarketPlace
+Robert Johnson,23,Mechanical Engineering,3.35,Sophomore,Business Club,Research Assistant
+Michael Smith,23,Mathematics,3.4,Sophomore,Green Club,Intern at StartUp
+Jessica Thomas,24,Chemistry,2.14,Junior,Coding Club,Member of BioSociety
+Michael White,23,Chemistry,2.37,Junior,ChemClub,Business Club President
+Emily White,19,Business Administration,2.98,Sophomore,BioSociety,Intern at ResearchLab
+David Moore,21,Computer Science,2.9,Junior,Soccer Club,Tutor at MathCenter
+Mary Johnson,20,Civil Engineering,2.16,Senior,Math Club,Research Assistant
+John Taylor,20,Business Administration,2.85,Junior,Robotics Team,Part-time at MarketPlace
+Linda Moore,22,Civil Engineering,3.78,Sophomore,ASCE Member,Tutor at MathCenter
+Linda Smith,18,Computer Science,2.15,Senior,Business Club,Intern at TechCorp
+Christopher Smith,20,Biology,3.51,Senior,Business Club,Part-time at BuildCorp
+Linda Taylor,22,Environmental Science,2.66,Senior,Soccer Club,Intern at StartUp
+Mary Johnson,21,Physics,3.18,Sophomore,Business Club,Tutor at MathCenter
+David Anderson,20,Economics,2.9,Sophomore,Green Club,Part-time at BuildCorp
+David Taylor,18,Electrical Engineering,3.7,Freshman,Green Club,Part-time at BuildCorp
+Jane Anderson,20,Chemistry,3.93,Sophomore,BioSociety,Intern at StartUp
+Thomas Clark,21,Chemistry,3.83,Junior,Robotics Team,Intern at ResearchLab
+Michael Taylor,20,Civil Engineering,3.83,Senior,Coding Club,Tutor at MathCenter
+Emily Davis,22,Mathematics,2.58,Freshman,Math Club,Intern at ResearchLab
+Jane Taylor,20,Business Administration,2.11,Freshman,Coding Club,Business Club President
+Mary Thomas,19,Computer Science,2.52,Junior,Business Club,Business Club President
+Patricia Brown,21,Mathematics,3.78,Senior,Soccer Club,Intern at TechCorp
+Thomas Smith,22,Mechanical Engineering,3.75,Senior,BioSociety,Research Assistant
+Patricia Martin,25,Business Administration,3.46,Senior,BioSociety,Tutor at MathCenter
+Jane Doe,24,Civil Engineering,3.82,Sophomore,BioSociety,Tutor at MathCenter
+James Martin,24,Electrical Engineering,3.07,Senior,Research Assistant,Part-time at BuildCorp
+Mary Harris,19,Biology,2.66,Junior,IEEE Member,Intern at StartUp
+Mary Brown,25,Physics,2.14,Sophomore,Math Club,Intern at StartUp
+Sarah Moore,19,Economics,3.72,Senior,Soccer Club,Part-time at ElectricWorks
+Jane Harris,23,Environmental Science,3.57,Freshman,Soccer Club,Intern at TechCorp
+David Wilson,22,Mechanical Engineering,3.53,Sophomore,Math Club,Part-time at BuildCorp
+Thomas Doe,23,Business Administration,2.97,Junior,Soccer Club,Intern at ResearchLab
+Jane Harris,20,Environmental Science,2.47,Sophomore,ChemClub,Part-time at MarketPlace
+Michael Martin,25,Environmental Science,2.42,Junior,Math Club,Tutor at MathCenter
+Patricia Jackson,23,Physics,2.65,Junior,Math Club,Part-time at MarketPlace
+Mary Doe,22,Environmental Science,2.99,Junior,Debate Team,Tutor at MathCenter
+James Martin,25,Civil Engineering,3.96,Sophomore,Green Club,Research Assistant
+Barbara Moore,23,Environmental Science,3.94,Senior,IEEE Member,Part-time at ElectricWorks
+Sarah Smith,25,Electrical Engineering,2.54,Sophomore,IEEE Member,Member of ChemClub
+Sarah Taylor,19,Business Administration,3.91,Junior,Business Club,Part-time at MarketPlace
+Sarah Anderson,23,Computer Science,2.8,Sophomore,Debate Team,Part-time at AutoWorks
+David Brown,22,Civil Engineering,3.81,Sophomore,Business Club,Member of BioSociety
+Michael White,19,Economics,3.01,Sophomore,Business Club,Intern at ResearchLab
+Jessica Clark,19,Business Administration,3.05,Senior,Business Club,Part-time at MarketPlace
+John Doe,24,Mathematics,3.49,Sophomore,Research Assistant,Research Assistant
+Linda Martin,25,Mechanical Engineering,3.66,Junior,Research Assistant,Business Club President
+Thomas Moore,22,Biology,3.22,Freshman,ChemClub,Member of ChemClub
+Sarah Doe,21,Mathematics,2.56,Senior,IEEE Member,Member of BioSociety
+Patricia Wilson,21,Electrical Engineering,2.21,Junior,Math Club,Part-time at MarketPlace
+Sarah White,25,Civil Engineering,3.97,Sophomore,Business Club,Intern at ResearchLab
+Sarah Brown,25,Computer Science,3.61,Senior,Robotics Team,Part-time at AutoWorks
+Linda Clark,23,Mathematics,3.08,Sophomore,ChemClub,Tutor at MathCenter
+Sarah Wilson,22,Computer Science,2.07,Junior,Green Club,Part-time at AutoWorks
+David Thomas,19,Chemistry,2.64,Senior,Business Club,Part-time at MarketPlace
+Michael Martin,23,Chemistry,3.35,Junior,IEEE Member,Intern at ResearchLab
+Sarah Jackson,18,Mechanical Engineering,3.22,Freshman,Green Club,Intern at TechCorp
+Patricia Clark,24,Economics,2.79,Junior,ChemClub,Part-time at ElectricWorks
+Jane Moore,24,Computer Science,2.91,Junior,Robotics Team,Business Club President
+Sarah Jackson,18,Economics,3.06,Junior,Green Club,Intern at TechCorp
+John Smith,18,Business Administration,2.32,Junior,Coding Club,Intern at TechCorp
+Jane Johnson,24,Biology,3.22,Freshman,IEEE Member,Member of BioSociety
+Barbara Brown,19,Biology,2.98,Freshman,Math Club,Part-time at MarketPlace
+Jane Taylor,20,Environmental Science,2.18,Junior,Business Club,Intern at TechCorp
+Michael Smith,18,Civil Engineering,3.11,Freshman,ChemClub,Business Club President
+Emily Anderson,25,Civil Engineering,3.05,Senior,ASCE Member,Part-time at BuildCorp
+Linda Doe,21,Computer Science,3.98,Senior,Soccer Club,Part-time at AutoWorks
+James Wilson,18,Biology,2.71,Junior,Soccer Club,Intern at TechCorp
+Robert Doe,20,Computer Science,3.22,Freshman,Green Club,Business Club President
+Mary Harris,19,Chemistry,3.82,Senior,IEEE Member,Business Club President
+Mary Wilson,22,Mathematics,2.89,Senior,Research Assistant,Part-time at ElectricWorks
+Patricia Moore,18,Economics,2.2,Junior,IEEE Member,Part-time at ElectricWorks
+Jessica Davis,20,Biology,3.5,Freshman,ASCE Member,Intern at StartUp
+James Harris,23,Physics,3.81,Freshman,Debate Team,Intern at StartUp
+Linda Taylor,19,Business Administration,2.37,Sophomore,Coding Club,Part-time at ElectricWorks
+Patricia Johnson,22,Business Administration,3.53,Junior,Coding Club,Part-time at ElectricWorks
+Jane Brown,20,Environmental Science,4.0,Senior,BioSociety,Tutor at MathCenter
+Jessica White,21,Biology,2.0,Sophomore,Robotics Team,Member of ChemClub
+David Wilson,22,Biology,3.53,Junior,Robotics Team,Tutor at MathCenter
+Michael White,20,Biology,2.27,Senior,ASCE Member,Intern at TechCorp
+Michael Johnson,19,Economics,3.99,Junior,ASCE Member,Intern at TechCorp
+Emily Doe,23,Economics,3.33,Freshman,Research Assistant,Member of ChemClub
+Robert Clark,24,Mathematics,2.62,Junior,ASCE Member,Member of ChemClub
+Thomas Clark,23,Biology,3.89,Senior,Debate Team,Business Club President
+Thomas Taylor,22,Biology,3.24,Junior,ChemClub,Intern at StartUp
+James Wilson,23,Mechanical Engineering,2.28,Senior,ChemClub,Intern at StartUp
+John Clark,22,Environmental Science,3.87,Freshman,Robotics Team,Intern at TechCorp
+Michael Johnson,21,Biology,3.72,Freshman,Coding Club,Intern at TechCorp
+Linda White,19,Biology,3.58,Freshman,Green Club,Tutor at MathCenter
+Sarah Davis,20,Electrical Engineering,3.98,Freshman,Research Assistant,Member of ChemClub
+Sarah Martin,23,Mechanical Engineering,2.01,Sophomore,Math Club,Intern at StartUp
+Jane Johnson,20,Mechanical Engineering,3.23,Freshman,Debate Team,Business Club President
+Jessica White,20,Biology,2.9,Freshman,ASCE Member,Research Assistant
+Patricia Thomas,24,Mechanical Engineering,2.83,Sophomore,BioSociety,Tutor at MathCenter
+Patricia Moore,23,Computer Science,3.23,Freshman,ASCE Member,Research Assistant
+Michael Jackson,25,Mathematics,2.59,Junior,Soccer Club,Part-time at AutoWorks
+Christopher Jackson,23,Mechanical Engineering,2.53,Junior,Math Club,Part-time at AutoWorks
+James Thomas,24,Computer Science,2.63,Freshman,ChemClub,Part-time at BuildCorp
+David Davis,25,Civil Engineering,3.8,Sophomore,ASCE Member,Member of BioSociety
+David Thomas,18,Environmental Science,2.23,Junior,BioSociety,Intern at TechCorp
+David Harris,19,Mechanical Engineering,3.47,Junior,ChemClub,Part-time at BuildCorp
+David Moore,18,Civil Engineering,2.99,Senior,ASCE Member,Part-time at MarketPlace
+Christopher Johnson,19,Business Administration,2.6,Freshman,Math Club,Business Club President
+Thomas Clark,19,Electrical Engineering,2.44,Sophomore,Coding Club,Part-time at BuildCorp
+Mary Clark,18,Business Administration,3.02,Junior,IEEE Member,Research Assistant
+John Davis,23,Biology,3.66,Senior,Business Club,Intern at StartUp
+Linda Wilson,20,Mechanical Engineering,2.47,Junior,Robotics Team,Tutor at MathCenter
+Robert Davis,19,Physics,3.15,Junior,IEEE Member,Intern at StartUp
+Michael Jackson,21,Mathematics,3.56,Junior,BioSociety,Tutor at MathCenter
+John Anderson,18,Economics,2.92,Sophomore,Soccer Club,Part-time at AutoWorks
+Emily Moore,18,Computer Science,3.18,Junior,Debate Team,Tutor at MathCenter
+John Wilson,21,Electrical Engineering,2.34,Junior,IEEE Member,Intern at TechCorp
+Robert Jackson,21,Computer Science,2.89,Freshman,Coding Club,Tutor at MathCenter
+Michael Moore,18,Physics,2.29,Freshman,Coding Club,Part-time at ElectricWorks
+David Doe,19,Environmental Science,2.58,Sophomore,BioSociety,Member of BioSociety
+Christopher Taylor,23,Biology,3.62,Freshman,IEEE Member,Part-time at ElectricWorks
+Sarah Taylor,25,Physics,2.45,Freshman,Debate Team,Research Assistant
+Sarah Brown,18,Mechanical Engineering,2.8,Sophomore,ChemClub,Intern at StartUp
+Jane Anderson,23,Mechanical Engineering,3.74,Freshman,Debate Team,Tutor at MathCenter
+Jane Davis,25,Computer Science,2.51,Senior,IEEE Member,Member of ChemClub
+Jane Taylor,19,Electrical Engineering,3.13,Freshman,ASCE Member,Intern at ResearchLab
+Emily Taylor,21,Business Administration,2.31,Freshman,Soccer Club,Member of ChemClub
+Emily Martin,19,Chemistry,2.71,Sophomore,Coding Club,Part-time at BuildCorp
+Emily Davis,25,Economics,3.18,Junior,IEEE Member,Part-time at AutoWorks
+Sarah Anderson,22,Environmental Science,3.61,Sophomore,Debate Team,Tutor at MathCenter
+David Wilson,21,Electrical Engineering,2.69,Freshman,Math Club,Part-time at AutoWorks
+Robert Harris,19,Mechanical Engineering,3.58,Freshman,ChemClub,Part-time at ElectricWorks
+Mary Jackson,21,Business Administration,2.03,Senior,ChemClub,Intern at TechCorp
+Michael Clark,23,Chemistry,2.48,Freshman,Green Club,Member of BioSociety
+Jessica Brown,20,Environmental Science,2.81,Freshman,Coding Club,Part-time at ElectricWorks
+Emily Jackson,19,Environmental Science,3.0,Freshman,Business Club,Research Assistant
+Sarah Brown,23,Economics,2.01,Freshman,BioSociety,Part-time at MarketPlace
+Thomas Clark,23,Mathematics,2.08,Freshman,IEEE Member,Business Club President
+Sarah Moore,24,Business Administration,2.38,Junior,Math Club,Member of BioSociety
+David Taylor,21,Biology,3.9,Junior,Green Club,Business Club President
+Christopher Doe,25,Civil Engineering,2.51,Senior,Soccer Club,Part-time at ElectricWorks
+Jane Brown,20,Computer Science,3.87,Freshman,Math Club,Part-time at BuildCorp
+Barbara Brown,20,Biology,2.92,Sophomore,Math Club,Tutor at MathCenter
+Mary White,19,Chemistry,2.97,Junior,Research Assistant,Part-time at AutoWorks
+Barbara Taylor,18,Physics,3.67,Freshman,Robotics Team,Part-time at BuildCorp
+David Jackson,25,Civil Engineering,3.33,Senior,Debate Team,Part-time at ElectricWorks
+Linda Clark,25,Mechanical Engineering,2.2,Junior,Debate Team,Part-time at AutoWorks
+Robert Taylor,25,Environmental Science,3.18,Junior,ASCE Member,Research Assistant
+Christopher Martin,18,Business Administration,3.03,Senior,Robotics Team,Intern at ResearchLab
+James Thomas,25,Computer Science,3.97,Sophomore,Green Club,Tutor at MathCenter
+Patricia Moore,25,Mathematics,3.86,Sophomore,Coding Club,Part-time at ElectricWorks
+Emily Anderson,25,Civil Engineering,2.79,Sophomore,Research Assistant,Part-time at ElectricWorks
+Sarah Moore,19,Business Administration,2.77,Freshman,ASCE Member,Research Assistant
+Barbara Clark,22,Chemistry,2.9,Sophomore,IEEE Member,Member of ChemClub
+Jessica Anderson,25,Biology,2.61,Junior,Green Club,Intern at StartUp
+Barbara Davis,18,Electrical Engineering,2.3,Junior,Green Club,Business Club President
+Christopher Davis,22,Biology,2.63,Senior,Soccer Club,Intern at ResearchLab
+Emily Brown,21,Civil Engineering,3.47,Senior,BioSociety,Tutor at MathCenter
+Christopher Anderson,18,Electrical Engineering,2.77,Junior,Research Assistant,Intern at ResearchLab
+Michael Thomas,22,Computer Science,3.31,Freshman,BioSociety,Intern at TechCorp
+Michael Moore,22,Electrical Engineering,3.38,Freshman,Soccer Club,Part-time at MarketPlace
+David Wilson,19,Civil Engineering,3.31,Senior,Soccer Club,Part-time at AutoWorks
+John Brown,22,Electrical Engineering,2.14,Sophomore,Business Club,Intern at StartUp
+Jane Harris,21,Civil Engineering,3.66,Senior,Coding Club,Intern at StartUp
+Jessica Brown,19,Chemistry,2.34,Senior,IEEE Member,Member of ChemClub
+Robert Taylor,24,Environmental Science,2.66,Freshman,IEEE Member,Intern at StartUp
+Robert Martin,24,Biology,2.47,Freshman,Green Club,Intern at StartUp
+Thomas Jackson,25,Physics,3.12,Junior,Business Club,Part-time at MarketPlace
+Thomas Johnson,19,Economics,3.31,Junior,IEEE Member,Business Club President
+John Moore,22,Civil Engineering,2.31,Freshman,ASCE Member,Part-time at AutoWorks
+Robert Moore,23,Business Administration,3.02,Sophomore,Debate Team,Intern at ResearchLab
+John Moore,21,Computer Science,3.72,Sophomore,Robotics Team,Research Assistant
+Sarah Martin,23,Computer Science,3.44,Freshman,ChemClub,Business Club President
+John Doe,21,Mechanical Engineering,2.46,Senior,Math Club,Business Club President
+Christopher Wilson,20,Mathematics,3.13,Freshman,ASCE Member,Business Club President
+Patricia Martin,25,Environmental Science,3.74,Junior,Coding Club,Part-time at BuildCorp
+Patricia Thomas,19,Computer Science,2.2,Senior,Green Club,Research Assistant
+James White,23,Mathematics,2.39,Junior,Green Club,Part-time at BuildCorp
+Linda Wilson,20,Economics,3.99,Senior,IEEE Member,Intern at StartUp
+Robert White,19,Environmental Science,3.71,Sophomore,Research Assistant,Member of BioSociety
+Emily Thomas,25,Chemistry,3.38,Freshman,ASCE Member,Member of ChemClub
+Michael Moore,22,Civil Engineering,2.48,Senior,Business Club,Part-time at MarketPlace
+John Anderson,18,Electrical Engineering,3.64,Senior,BioSociety,Intern at StartUp
+John Johnson,18,Economics,2.0,Junior,BioSociety,Intern at ResearchLab
+John Thomas,22,Economics,2.51,Freshman,Business Club,Business Club President
+David Clark,21,Environmental Science,2.05,Junior,Robotics Team,Intern at StartUp
+Barbara Clark,20,Chemistry,2.36,Senior,Robotics Team,Business Club President
+Jessica Wilson,25,Economics,3.06,Senior,Math Club,Part-time at ElectricWorks
+Jane Anderson,21,Civil Engineering,2.87,Junior,Green Club,Part-time at MarketPlace
+James Jackson,19,Physics,2.4,Senior,ASCE Member,Part-time at ElectricWorks
+Linda Johnson,21,Business Administration,2.78,Senior,Soccer Club,Intern at TechCorp
+Barbara Moore,23,Business Administration,3.89,Senior,Soccer Club,Part-time at MarketPlace
+Michael Anderson,20,Civil Engineering,2.45,Freshman,Math Club,Intern at StartUp
+Emily Wilson,18,Civil Engineering,2.36,Junior,Debate Team,Part-time at AutoWorks
+Robert Moore,22,Civil Engineering,2.01,Senior,IEEE Member,Part-time at ElectricWorks
+John Brown,20,Economics,2.24,Senior,ChemClub,Research Assistant
+David White,18,Business Administration,2.95,Junior,ChemClub,Tutor at MathCenter
+Christopher Davis,24,Biology,2.05,Freshman,Business Club,Member of BioSociety
+David Martin,24,Biology,2.37,Freshman,Green Club,Part-time at BuildCorp
+Michael White,24,Business Administration,3.12,Freshman,Debate Team,Member of ChemClub
+Jane Harris,22,Biology,2.99,Sophomore,Research Assistant,Intern at ResearchLab
+Barbara Johnson,23,Business Administration,3.85,Freshman,Robotics Team,Part-time at BuildCorp
+David Clark,25,Economics,3.63,Senior,Robotics Team,Part-time at AutoWorks
+Sarah Jackson,22,Civil Engineering,3.85,Senior,ChemClub,Part-time at AutoWorks
+Linda Clark,20,Physics,3.48,Junior,Debate Team,Part-time at ElectricWorks
+James Moore,25,Computer Science,3.67,Senior,Green Club,Tutor at MathCenter
+Patricia White,19,Chemistry,3.51,Sophomore,ASCE Member,Business Club President
+Linda White,20,Physics,3.07,Sophomore,Business Club,Member of ChemClub
+David Wilson,24,Physics,3.11,Sophomore,Robotics Team,Tutor at MathCenter
+Jessica Thomas,18,Mechanical Engineering,2.98,Sophomore,ASCE Member,Member of BioSociety
+Mary Jackson,25,Mathematics,3.97,Freshman,Math Club,Research Assistant
+Patricia Jackson,21,Mathematics,2.33,Sophomore,ChemClub,Intern at TechCorp
+Christopher Wilson,25,Mechanical Engineering,3.22,Junior,Debate Team,Research Assistant
+Thomas Harris,18,Economics,3.49,Freshman,Coding Club,Research Assistant
+Christopher Brown,24,Business Administration,2.34,Freshman,IEEE Member,Intern at StartUp
+Patricia Harris,23,Mechanical Engineering,2.38,Senior,IEEE Member,Part-time at BuildCorp
+David Taylor,19,Economics,2.41,Senior,Coding Club,Intern at ResearchLab
+Emily Taylor,23,Mechanical Engineering,2.29,Junior,Soccer Club,Intern at TechCorp
+Jane Davis,23,Mechanical Engineering,3.74,Sophomore,Coding Club,Tutor at MathCenter
+Christopher Wilson,25,Business Administration,2.21,Sophomore,BioSociety,Part-time at AutoWorks
+Jessica Martin,21,Computer Science,3.06,Junior,Research Assistant,Tutor at MathCenter
+Barbara Taylor,18,Biology,2.47,Sophomore,BioSociety,Part-time at AutoWorks
+Sarah Smith,21,Physics,3.12,Freshman,ASCE Member,Part-time at BuildCorp
+Christopher Harris,24,Computer Science,2.05,Senior,Green Club,Part-time at BuildCorp
+Robert White,24,Civil Engineering,3.3,Senior,ChemClub,Intern at StartUp
+Christopher Moore,20,Civil Engineering,2.01,Sophomore,Business Club,Member of BioSociety
+Robert Wilson,21,Mathematics,2.22,Sophomore,IEEE Member,Business Club President
+Christopher Davis,22,Electrical Engineering,2.91,Freshman,IEEE Member,Tutor at MathCenter
+David White,24,Biology,2.39,Sophomore,Debate Team,Part-time at BuildCorp
+Thomas Anderson,22,Mathematics,3.46,Junior,Debate Team,Part-time at MarketPlace
+Christopher Smith,22,Chemistry,3.88,Freshman,BioSociety,Tutor at MathCenter
+Christopher Davis,19,Mathematics,2.96,Junior,Debate Team,Tutor at MathCenter
+Christopher White,18,Biology,3.5,Freshman,ASCE Member,Part-time at ElectricWorks
+Thomas Davis,22,Civil Engineering,2.52,Sophomore,Soccer Club,Business Club President
+Barbara Davis,22,Business Administration,3.17,Freshman,Green Club,Part-time at ElectricWorks
+Patricia Taylor,24,Biology,2.51,Freshman,Green Club,Research Assistant
+Barbara Clark,19,Business Administration,3.8,Senior,Robotics Team,Part-time at BuildCorp
+Christopher Thomas,22,Business Administration,3.38,Sophomore,Robotics Team,Part-time at AutoWorks
+Jessica Anderson,24,Physics,3.54,Freshman,Robotics Team,Intern at TechCorp
+Barbara Clark,19,Business Administration,3.79,Junior,ASCE Member,Intern at TechCorp
+Christopher Harris,20,Environmental Science,2.72,Senior,Math Club,Part-time at ElectricWorks
+John White,22,Business Administration,3.48,Freshman,Math Club,Part-time at AutoWorks
+James Jackson,24,Economics,3.44,Junior,Research Assistant,Part-time at ElectricWorks
+Jane Martin,23,Biology,3.92,Freshman,Soccer Club,Member of BioSociety
+David Martin,22,Computer Science,2.71,Senior,Business Club,Part-time at MarketPlace
+Jessica Clark,23,Biology,2.57,Senior,ASCE Member,Part-time at MarketPlace
+Barbara Thomas,21,Biology,3.37,Junior,BioSociety,Part-time at BuildCorp
+David Johnson,19,Chemistry,2.21,Sophomore,Debate Team,Intern at StartUp
+Jessica Harris,20,Mechanical Engineering,2.53,Sophomore,Debate Team,Part-time at BuildCorp
+Linda Johnson,20,Mathematics,2.33,Sophomore,Research Assistant,Research Assistant
+Sarah Smith,24,Mechanical Engineering,3.9,Senior,Business Club,Member of ChemClub
+John Jackson,22,Business Administration,2.88,Junior,ASCE Member,Member of BioSociety
+Robert Taylor,19,Environmental Science,2.59,Junior,Research Assistant,Tutor at MathCenter
+Thomas Anderson,25,Economics,2.98,Freshman,Robotics Team,Intern at TechCorp
+Thomas Harris,22,Computer Science,2.48,Junior,Coding Club,Member of BioSociety
+Barbara Wilson,24,Chemistry,3.17,Sophomore,Business Club,Part-time at BuildCorp
+John Smith,20,Environmental Science,3.55,Sophomore,IEEE Member,Research Assistant
+Barbara Moore,21,Mathematics,2.61,Sophomore,Coding Club,Part-time at MarketPlace
+David Anderson,19,Chemistry,3.86,Junior,Business Club,Business Club President
+Mary Anderson,24,Mathematics,2.48,Senior,BioSociety,Part-time at AutoWorks
+Jane White,22,Business Administration,3.85,Junior,Green Club,Intern at ResearchLab
+John Harris,24,Physics,2.54,Junior,IEEE Member,Intern at StartUp
+Linda Anderson,20,Civil Engineering,3.74,Sophomore,Research Assistant,Member of BioSociety
+James Harris,19,Chemistry,3.05,Sophomore,ChemClub,Part-time at AutoWorks
+Michael White,23,Mechanical Engineering,3.03,Freshman,Math Club,Intern at ResearchLab
+Sarah Clark,24,Civil Engineering,3.86,Freshman,Coding Club,Part-time at AutoWorks
+Michael Smith,22,Mathematics,3.39,Senior,Research Assistant,Part-time at BuildCorp
+Michael Wilson,22,Economics,2.95,Junior,Math Club,Part-time at ElectricWorks
+Linda Wilson,19,Computer Science,3.13,Sophomore,Soccer Club,Part-time at ElectricWorks
+Emily Jackson,22,Economics,2.33,Sophomore,IEEE Member,Member of ChemClub
+Thomas Jackson,20,Civil Engineering,2.09,Senior,ASCE Member,Part-time at ElectricWorks
+Robert Clark,18,Civil Engineering,3.71,Freshman,BioSociety,Part-time at MarketPlace
+Barbara Taylor,21,Business Administration,3.46,Junior,ASCE Member,Part-time at BuildCorp
+Michael Harris,24,Civil Engineering,2.11,Senior,Business Club,Business Club President
+Emily Anderson,21,Environmental Science,3.82,Sophomore,ChemClub,Member of BioSociety
+Patricia Brown,24,Biology,2.0,Freshman,ChemClub,Part-time at ElectricWorks
+Christopher Wilson,18,Computer Science,3.9,Senior,Debate Team,Tutor at MathCenter
+Thomas Martin,22,Physics,2.48,Junior,Robotics Team,Part-time at MarketPlace
+Linda Wilson,21,Mathematics,3.43,Freshman,Debate Team,Member of BioSociety
+Mary Thomas,22,Mathematics,3.26,Sophomore,Green Club,Part-time at AutoWorks
+Linda Anderson,25,Computer Science,2.03,Freshman,Math Club,Member of BioSociety
+Sarah Moore,20,Physics,3.92,Freshman,ASCE Member,Tutor at MathCenter
+David Anderson,24,Chemistry,2.01,Senior,Business Club,Tutor at MathCenter
+Thomas Moore,23,Mathematics,2.2,Senior,BioSociety,Tutor at MathCenter
+Christopher Doe,20,Environmental Science,2.47,Junior,Research Assistant,Intern at TechCorp
+John Harris,20,Physics,2.49,Freshman,ASCE Member,Part-time at AutoWorks
+John Martin,22,Mechanical Engineering,3.52,Senior,Green Club,Intern at StartUp
+Emily Martin,21,Economics,3.26,Freshman,Debate Team,Part-time at MarketPlace
+Sarah Doe,22,Physics,3.1,Junior,ASCE Member,Intern at ResearchLab
+Sarah Johnson,23,Physics,2.49,Freshman,Green Club,Intern at TechCorp
+John Jackson,19,Mathematics,3.86,Freshman,Coding Club,Member of ChemClub
+Jessica Davis,18,Chemistry,3.3,Junior,BioSociety,Intern at StartUp
+Thomas Clark,18,Biology,3.96,Junior,ChemClub,Part-time at AutoWorks
+David Clark,22,Chemistry,3.87,Junior,Debate Team,Part-time at BuildCorp
+David Johnson,19,Economics,2.45,Sophomore,Green Club,Intern at ResearchLab
+John Davis,20,Business Administration,2.05,Senior,ChemClub,Intern at ResearchLab
+Mary Brown,22,Physics,3.95,Senior,ASCE Member,Part-time at ElectricWorks
+Mary Anderson,19,Mechanical Engineering,3.13,Senior,Math Club,Part-time at BuildCorp
+Jessica Taylor,20,Business Administration,2.03,Junior,Business Club,Tutor at MathCenter
+Jane Moore,22,Mechanical Engineering,3.38,Senior,IEEE Member,Business Club President
+Jane Doe,18,Biology,3.0,Junior,Math Club,Member of ChemClub
+Barbara Anderson,18,Business Administration,3.94,Sophomore,ChemClub,Part-time at BuildCorp
+James Davis,23,Civil Engineering,3.96,Freshman,ChemClub,Member of BioSociety
+Robert White,22,Electrical Engineering,2.44,Freshman,IEEE Member,Part-time at BuildCorp
+John Brown,25,Civil Engineering,2.81,Freshman,IEEE Member,Member of BioSociety
+Jessica Wilson,20,Civil Engineering,3.72,Senior,Coding Club,Part-time at MarketPlace
+Patricia Wilson,19,Electrical Engineering,3.71,Freshman,Debate Team,Intern at ResearchLab
+James White,19,Electrical Engineering,2.08,Sophomore,ASCE Member,Business Club President
+Michael Taylor,18,Biology,2.22,Freshman,Green Club,Part-time at AutoWorks
+Thomas Jackson,19,Chemistry,2.26,Senior,IEEE Member,Business Club President
+Mary Doe,24,Environmental Science,3.14,Freshman,Debate Team,Part-time at ElectricWorks
+Sarah Doe,18,Electrical Engineering,3.37,Freshman,Coding Club,Intern at StartUp
+David Smith,23,Business Administration,2.25,Sophomore,ASCE Member,Intern at StartUp
+Patricia Taylor,20,Mechanical Engineering,2.58,Junior,Debate Team,Part-time at ElectricWorks
+Jessica Davis,24,Environmental Science,2.47,Sophomore,IEEE Member,Part-time at ElectricWorks
+Robert Doe,19,Civil Engineering,3.02,Sophomore,Robotics Team,Part-time at BuildCorp
+David White,23,Electrical Engineering,3.15,Sophomore,Business Club,Intern at TechCorp
+James Thomas,19,Physics,3.98,Junior,Math Club,Member of ChemClub
+John White,20,Biology,3.46,Junior,Robotics Team,Part-time at BuildCorp
+John Smith,20,Mathematics,3.59,Sophomore,Robotics Team,Intern at TechCorp
+Michael Jackson,19,Chemistry,2.82,Junior,ASCE Member,Business Club President
+Thomas Harris,21,Computer Science,2.56,Senior,Business Club,Part-time at AutoWorks
+Mary Thomas,19,Biology,2.73,Junior,Business Club,Part-time at BuildCorp
+Jessica Anderson,19,Physics,2.22,Sophomore,Robotics Team,Research Assistant
+Sarah Smith,22,Economics,2.91,Junior,IEEE Member,Research Assistant
+Christopher Johnson,24,Chemistry,3.5,Junior,Coding Club,Part-time at AutoWorks
+Jessica Johnson,25,Chemistry,2.8,Freshman,Green Club,Intern at ResearchLab
+Thomas Davis,25,Mechanical Engineering,2.37,Senior,ASCE Member,Research Assistant
+Mary Johnson,24,Environmental Science,3.41,Freshman,Debate Team,Part-time at BuildCorp
+James Harris,23,Civil Engineering,3.06,Freshman,Coding Club,Part-time at ElectricWorks
+David Taylor,19,Civil Engineering,3.47,Senior,ASCE Member,Part-time at BuildCorp
+Sarah Harris,22,Biology,2.56,Senior,Soccer Club,Intern at ResearchLab
+James Martin,25,Economics,2.52,Freshman,Robotics Team,Tutor at MathCenter
+Thomas Martin,24,Economics,4.0,Freshman,ASCE Member,Part-time at MarketPlace
+David Harris,25,Civil Engineering,2.11,Freshman,IEEE Member,Part-time at MarketPlace
+Robert Moore,21,Environmental Science,3.01,Sophomore,Coding Club,Part-time at BuildCorp
+Thomas Taylor,18,Mechanical Engineering,3.98,Sophomore,Coding Club,Intern at StartUp
+Emily Thomas,19,Chemistry,3.0,Senior,Business Club,Member of ChemClub
+Jessica Harris,22,Mathematics,2.05,Junior,Research Assistant,Business Club President
+John Clark,22,Biology,2.63,Senior,Soccer Club,Member of BioSociety
+Patricia Martin,19,Electrical Engineering,3.12,Senior,Robotics Team,Part-time at MarketPlace
+Emily Moore,18,Environmental Science,3.01,Junior,Coding Club,Part-time at AutoWorks
+Robert Doe,21,Chemistry,2.36,Senior,Coding Club,Intern at StartUp
+Jane Doe,18,Computer Science,3.07,Senior,Debate Team,Member of BioSociety
+Emily Moore,22,Civil Engineering,2.07,Junior,ChemClub,Business Club President
+Christopher Taylor,19,Biology,3.16,Sophomore,ASCE Member,Tutor at MathCenter
+Jane Brown,23,Economics,3.9,Senior,Debate Team,Research Assistant
+Thomas Johnson,23,Chemistry,2.92,Freshman,ChemClub,Member of ChemClub
+Thomas Harris,25,Chemistry,3.22,Senior,IEEE Member,Part-time at ElectricWorks
+David Brown,18,Economics,3.68,Sophomore,Soccer Club,Intern at StartUp
+Jessica Moore,24,Mechanical Engineering,3.01,Senior,Business Club,Intern at StartUp
+Thomas Taylor,21,Mathematics,3.34,Junior,BioSociety,Intern at ResearchLab
+Patricia Thomas,23,Electrical Engineering,3.95,Sophomore,BioSociety,Part-time at BuildCorp
+Thomas Clark,25,Electrical Engineering,2.16,Freshman,Debate Team,Member of BioSociety
+Linda Martin,22,Electrical Engineering,3.66,Senior,Math Club,Part-time at ElectricWorks
+Jessica Taylor,24,Mathematics,3.29,Junior,Robotics Team,Research Assistant
+David Smith,24,Computer Science,3.58,Junior,ASCE Member,Part-time at BuildCorp
+Jessica Martin,25,Physics,2.22,Freshman,Soccer Club,Business Club President
+James Johnson,23,Physics,3.22,Sophomore,Robotics Team,Intern at ResearchLab
+John Thomas,18,Civil Engineering,2.16,Freshman,Green Club,Part-time at BuildCorp
+Sarah Taylor,20,Environmental Science,2.37,Junior,Robotics Team,Business Club President
+Thomas White,22,Mathematics,3.39,Sophomore,Debate Team,Tutor at MathCenter
+Thomas Clark,19,Biology,3.46,Sophomore,Debate Team,Intern at TechCorp
+Thomas White,20,Physics,3.14,Senior,Green Club,Member of BioSociety
+Linda Wilson,22,Mathematics,2.18,Junior,Soccer Club,Part-time at MarketPlace
+Sarah Wilson,21,Biology,3.74,Senior,Debate Team,Member of ChemClub
+Thomas Anderson,22,Biology,3.63,Sophomore,Business Club,Business Club President
+Robert Davis,24,Mechanical Engineering,3.09,Freshman,Business Club,Tutor at MathCenter
+Jane Doe,21,Computer Science,2.26,Sophomore,ChemClub,Tutor at MathCenter
+John Anderson,23,Business Administration,2.53,Sophomore,Coding Club,Part-time at BuildCorp
+Thomas White,18,Computer Science,3.23,Sophomore,Coding Club,Tutor at MathCenter
+Mary Davis,21,Physics,2.66,Sophomore,Math Club,Member of ChemClub
+David Doe,21,Business Administration,3.71,Junior,Debate Team,Intern at ResearchLab
+John Harris,22,Mathematics,2.69,Sophomore,IEEE Member,Tutor at MathCenter
+John Wilson,18,Biology,2.97,Freshman,Green Club,Intern at StartUp
+Michael Moore,24,Environmental Science,2.51,Senior,Green Club,Intern at StartUp
+Thomas Martin,20,Business Administration,2.07,Freshman,Soccer Club,Research Assistant
+Christopher Brown,25,Computer Science,2.53,Junior,Math Club,Business Club President
+Linda Thomas,25,Business Administration,2.31,Freshman,Math Club,Part-time at AutoWorks
+Emily Harris,23,Physics,2.33,Senior,Math Club,Tutor at MathCenter
+Jane Martin,22,Chemistry,2.63,Senior,Robotics Team,Part-time at ElectricWorks
+Michael Wilson,19,Civil Engineering,2.79,Freshman,ASCE Member,Tutor at MathCenter
+Michael Thomas,24,Civil Engineering,3.78,Senior,Debate Team,Intern at TechCorp
+Linda Thomas,22,Civil Engineering,3.09,Freshman,Coding Club,Part-time at ElectricWorks
+John Brown,20,Business Administration,3.19,Senior,Debate Team,Part-time at MarketPlace
+Mary Wilson,21,Computer Science,3.1,Freshman,Soccer Club,Part-time at BuildCorp
+Thomas Brown,23,Electrical Engineering,2.34,Freshman,Business Club,Part-time at BuildCorp
+Jessica Clark,20,Computer Science,2.95,Freshman,Robotics Team,Part-time at ElectricWorks
+Jessica Anderson,23,Civil Engineering,3.27,Junior,Debate Team,Part-time at MarketPlace
+Thomas Johnson,18,Environmental Science,3.16,Freshman,Math Club,Intern at ResearchLab
+Michael Thomas,22,Chemistry,2.11,Freshman,Robotics Team,Member of BioSociety
+Patricia Brown,23,Business Administration,3.07,Freshman,ChemClub,Business Club President
+Jane Thomas,23,Business Administration,2.36,Senior,Debate Team,Part-time at BuildCorp
+Robert Johnson,20,Computer Science,3.05,Sophomore,Coding Club,Tutor at MathCenter
+Christopher Martin,25,Business Administration,2.03,Sophomore,Green Club,Member of BioSociety
+Robert Jackson,21,Business Administration,3.21,Sophomore,Math Club,Tutor at MathCenter
+John Davis,23,Electrical Engineering,2.19,Freshman,BioSociety,Part-time at BuildCorp
+John Smith,21,Business Administration,3.75,Senior,Research Assistant,Part-time at MarketPlace
+Emily Doe,20,Mathematics,2.05,Freshman,ChemClub,Part-time at AutoWorks
+Linda Harris,25,Business Administration,2.64,Freshman,ChemClub,Part-time at BuildCorp
+Mary Taylor,24,Chemistry,2.1,Sophomore,Research Assistant,Intern at StartUp
+Thomas Anderson,18,Civil Engineering,2.22,Senior,Soccer Club,Tutor at MathCenter
+John Taylor,21,Biology,3.89,Senior,Research Assistant,Part-time at AutoWorks
+Sarah Thomas,24,Physics,2.39,Freshman,ChemClub,Part-time at AutoWorks
+Michael Clark,25,Mathematics,3.05,Sophomore,Math Club,Research Assistant
+Jane Wilson,20,Mathematics,2.97,Sophomore,ChemClub,Part-time at AutoWorks
+Linda Moore,22,Civil Engineering,2.7,Sophomore,ASCE Member,Part-time at AutoWorks
+Thomas White,24,Chemistry,2.88,Senior,ChemClub,Intern at TechCorp
+Patricia Wilson,18,Business Administration,3.57,Junior,IEEE Member,Research Assistant
+Jessica Smith,20,Environmental Science,3.84,Junior,BioSociety,Member of ChemClub
+Mary Doe,21,Economics,2.22,Sophomore,Math Club,Tutor at MathCenter
+Barbara Jackson,21,Mechanical Engineering,3.67,Senior,Debate Team,Intern at StartUp
+James Harris,21,Business Administration,3.78,Sophomore,Business Club,Business Club President
+Robert Johnson,19,Biology,2.22,Sophomore,ASCE Member,Member of ChemClub
+Linda Wilson,21,Business Administration,3.58,Junior,Soccer Club,Member of BioSociety
+Christopher Harris,18,Economics,3.32,Senior,Debate Team,Tutor at MathCenter
+Jessica Harris,25,Environmental Science,3.57,Junior,BioSociety,Part-time at ElectricWorks
+Michael Smith,23,Mathematics,3.61,Senior,Research Assistant,Part-time at BuildCorp
+Michael Doe,19,Mechanical Engineering,2.75,Sophomore,Math Club,Member of BioSociety
+Christopher Moore,18,Chemistry,3.53,Freshman,Soccer Club,Part-time at BuildCorp
+Sarah Martin,24,Economics,3.72,Freshman,Green Club,Research Assistant
+Mary Smith,19,Mechanical Engineering,3.51,Junior,Math Club,Part-time at ElectricWorks
+Jane Brown,21,Electrical Engineering,2.49,Sophomore,Robotics Team,Intern at StartUp
+Thomas Harris,23,Mathematics,3.6,Senior,Green Club,Intern at TechCorp
+Michael Harris,19,Mathematics,2.66,Sophomore,Research Assistant,Intern at ResearchLab
+Christopher Brown,23,Electrical Engineering,3.89,Sophomore,Coding Club,Research Assistant
+Christopher Johnson,23,Environmental Science,2.69,Sophomore,Coding Club,Part-time at BuildCorp
+Thomas Moore,21,Mathematics,3.88,Freshman,Debate Team,Part-time at AutoWorks
+Christopher Smith,20,Computer Science,2.06,Junior,Math Club,Intern at TechCorp
+John White,20,Business Administration,3.15,Sophomore,Coding Club,Business Club President
+Linda Brown,23,Electrical Engineering,3.86,Sophomore,Coding Club,Intern at StartUp
+Michael White,25,Business Administration,2.68,Senior,Research Assistant,Part-time at BuildCorp
+Christopher Smith,20,Biology,3.46,Sophomore,BioSociety,Member of ChemClub
+Robert Anderson,19,Business Administration,3.1,Sophomore,Green Club,Tutor at MathCenter
+Patricia Taylor,25,Mathematics,3.67,Senior,IEEE Member,Part-time at ElectricWorks
+Jessica Taylor,21,Electrical Engineering,3.04,Senior,Debate Team,Member of ChemClub
+Linda Smith,20,Economics,3.04,Senior,Robotics Team,Part-time at MarketPlace
+John Doe,21,Physics,3.41,Junior,Coding Club,Part-time at ElectricWorks
+Jessica Doe,24,Computer Science,2.86,Senior,Math Club,Research Assistant
+David Davis,23,Biology,2.49,Freshman,ChemClub,Intern at TechCorp
+Mary Wilson,22,Environmental Science,3.58,Sophomore,Robotics Team,Member of BioSociety
+Linda Anderson,18,Chemistry,3.57,Freshman,IEEE Member,Part-time at ElectricWorks
+Michael Doe,20,Biology,2.6,Junior,Debate Team,Tutor at MathCenter
+Michael Moore,25,Economics,2.86,Junior,BioSociety,Member of BioSociety
+Christopher Wilson,18,Electrical Engineering,2.96,Sophomore,Debate Team,Part-time at BuildCorp
+Sarah Doe,19,Computer Science,3.58,Senior,BioSociety,Part-time at BuildCorp
+Thomas Davis,21,Mechanical Engineering,3.5,Junior,Soccer Club,Member of BioSociety
+Emily Doe,20,Electrical Engineering,3.49,Sophomore,Research Assistant,Member of ChemClub
+David Johnson,25,Economics,2.55,Junior,Soccer Club,Research Assistant
+Thomas Johnson,20,Computer Science,2.24,Sophomore,Research Assistant,Member of BioSociety
+John Harris,20,Chemistry,3.27,Senior,Coding Club,Business Club President
+Thomas Thomas,23,Mechanical Engineering,2.84,Sophomore,Math Club,Part-time at AutoWorks
+Mary Clark,25,Computer Science,2.23,Sophomore,Green Club,Part-time at ElectricWorks
+Mary Moore,18,Environmental Science,2.47,Sophomore,Coding Club,Member of BioSociety
+John Wilson,23,Business Administration,2.78,Junior,Soccer Club,Part-time at ElectricWorks
+David Harris,22,Chemistry,3.82,Junior,Green Club,Member of ChemClub
+Barbara White,23,Chemistry,2.42,Junior,Research Assistant,Tutor at MathCenter
+Robert Smith,20,Biology,3.39,Sophomore,Soccer Club,Part-time at ElectricWorks
+Sarah Johnson,20,Civil Engineering,2.06,Senior,BioSociety,Member of ChemClub
+Barbara Harris,22,Physics,3.57,Senior,Debate Team,Part-time at MarketPlace
+Linda White,19,Economics,3.55,Sophomore,Robotics Team,Member of BioSociety
+David Brown,22,Chemistry,3.65,Sophomore,Green Club,Part-time at BuildCorp
+James Brown,19,Physics,2.02,Freshman,Research Assistant,Part-time at BuildCorp
+James Jackson,22,Physics,3.4,Freshman,Coding Club,Tutor at MathCenter
+David Brown,21,Civil Engineering,2.38,Senior,Green Club,Part-time at BuildCorp
+David Harris,25,Chemistry,3.04,Junior,Robotics Team,Part-time at ElectricWorks
+Michael Thomas,19,Civil Engineering,3.72,Sophomore,IEEE Member,Part-time at ElectricWorks
+Jane White,21,Biology,2.3,Freshman,Research Assistant,Part-time at ElectricWorks
+Jessica Doe,23,Mechanical Engineering,3.61,Junior,Green Club,Member of BioSociety
+David Wilson,18,Biology,2.27,Freshman,Business Club,Tutor at MathCenter
+Jane Davis,25,Electrical Engineering,3.45,Senior,Research Assistant,Member of BioSociety
+Mary Martin,24,Mathematics,2.87,Junior,IEEE Member,Intern at ResearchLab
+John Martin,19,Mechanical Engineering,2.96,Sophomore,Research Assistant,Part-time at BuildCorp
+Sarah Moore,20,Economics,2.67,Senior,ChemClub,Intern at TechCorp
+Barbara Davis,25,Business Administration,2.16,Sophomore,Coding Club,Member of BioSociety
+Emily Smith,23,Biology,3.8,Senior,Math Club,Intern at StartUp
+Barbara Doe,21,Environmental Science,2.36,Sophomore,Debate Team,Member of BioSociety
+David Martin,24,Chemistry,3.97,Freshman,BioSociety,Tutor at MathCenter
+James Thomas,21,Mathematics,3.86,Junior,Soccer Club,Part-time at ElectricWorks
+David Doe,21,Biology,2.93,Sophomore,Coding Club,Intern at StartUp
+Linda Clark,24,Physics,3.27,Junior,Business Club,Business Club President
+John Martin,25,Environmental Science,2.11,Sophomore,Business Club,Part-time at BuildCorp
+James Brown,22,Physics,3.23,Sophomore,ASCE Member,Part-time at ElectricWorks
+Sarah Thomas,22,Business Administration,3.14,Senior,Business Club,Member of BioSociety
+Emily Johnson,25,Computer Science,2.79,Freshman,BioSociety,Part-time at ElectricWorks
+Emily Anderson,20,Economics,2.54,Freshman,ASCE Member,Tutor at MathCenter
+Christopher Martin,20,Civil Engineering,3.47,Junior,Research Assistant,Business Club President
+John Thomas,25,Electrical Engineering,3.2,Sophomore,IEEE Member,Member of BioSociety
+Emily Martin,22,Mathematics,3.75,Senior,Business Club,Research Assistant
+Patricia Johnson,24,Computer Science,2.22,Sophomore,BioSociety,Intern at TechCorp
+Barbara Taylor,18,Economics,3.79,Junior,Green Club,Business Club President
+Jessica Harris,25,Mechanical Engineering,3.42,Junior,BioSociety,Member of ChemClub
+Sarah Davis,19,Biology,3.17,Senior,Robotics Team,Intern at TechCorp
+Emily Moore,21,Computer Science,3.85,Freshman,ChemClub,Intern at TechCorp
+Mary Taylor,22,Civil Engineering,2.98,Sophomore,BioSociety,Part-time at BuildCorp
+James White,20,Economics,2.35,Freshman,Debate Team,Research Assistant
+Sarah Brown,25,Electrical Engineering,3.02,Junior,Research Assistant,Part-time at MarketPlace
+Jessica Clark,19,Mechanical Engineering,2.73,Freshman,IEEE Member,Intern at StartUp
+John Taylor,19,Biology,2.12,Freshman,BioSociety,Tutor at MathCenter
+Barbara Moore,23,Mathematics,2.59,Senior,Business Club,Part-time at BuildCorp
+Emily Davis,19,Mechanical Engineering,3.57,Sophomore,Math Club,Part-time at MarketPlace
+Michael Davis,22,Environmental Science,3.32,Senior,ChemClub,Tutor at MathCenter
+Jane Martin,19,Electrical Engineering,2.59,Sophomore,Business Club,Part-time at AutoWorks
+James Wilson,22,Mathematics,2.74,Junior,IEEE Member,Part-time at ElectricWorks
+Barbara Brown,25,Physics,4.0,Junior,Debate Team,Intern at StartUp
+Mary Brown,18,Chemistry,2.37,Sophomore,Business Club,Part-time at BuildCorp
+Jessica Martin,19,Biology,2.23,Freshman,Coding Club,Intern at TechCorp
+Patricia Doe,25,Mathematics,2.6,Senior,ChemClub,Intern at ResearchLab
+Patricia White,19,Environmental Science,2.68,Sophomore,Green Club,Business Club President
+Linda Moore,20,Business Administration,3.13,Sophomore,IEEE Member,Tutor at MathCenter
+Linda Davis,18,Civil Engineering,3.32,Junior,Soccer Club,Member of BioSociety
+Christopher Wilson,23,Mechanical Engineering,3.69,Junior,ChemClub,Intern at TechCorp
+Michael Smith,25,Economics,2.24,Freshman,Math Club,Intern at TechCorp
+Thomas Taylor,23,Physics,3.96,Sophomore,Coding Club,Tutor at MathCenter
+Sarah Thomas,21,Mechanical Engineering,2.08,Sophomore,Business Club,Member of ChemClub
+Barbara Moore,18,Civil Engineering,2.85,Junior,ASCE Member,Part-time at BuildCorp
+Barbara Clark,18,Civil Engineering,3.57,Junior,Business Club,Member of ChemClub
+Jane Jackson,22,Biology,3.01,Junior,IEEE Member,Part-time at MarketPlace
+Linda Smith,19,Mechanical Engineering,2.02,Freshman,ASCE Member,Member of BioSociety
+David Taylor,22,Environmental Science,3.51,Freshman,ASCE Member,Intern at TechCorp
+Barbara Clark,21,Mechanical Engineering,3.4,Freshman,BioSociety,Part-time at ElectricWorks
+Barbara Smith,25,Mathematics,3.75,Freshman,BioSociety,Business Club President
+Jessica Johnson,24,Electrical Engineering,3.18,Sophomore,Math Club,Tutor at MathCenter
+David White,25,Electrical Engineering,2.8,Junior,Business Club,Part-time at MarketPlace
+Michael Thomas,21,Electrical Engineering,3.82,Junior,Research Assistant,Research Assistant
+David Smith,21,Physics,2.78,Senior,Research Assistant,Member of ChemClub
+Thomas Taylor,22,Physics,3.82,Freshman,Math Club,Tutor at MathCenter
+Linda Davis,18,Mechanical Engineering,3.93,Junior,Research Assistant,Part-time at ElectricWorks
+Mary Moore,24,Chemistry,3.53,Sophomore,BioSociety,Part-time at ElectricWorks
+Linda Anderson,19,Environmental Science,2.74,Junior,Research Assistant,Intern at TechCorp
+Patricia Jackson,23,Mathematics,2.98,Junior,ASCE Member,Part-time at MarketPlace
+Jessica Johnson,19,Mathematics,2.76,Sophomore,Coding Club,Intern at ResearchLab
+Robert Clark,22,Economics,3.04,Freshman,Green Club,Part-time at BuildCorp
+Patricia Doe,24,Civil Engineering,3.17,Junior,IEEE Member,Part-time at BuildCorp
+Jessica Martin,19,Environmental Science,3.65,Sophomore,Research Assistant,Part-time at MarketPlace
+Sarah Thomas,25,Mathematics,3.61,Senior,Research Assistant,Part-time at MarketPlace
+Emily White,24,Business Administration,2.36,Senior,Research Assistant,Tutor at MathCenter
+Sarah Smith,25,Civil Engineering,2.83,Sophomore,Soccer Club,Intern at ResearchLab
+Mary Martin,20,Economics,3.6,Junior,Research Assistant,Part-time at ElectricWorks
+Emily Moore,22,Business Administration,3.71,Freshman,Math Club,Intern at StartUp
+Patricia Taylor,20,Mathematics,3.91,Junior,Robotics Team,Business Club President
+Barbara Martin,24,Civil Engineering,2.51,Junior,Debate Team,Intern at ResearchLab
+Mary Thomas,23,Chemistry,3.08,Sophomore,Soccer Club,Intern at ResearchLab
+Robert Clark,18,Electrical Engineering,3.01,Sophomore,IEEE Member,Research Assistant
+Robert Brown,21,Business Administration,2.12,Junior,ChemClub,Part-time at BuildCorp
+Jane Wilson,18,Physics,3.49,Junior,ChemClub,Part-time at BuildCorp
+Jane Wilson,19,Physics,3.54,Freshman,Soccer Club,Intern at ResearchLab
+Robert Clark,19,Mechanical Engineering,2.06,Senior,Debate Team,Member of ChemClub
+Jessica Davis,23,Electrical Engineering,3.52,Junior,ChemClub,Business Club President
+John Smith,22,Business Administration,2.42,Junior,BioSociety,Intern at TechCorp
+Sarah Brown,24,Mechanical Engineering,2.73,Sophomore,ChemClub,Intern at TechCorp
+Linda Harris,25,Mathematics,3.79,Junior,Business Club,Member of ChemClub
+Barbara Anderson,20,Chemistry,2.09,Freshman,Business Club,Intern at ResearchLab
+Christopher Thomas,23,Business Administration,3.98,Junior,BioSociety,Member of ChemClub
+Thomas Johnson,18,Business Administration,2.69,Sophomore,Soccer Club,Part-time at ElectricWorks
+Mary Harris,19,Chemistry,3.89,Junior,ChemClub,Part-time at AutoWorks
+Patricia Taylor,24,Chemistry,3.54,Senior,Soccer Club,Tutor at MathCenter
+Emily White,18,Economics,2.58,Sophomore,Soccer Club,Part-time at AutoWorks
+Sarah White,19,Mechanical Engineering,3.15,Freshman,IEEE Member,Intern at TechCorp
+Patricia Harris,19,Electrical Engineering,2.75,Junior,Math Club,Member of BioSociety
+Linda Moore,22,Biology,2.2,Senior,Business Club,Part-time at AutoWorks
+Michael Doe,22,Mechanical Engineering,3.16,Freshman,ASCE Member,Member of ChemClub
+Emily White,19,Business Administration,2.16,Freshman,ASCE Member,Part-time at BuildCorp
+Linda White,20,Economics,2.27,Junior,Soccer Club,Part-time at BuildCorp
+Thomas Doe,21,Economics,2.74,Junior,Coding Club,Business Club President
+Patricia White,18,Economics,3.83,Senior,BioSociety,Part-time at BuildCorp
+James Anderson,21,Civil Engineering,2.47,Junior,Robotics Team,Intern at StartUp
+Thomas Wilson,19,Computer Science,3.85,Junior,Coding Club,Part-time at MarketPlace
+Thomas Harris,19,Economics,3.99,Sophomore,Business Club,Part-time at AutoWorks
+Michael Clark,19,Physics,2.09,Senior,Soccer Club,Business Club President
+Mary Clark,22,Computer Science,3.29,Junior,Soccer Club,Part-time at MarketPlace
+Linda Smith,20,Electrical Engineering,2.1,Sophomore,IEEE Member,Business Club President
+John White,25,Environmental Science,3.03,Senior,Coding Club,Member of ChemClub
+Jessica Clark,21,Mathematics,3.0,Junior,Debate Team,Part-time at AutoWorks
+Robert Clark,21,Computer Science,2.56,Junior,Business Club,Part-time at AutoWorks
+Christopher Wilson,20,Environmental Science,3.9,Sophomore,Research Assistant,Part-time at AutoWorks
+Michael Martin,23,Environmental Science,3.2,Freshman,ChemClub,Intern at TechCorp
+James Harris,18,Business Administration,2.44,Senior,Green Club,Member of BioSociety
+Michael White,25,Environmental Science,3.0,Freshman,Green Club,Member of BioSociety
+Christopher Martin,25,Mechanical Engineering,2.59,Sophomore,ASCE Member,Intern at ResearchLab
+Patricia Johnson,19,Business Administration,3.4,Junior,IEEE Member,Intern at StartUp
+David Taylor,25,Mathematics,3.13,Senior,Math Club,Intern at ResearchLab
+Mary Johnson,24,Civil Engineering,2.56,Junior,Soccer Club,Intern at ResearchLab
+Michael Davis,21,Biology,2.01,Senior,Math Club,Intern at StartUp
+Patricia Wilson,18,Physics,3.35,Senior,Coding Club,Business Club President
+Linda Davis,24,Business Administration,3.2,Sophomore,Research Assistant,Intern at TechCorp
+James Jackson,25,Biology,3.45,Sophomore,ASCE Member,Part-time at BuildCorp
+James Smith,21,Environmental Science,2.53,Senior,Business Club,Intern at ResearchLab
+Jane Martin,20,Chemistry,3.0,Senior,Coding Club,Part-time at MarketPlace
+Christopher Brown,25,Economics,2.15,Sophomore,ASCE Member,Part-time at ElectricWorks
+Christopher Clark,25,Biology,3.54,Junior,ChemClub,Intern at StartUp
+Jessica Harris,20,Economics,2.31,Senior,Green Club,Part-time at ElectricWorks
+Jane Anderson,18,Mathematics,3.17,Sophomore,ChemClub,Intern at TechCorp
+Jane Taylor,20,Computer Science,2.34,Senior,Soccer Club,Part-time at AutoWorks
+Emily Jackson,25,Computer Science,3.32,Junior,Green Club,Intern at ResearchLab
+John Taylor,24,Mechanical Engineering,3.94,Junior,Soccer Club,Part-time at ElectricWorks
+Emily Wilson,19,Mathematics,3.47,Sophomore,Debate Team,Part-time at ElectricWorks
+Jessica Brown,19,Environmental Science,2.87,Junior,Coding Club,Part-time at MarketPlace
+Jessica Davis,24,Environmental Science,2.62,Freshman,ASCE Member,Intern at ResearchLab
+Thomas Davis,22,Economics,2.78,Freshman,Business Club,Part-time at ElectricWorks
+Emily Harris,23,Chemistry,3.16,Freshman,BioSociety,Part-time at ElectricWorks
+Jane Anderson,18,Electrical Engineering,3.05,Sophomore,Math Club,Part-time at BuildCorp
+Emily Martin,20,Computer Science,3.35,Senior,BioSociety,Intern at ResearchLab
+Jessica Anderson,20,Environmental Science,3.33,Freshman,Debate Team,Business Club President
+David Johnson,18,Civil Engineering,3.32,Freshman,Math Club,Member of ChemClub
+David Taylor,19,Economics,3.23,Sophomore,Debate Team,Intern at TechCorp
+Linda Davis,22,Biology,2.54,Junior,Math Club,Part-time at ElectricWorks
+Patricia Johnson,21,Business Administration,3.49,Junior,Debate Team,Part-time at BuildCorp
+Christopher Jackson,20,Computer Science,2.16,Freshman,Robotics Team,Intern at TechCorp
+John Moore,20,Computer Science,2.47,Junior,Math Club,Part-time at ElectricWorks
+Jane Doe,24,Mechanical Engineering,2.02,Senior,BioSociety,Part-time at BuildCorp
+Robert Anderson,19,Electrical Engineering,3.85,Junior,ChemClub,Intern at TechCorp
+John Anderson,22,Chemistry,2.42,Freshman,Soccer Club,Member of ChemClub
+David Martin,23,Mechanical Engineering,2.87,Freshman,ASCE Member,Member of ChemClub
+Christopher Johnson,23,Electrical Engineering,3.13,Sophomore,Math Club,Member of ChemClub
+Christopher Doe,23,Mechanical Engineering,3.3,Junior,Soccer Club,Research Assistant
+Michael Anderson,24,Mathematics,3.94,Freshman,ChemClub,Business Club President
+Thomas Taylor,21,Biology,3.77,Junior,Research Assistant,Research Assistant
+Jessica Smith,24,Business Administration,2.92,Senior,Business Club,Member of BioSociety
+Christopher Davis,19,Computer Science,2.57,Junior,Math Club,Intern at StartUp
+Patricia Harris,21,Computer Science,3.45,Senior,Business Club,Intern at TechCorp
+Jane Thomas,25,Civil Engineering,2.37,Sophomore,Soccer Club,Intern at TechCorp
+James Wilson,21,Electrical Engineering,3.56,Freshman,Debate Team,Research Assistant
+Patricia Jackson,20,Computer Science,2.7,Sophomore,Research Assistant,Business Club President
+Thomas Harris,20,Civil Engineering,3.05,Senior,Soccer Club,Part-time at AutoWorks
+Jane Johnson,22,Electrical Engineering,2.29,Sophomore,ASCE Member,Part-time at BuildCorp
+John Wilson,20,Chemistry,3.9,Junior,Math Club,Part-time at AutoWorks
+John Clark,18,Physics,3.25,Sophomore,Math Club,Intern at TechCorp
+Linda Anderson,18,Business Administration,3.95,Sophomore,Robotics Team,Part-time at BuildCorp
+Michael Harris,21,Mathematics,3.39,Senior,Soccer Club,Part-time at BuildCorp
+Robert Harris,20,Mathematics,2.1,Freshman,BioSociety,Member of ChemClub
+Barbara Smith,24,Mathematics,2.85,Senior,Research Assistant,Member of BioSociety
+Sarah Anderson,21,Economics,2.35,Senior,Math Club,Part-time at ElectricWorks
+James Anderson,25,Economics,2.57,Senior,ChemClub,Part-time at MarketPlace
+James Martin,21,Mechanical Engineering,2.36,Freshman,Green Club,Member of ChemClub
+David Davis,18,Mathematics,2.11,Freshman,IEEE Member,Intern at TechCorp
+Christopher Smith,24,Environmental Science,3.53,Sophomore,Research Assistant,Member of ChemClub
+Robert Wilson,22,Physics,2.88,Senior,Green Club,Member of BioSociety
+Jane Davis,20,Mathematics,2.68,Junior,Robotics Team,Part-time at MarketPlace
+Christopher Anderson,24,Environmental Science,3.34,Sophomore,ASCE Member,Part-time at BuildCorp
+Jessica Brown,24,Environmental Science,3.94,Junior,Debate Team,Intern at StartUp
+Mary Martin,24,Business Administration,3.34,Sophomore,Debate Team,Intern at ResearchLab
+Linda Johnson,20,Civil Engineering,3.35,Sophomore,Research Assistant,Research Assistant
+Christopher Doe,22,Computer Science,3.4,Freshman,Soccer Club,Intern at StartUp
+Mary Brown,24,Chemistry,2.79,Sophomore,IEEE Member,Member of BioSociety
+Robert Doe,22,Electrical Engineering,2.81,Freshman,Business Club,Intern at StartUp
+David Johnson,18,Economics,3.23,Senior,Coding Club,Part-time at MarketPlace
+Linda Taylor,25,Environmental Science,3.71,Junior,Coding Club,Business Club President
+David Clark,19,Biology,3.46,Junior,Soccer Club,Part-time at AutoWorks
+Thomas Jackson,22,Mechanical Engineering,3.91,Freshman,Business Club,Part-time at ElectricWorks
+Emily Clark,18,Biology,3.93,Freshman,ChemClub,Research Assistant
+Jessica Anderson,19,Chemistry,2.14,Sophomore,Debate Team,Business Club President
+John Taylor,21,Business Administration,2.8,Freshman,Green Club,Part-time at MarketPlace
+Patricia Smith,19,Electrical Engineering,3.89,Sophomore,Business Club,Member of ChemClub
+Mary Clark,19,Economics,3.84,Sophomore,ChemClub,Part-time at BuildCorp
+Robert Moore,25,Civil Engineering,3.55,Junior,IEEE Member,Part-time at ElectricWorks
+Sarah Jackson,20,Physics,3.99,Freshman,Debate Team,Intern at ResearchLab
+Barbara Smith,22,Computer Science,2.48,Senior,ChemClub,Intern at TechCorp
+Patricia Johnson,21,Computer Science,3.71,Senior,Soccer Club,Part-time at MarketPlace
+Patricia Johnson,18,Mathematics,2.89,Sophomore,Debate Team,Intern at TechCorp
+Linda Doe,21,Business Administration,2.21,Senior,Debate Team,Part-time at BuildCorp
+John Johnson,18,Civil Engineering,3.72,Freshman,Robotics Team,Member of ChemClub
+David Thomas,24,Chemistry,3.73,Sophomore,Robotics Team,Member of BioSociety
+Sarah Anderson,18,Civil Engineering,2.33,Junior,Robotics Team,Part-time at BuildCorp
+Sarah Martin,24,Mathematics,2.08,Sophomore,Debate Team,Part-time at ElectricWorks
+James Jackson,23,Chemistry,2.94,Freshman,Business Club,Part-time at ElectricWorks
+Jessica Wilson,25,Mathematics,3.22,Sophomore,Green Club,Intern at TechCorp
+Patricia Moore,21,Chemistry,2.61,Sophomore,IEEE Member,Tutor at MathCenter
+James Moore,21,Mathematics,3.0,Senior,IEEE Member,Intern at TechCorp
+Patricia White,25,Mechanical Engineering,3.77,Junior,Coding Club,Member of ChemClub
+John Clark,21,Mathematics,3.31,Senior,Green Club,Intern at StartUp
+Linda Davis,22,Electrical Engineering,3.14,Junior,Math Club,Intern at StartUp
+Robert Thomas,22,Business Administration,3.6,Junior,Business Club,Intern at TechCorp
+John Moore,21,Chemistry,3.23,Senior,Robotics Team,Intern at ResearchLab
+James Thomas,19,Business Administration,2.52,Freshman,Debate Team,Business Club President
+Jane Martin,22,Electrical Engineering,3.93,Senior,IEEE Member,Intern at TechCorp
+Christopher Moore,24,Physics,2.08,Freshman,Math Club,Tutor at MathCenter
+Robert Clark,19,Electrical Engineering,2.63,Senior,Robotics Team,Part-time at AutoWorks
+Jessica Smith,25,Electrical Engineering,2.57,Freshman,Business Club,Member of BioSociety
+Robert Harris,24,Civil Engineering,3.17,Senior,Debate Team,Intern at ResearchLab
+Linda Taylor,25,Mathematics,2.03,Senior,Math Club,Intern at StartUp
+Michael Smith,18,Business Administration,3.64,Freshman,Robotics Team,Business Club President
+Jane Clark,25,Biology,2.56,Freshman,ASCE Member,Member of ChemClub
+John Brown,24,Chemistry,3.73,Freshman,Soccer Club,Intern at TechCorp
+Jane Moore,20,Business Administration,3.22,Sophomore,IEEE Member,Business Club President
+Emily Davis,24,Mechanical Engineering,2.69,Freshman,Research Assistant,Part-time at ElectricWorks
+Patricia Anderson,18,Mechanical Engineering,2.52,Senior,IEEE Member,Part-time at MarketPlace
+Christopher Brown,22,Computer Science,3.09,Freshman,ASCE Member,Part-time at AutoWorks
+Emily Davis,24,Computer Science,2.32,Junior,Soccer Club,Part-time at AutoWorks
+Mary Thomas,20,Physics,2.85,Junior,Math Club,Research Assistant
+Christopher Brown,22,Computer Science,3.57,Sophomore,Soccer Club,Part-time at BuildCorp
+Emily Smith,18,Electrical Engineering,2.59,Freshman,Business Club,Intern at StartUp
+Barbara Davis,22,Biology,3.25,Sophomore,Research Assistant,Part-time at AutoWorks
+Barbara Wilson,25,Physics,3.74,Senior,IEEE Member,Intern at ResearchLab
+Robert Clark,25,Economics,2.44,Freshman,ChemClub,Business Club President
+Linda Taylor,22,Business Administration,3.61,Freshman,ASCE Member,Intern at StartUp
+Linda Smith,24,Computer Science,3.53,Freshman,Coding Club,Member of BioSociety
+Michael Johnson,24,Civil Engineering,2.21,Freshman,BioSociety,Intern at TechCorp
+Mary Brown,19,Computer Science,3.91,Sophomore,Soccer Club,Intern at TechCorp
+Michael Moore,25,Environmental Science,3.72,Junior,Research Assistant,Member of ChemClub
+James Davis,25,Economics,2.09,Sophomore,Research Assistant,Intern at ResearchLab
+Jane Moore,19,Computer Science,3.01,Sophomore,Business Club,Part-time at MarketPlace
+Thomas Clark,21,Business Administration,3.31,Freshman,Green Club,Business Club President
+Sarah Davis,25,Mathematics,3.03,Freshman,Robotics Team,Member of ChemClub
+Emily Brown,18,Biology,3.01,Sophomore,Debate Team,Part-time at MarketPlace
+Linda Wilson,19,Civil Engineering,3.81,Freshman,Green Club,Business Club President
+Linda Anderson,21,Environmental Science,3.55,Junior,Debate Team,Business Club President
+Michael Harris,25,Environmental Science,3.51,Senior,Green Club,Part-time at MarketPlace
+Sarah Johnson,19,Computer Science,3.51,Sophomore,Research Assistant,Business Club President
+Mary Smith,25,Chemistry,3.36,Freshman,Research Assistant,Intern at StartUp
+Thomas Johnson,19,Physics,2.92,Sophomore,IEEE Member,Part-time at MarketPlace
+Jane Wilson,24,Computer Science,2.75,Junior,Robotics Team,Research Assistant
+David Anderson,19,Chemistry,3.99,Freshman,Business Club,Part-time at AutoWorks
+Christopher Taylor,19,Physics,2.37,Sophomore,Math Club,Part-time at BuildCorp
+Emily Martin,22,Physics,2.98,Junior,Research Assistant,Business Club President
+Barbara Taylor,18,Chemistry,2.21,Sophomore,IEEE Member,Intern at ResearchLab
+Jane Anderson,18,Chemistry,2.8,Sophomore,Math Club,Part-time at AutoWorks
+Patricia Johnson,24,Mechanical Engineering,2.42,Freshman,Business Club,Part-time at BuildCorp
+Jane White,23,Economics,2.66,Senior,Math Club,Tutor at MathCenter
+Barbara Jackson,19,Mathematics,2.1,Junior,Coding Club,Intern at ResearchLab
+Thomas Brown,20,Mechanical Engineering,2.04,Senior,Coding Club,Part-time at AutoWorks
+Barbara Harris,24,Computer Science,2.25,Senior,Debate Team,Part-time at MarketPlace
+Barbara Wilson,24,Biology,2.16,Sophomore,Soccer Club,Member of BioSociety
+Mary Taylor,18,Mechanical Engineering,2.56,Freshman,Green Club,Tutor at MathCenter
+Linda Taylor,18,Business Administration,3.32,Sophomore,ChemClub,Member of BioSociety
+David Moore,25,Economics,3.16,Junior,Debate Team,Intern at TechCorp
+Thomas Davis,23,Mathematics,3.9,Sophomore,Research Assistant,Part-time at ElectricWorks
+Jessica Smith,18,Electrical Engineering,3.35,Freshman,Math Club,Part-time at AutoWorks
+James Johnson,24,Physics,3.3,Junior,Robotics Team,Intern at StartUp
+John Anderson,21,Physics,2.72,Freshman,Research Assistant,Part-time at MarketPlace
+Jane Martin,20,Mathematics,3.07,Senior,Math Club,Intern at TechCorp
+Christopher Smith,20,Mechanical Engineering,3.74,Senior,IEEE Member,Member of BioSociety
+John Harris,25,Biology,3.9,Senior,IEEE Member,Member of ChemClub
+Michael Wilson,24,Mathematics,3.95,Junior,Green Club,Part-time at ElectricWorks
+Mary Anderson,20,Mechanical Engineering,3.97,Senior,BioSociety,Member of ChemClub
+James Wilson,23,Mathematics,3.58,Senior,Research Assistant,Part-time at AutoWorks
+Barbara Moore,24,Electrical Engineering,3.35,Senior,Robotics Team,Part-time at MarketPlace
+Jane Harris,23,Biology,2.28,Sophomore,Robotics Team,Part-time at MarketPlace
+Michael Harris,23,Business Administration,2.5,Senior,Math Club,Tutor at MathCenter
+Jessica Martin,20,Economics,3.81,Junior,ASCE Member,Intern at ResearchLab
+Sarah Doe,18,Environmental Science,2.9,Sophomore,ASCE Member,Business Club President
+Robert Smith,19,Economics,3.57,Junior,Robotics Team,Member of BioSociety
+Sarah Jackson,19,Electrical Engineering,2.8,Sophomore,Green Club,Tutor at MathCenter
+Sarah Brown,22,Civil Engineering,2.6,Junior,Business Club,Part-time at MarketPlace
+Barbara Smith,19,Computer Science,3.72,Junior,IEEE Member,Part-time at AutoWorks
+Sarah Jackson,20,Civil Engineering,2.36,Freshman,Research Assistant,Member of BioSociety
+Christopher Thomas,23,Civil Engineering,3.67,Freshman,Green Club,Business Club President
+Mary Taylor,19,Electrical Engineering,3.51,Senior,Business Club,Intern at TechCorp
+Mary Clark,22,Environmental Science,2.0,Freshman,Soccer Club,Part-time at MarketPlace
+Robert Harris,25,Environmental Science,3.86,Freshman,Green Club,Research Assistant
+Linda Taylor,23,Physics,3.33,Sophomore,Green Club,Business Club President
+Robert Thomas,23,Mathematics,3.37,Senior,BioSociety,Intern at StartUp
+Emily Davis,19,Civil Engineering,3.46,Senior,Robotics Team,Intern at ResearchLab
+Jane Doe,21,Environmental Science,3.72,Sophomore,Math Club,Intern at ResearchLab
+Christopher Smith,24,Computer Science,2.5,Freshman,Robotics Team,Business Club President
+Michael Anderson,23,Computer Science,2.58,Sophomore,IEEE Member,Intern at StartUp
+Michael Harris,21,Environmental Science,3.06,Junior,Debate Team,Tutor at MathCenter
+Christopher Jackson,19,Computer Science,3.49,Senior,Debate Team,Intern at StartUp
+Michael Anderson,20,Business Administration,3.97,Freshman,IEEE Member,Member of BioSociety
+David Harris,20,Computer Science,2.0,Junior,Math Club,Part-time at AutoWorks
+Patricia Clark,25,Electrical Engineering,2.48,Freshman,IEEE Member,Intern at StartUp
+Jane Thomas,25,Electrical Engineering,3.94,Junior,Soccer Club,Member of ChemClub
+Michael Clark,20,Environmental Science,3.34,Sophomore,IEEE Member,Member of BioSociety
+Robert White,24,Economics,3.23,Freshman,Coding Club,Tutor at MathCenter
+Patricia Moore,24,Chemistry,2.41,Freshman,Math Club,Tutor at MathCenter
+Emily Jackson,25,Chemistry,3.25,Freshman,Business Club,Intern at ResearchLab
+John Thomas,19,Environmental Science,3.2,Sophomore,Coding Club,Intern at ResearchLab
+Sarah Davis,22,Mathematics,3.25,Freshman,Business Club,Tutor at MathCenter
+Mary White,18,Electrical Engineering,2.71,Freshman,BioSociety,Intern at ResearchLab
+Patricia Doe,19,Chemistry,2.21,Senior,Green Club,Research Assistant
+Barbara Martin,23,Chemistry,3.12,Senior,Soccer Club,Research Assistant
+Patricia Jackson,19,Physics,2.31,Sophomore,BioSociety,Intern at ResearchLab
+Thomas Jackson,20,Mechanical Engineering,2.36,Senior,IEEE Member,Member of ChemClub
+David Johnson,23,Electrical Engineering,3.71,Junior,Green Club,Business Club President
+Christopher Moore,22,Biology,2.8,Senior,Soccer Club,Part-time at ElectricWorks
+James Brown,22,Environmental Science,3.02,Junior,Math Club,Business Club President
+Robert Doe,18,Mathematics,3.97,Junior,Coding Club,Business Club President
+Linda Jackson,19,Electrical Engineering,3.06,Senior,Math Club,Research Assistant
+Thomas Wilson,25,Environmental Science,2.66,Sophomore,Debate Team,Part-time at AutoWorks
+Michael Doe,19,Mathematics,3.85,Senior,ASCE Member,Member of BioSociety
+John Thomas,24,Business Administration,2.03,Senior,Debate Team,Member of ChemClub
+Emily Taylor,23,Environmental Science,2.86,Junior,Math Club,Tutor at MathCenter
+Mary Smith,21,Chemistry,2.44,Sophomore,Robotics Team,Part-time at MarketPlace
+Sarah Thomas,20,Environmental Science,3.63,Sophomore,Soccer Club,Intern at StartUp
+Thomas Wilson,21,Mathematics,3.26,Senior,Research Assistant,Part-time at MarketPlace
+Barbara Anderson,25,Computer Science,2.85,Junior,Debate Team,Intern at ResearchLab
+Thomas Doe,20,Mechanical Engineering,2.26,Junior,IEEE Member,Intern at ResearchLab
+Linda Thomas,22,Chemistry,3.52,Senior,Debate Team,Business Club President
+James Anderson,21,Physics,3.57,Sophomore,ChemClub,Intern at ResearchLab
+Sarah Jackson,25,Computer Science,2.92,Freshman,Robotics Team,Tutor at MathCenter
+Mary Smith,18,Electrical Engineering,2.51,Senior,IEEE Member,Member of ChemClub
+Michael Brown,19,Electrical Engineering,2.3,Freshman,IEEE Member,Part-time at AutoWorks
+Jessica Smith,18,Biology,3.57,Senior,Green Club,Intern at TechCorp
+Robert Thomas,24,Biology,3.72,Senior,ChemClub,Part-time at ElectricWorks
+Michael Moore,20,Computer Science,3.12,Junior,IEEE Member,Member of ChemClub
+Mary Johnson,23,Chemistry,2.91,Junior,IEEE Member,Research Assistant
+Christopher Jackson,20,Electrical Engineering,2.04,Sophomore,Soccer Club,Part-time at ElectricWorks
+Linda Jackson,23,Civil Engineering,3.72,Sophomore,Research Assistant,Tutor at MathCenter
+Jessica Taylor,21,Business Administration,3.82,Senior,Research Assistant,Business Club President
+Mary Davis,18,Mechanical Engineering,3.48,Junior,ASCE Member,Business Club President
+Jane Jackson,25,Chemistry,3.49,Sophomore,Coding Club,Tutor at MathCenter
+Sarah Moore,18,Economics,2.96,Freshman,Business Club,Business Club President
+David Clark,25,Computer Science,3.05,Junior,ASCE Member,Intern at ResearchLab
+Christopher Smith,21,Mathematics,2.33,Senior,Soccer Club,Part-time at ElectricWorks
+Barbara Davis,21,Mechanical Engineering,2.44,Freshman,Green Club,Business Club President
+John Martin,25,Civil Engineering,3.9,Senior,IEEE Member,Member of ChemClub
+Barbara Davis,21,Chemistry,2.65,Freshman,Coding Club,Part-time at MarketPlace
+Patricia Doe,25,Business Administration,2.75,Freshman,ASCE Member,Intern at StartUp
+Robert Doe,25,Physics,2.33,Freshman,Robotics Team,Intern at StartUp
+Linda Brown,22,Biology,3.53,Sophomore,ASCE Member,Part-time at BuildCorp
+Robert Johnson,25,Mathematics,2.76,Freshman,ChemClub,Part-time at MarketPlace
+James Doe,21,Chemistry,2.87,Sophomore,Business Club,Intern at ResearchLab
+Emily Jackson,23,Environmental Science,2.6,Junior,Business Club,Part-time at MarketPlace
+Michael Smith,20,Chemistry,3.96,Junior,Math Club,Part-time at AutoWorks
+Linda Anderson,25,Physics,3.32,Senior,Coding Club,Research Assistant
+Linda Brown,24,Business Administration,2.41,Junior,Business Club,Part-time at BuildCorp
+Emily Smith,18,Mechanical Engineering,3.57,Sophomore,Soccer Club,Member of ChemClub
+James Harris,21,Civil Engineering,2.61,Freshman,Research Assistant,Intern at ResearchLab
+Jane Brown,21,Computer Science,3.78,Junior,Soccer Club,Intern at StartUp
+Jane Davis,22,Environmental Science,2.96,Sophomore,Debate Team,Business Club President
+Linda Doe,23,Computer Science,3.04,Senior,BioSociety,Business Club President
+James Doe,21,Mathematics,2.92,Sophomore,BioSociety,Tutor at MathCenter
+Christopher Jackson,24,Economics,3.87,Junior,Math Club,Part-time at BuildCorp
+James Doe,25,Mathematics,3.07,Senior,ASCE Member,Part-time at MarketPlace
+Jane Martin,24,Mechanical Engineering,3.84,Junior,BioSociety,Member of BioSociety
+Mary Smith,18,Mechanical Engineering,3.7,Senior,ChemClub,Part-time at MarketPlace
+Christopher White,19,Mechanical Engineering,3.31,Senior,ChemClub,Part-time at BuildCorp
+Michael Wilson,24,Mechanical Engineering,2.6,Freshman,Debate Team,Intern at StartUp
+Emily Doe,24,Civil Engineering,3.57,Sophomore,Robotics Team,Intern at StartUp
+Emily Doe,23,Computer Science,2.52,Sophomore,Coding Club,Research Assistant
+Barbara Brown,22,Chemistry,3.7,Senior,Research Assistant,Business Club President
+James Smith,21,Physics,3.44,Freshman,Research Assistant,Part-time at MarketPlace
+Robert Doe,22,Civil Engineering,2.6,Sophomore,BioSociety,Member of BioSociety
+Patricia Smith,22,Environmental Science,3.68,Freshman,ChemClub,Part-time at AutoWorks
+Thomas Martin,18,Environmental Science,3.75,Freshman,BioSociety,Member of BioSociety
+Patricia Doe,24,Mechanical Engineering,2.8,Junior,BioSociety,Member of BioSociety
+Linda Harris,22,Biology,3.93,Junior,Math Club,Intern at ResearchLab
+Michael Taylor,21,Physics,2.68,Sophomore,BioSociety,Intern at StartUp
+Mary Doe,18,Economics,3.54,Senior,Debate Team,Part-time at BuildCorp
+Michael White,23,Business Administration,3.82,Sophomore,Math Club,Part-time at BuildCorp
+Jane Anderson,25,Biology,2.38,Junior,ChemClub,Tutor at MathCenter
+Thomas Davis,21,Chemistry,3.82,Senior,Green Club,Intern at ResearchLab
+Patricia White,21,Electrical Engineering,2.09,Sophomore,Coding Club,Member of ChemClub
+Thomas Davis,18,Electrical Engineering,3.81,Senior,IEEE Member,Intern at StartUp
+Christopher Martin,22,Business Administration,3.62,Freshman,Business Club,Part-time at ElectricWorks
+Christopher Moore,22,Mechanical Engineering,3.3,Senior,ChemClub,Intern at TechCorp
+Michael Taylor,22,Biology,2.71,Freshman,BioSociety,Intern at ResearchLab
+Patricia Taylor,20,Mechanical Engineering,2.11,Freshman,Debate Team,Part-time at MarketPlace
+James Jackson,25,Mechanical Engineering,3.97,Junior,Debate Team,Part-time at AutoWorks
+Linda Wilson,22,Civil Engineering,3.9,Freshman,ChemClub,Research Assistant
+Patricia White,22,Business Administration,2.32,Senior,Green Club,Research Assistant
+John Clark,21,Economics,2.41,Junior,Math Club,Part-time at AutoWorks
+Michael Harris,21,Environmental Science,3.57,Freshman,Green Club,Intern at ResearchLab
+Barbara White,21,Chemistry,3.25,Junior,Robotics Team,Part-time at MarketPlace
+Robert Davis,24,Physics,2.02,Sophomore,IEEE Member,Intern at TechCorp
+Barbara Clark,20,Physics,3.9,Sophomore,ChemClub,Tutor at MathCenter
+Michael White,25,Civil Engineering,2.3,Sophomore,Soccer Club,Intern at StartUp
+Mary Wilson,21,Business Administration,3.66,Junior,BioSociety,Intern at StartUp
+Christopher Martin,18,Physics,2.19,Senior,Robotics Team,Member of BioSociety
+Patricia Smith,22,Chemistry,3.74,Senior,Robotics Team,Tutor at MathCenter
+Sarah Johnson,25,Mathematics,3.09,Freshman,Soccer Club,Intern at StartUp
+David Taylor,21,Mechanical Engineering,2.2,Junior,IEEE Member,Intern at StartUp
+Sarah Taylor,25,Economics,2.23,Senior,Soccer Club,Member of ChemClub
+Robert White,19,Electrical Engineering,3.61,Senior,Debate Team,Member of BioSociety
+Christopher Doe,20,Chemistry,2.64,Freshman,BioSociety,Part-time at ElectricWorks
+Barbara Doe,19,Biology,3.02,Senior,Green Club,Business Club President
+Michael Thomas,24,Chemistry,2.5,Junior,Robotics Team,Member of ChemClub
+David Thomas,20,Biology,3.26,Junior,Soccer Club,Tutor at MathCenter
+Robert Clark,21,Economics,3.34,Freshman,Business Club,Research Assistant
+Emily Jackson,19,Business Administration,2.34,Senior,Robotics Team,Part-time at AutoWorks
+John Johnson,18,Business Administration,3.74,Sophomore,ASCE Member,Part-time at MarketPlace
+James Taylor,24,Physics,3.01,Junior,Coding Club,Member of BioSociety
+Christopher Moore,21,Chemistry,3.49,Senior,Math Club,Research Assistant
+Patricia Smith,24,Economics,3.81,Freshman,Debate Team,Part-time at ElectricWorks
+Christopher Moore,25,Physics,3.67,Freshman,BioSociety,Tutor at MathCenter
+James Harris,22,Economics,3.25,Sophomore,Coding Club,Part-time at AutoWorks
+James Moore,23,Computer Science,3.88,Junior,Soccer Club,Intern at ResearchLab
+Emily Anderson,24,Mathematics,2.34,Freshman,ASCE Member,Intern at ResearchLab
+Barbara Moore,20,Physics,3.62,Senior,Coding Club,Part-time at ElectricWorks
+John Smith,22,Electrical Engineering,2.46,Senior,IEEE Member,Tutor at MathCenter
+David Brown,21,Computer Science,3.72,Freshman,BioSociety,Member of BioSociety
+James Brown,18,Chemistry,2.38,Freshman,ChemClub,Research Assistant
+Michael Taylor,19,Mathematics,3.74,Freshman,Green Club,Part-time at BuildCorp
+Jane Smith,19,Biology,3.24,Senior,ASCE Member,Part-time at BuildCorp
+Michael Jackson,20,Environmental Science,3.19,Junior,ASCE Member,Tutor at MathCenter
+John White,20,Chemistry,2.07,Senior,BioSociety,Research Assistant
+Robert Doe,19,Physics,2.92,Senior,Business Club,Part-time at ElectricWorks
+Linda Anderson,22,Computer Science,3.73,Sophomore,ChemClub,Intern at ResearchLab
+Michael Jackson,24,Biology,3.31,Freshman,Coding Club,Member of ChemClub
+Sarah Thomas,23,Mechanical Engineering,3.56,Junior,Coding Club,Intern at TechCorp
+Mary Johnson,20,Biology,2.39,Sophomore,Math Club,Part-time at MarketPlace
+John Clark,23,Electrical Engineering,2.64,Senior,ChemClub,Part-time at ElectricWorks
+Michael Smith,19,Economics,2.43,Freshman,BioSociety,Part-time at BuildCorp
+Thomas White,19,Environmental Science,3.49,Freshman,ASCE Member,Part-time at ElectricWorks
+Sarah Smith,18,Physics,3.0,Senior,Research Assistant,Intern at TechCorp
+Patricia Smith,18,Physics,3.85,Junior,IEEE Member,Member of ChemClub
+James Johnson,20,Physics,3.23,Freshman,Soccer Club,Business Club President
+Jane Jackson,25,Mathematics,3.44,Junior,Green Club,Tutor at MathCenter
+Michael Smith,18,Biology,2.75,Sophomore,Math Club,Part-time at ElectricWorks
+Sarah Davis,20,Mathematics,3.88,Sophomore,BioSociety,Part-time at BuildCorp
+David Thomas,23,Mechanical Engineering,2.91,Sophomore,Robotics Team,Member of BioSociety
+Robert Doe,25,Physics,3.96,Junior,Math Club,Part-time at AutoWorks
+Patricia Anderson,23,Electrical Engineering,3.93,Sophomore,Math Club,Member of ChemClub
+Robert Moore,23,Environmental Science,2.78,Freshman,IEEE Member,Intern at ResearchLab
+Robert White,18,Biology,3.85,Sophomore,IEEE Member,Member of ChemClub
+Jane Martin,21,Mathematics,2.16,Freshman,IEEE Member,Part-time at AutoWorks
+Patricia Brown,20,Biology,3.15,Sophomore,IEEE Member,Member of BioSociety
+Thomas Moore,24,Environmental Science,3.21,Senior,BioSociety,Part-time at AutoWorks
+Michael Johnson,22,Physics,2.69,Sophomore,Business Club,Research Assistant
+Michael Thomas,18,Mathematics,3.61,Senior,BioSociety,Intern at ResearchLab
+Thomas Martin,22,Economics,3.44,Senior,IEEE Member,Research Assistant
+John Jackson,19,Physics,2.43,Freshman,Robotics Team,Intern at ResearchLab
+Patricia Harris,25,Environmental Science,2.22,Junior,Research Assistant,Member of BioSociety
+Michael Anderson,21,Environmental Science,2.16,Junior,Business Club,Member of BioSociety
+James Jackson,24,Electrical Engineering,3.74,Freshman,Research Assistant,Part-time at MarketPlace
+Barbara Davis,23,Mathematics,3.19,Junior,ASCE Member,Research Assistant
+Michael Martin,24,Electrical Engineering,2.33,Freshman,ASCE Member,Member of ChemClub
+John Thomas,22,Civil Engineering,2.56,Sophomore,Green Club,Member of ChemClub
+Emily White,22,Mathematics,2.35,Senior,Coding Club,Business Club President
+Thomas Doe,24,Electrical Engineering,3.07,Senior,BioSociety,Research Assistant
+Michael Martin,24,Business Administration,3.78,Junior,Research Assistant,Tutor at MathCenter
+Mary Anderson,20,Biology,3.05,Senior,BioSociety,Tutor at MathCenter
+Mary Johnson,19,Environmental Science,3.3,Sophomore,ASCE Member,Intern at ResearchLab
+Sarah Brown,19,Chemistry,2.28,Sophomore,Math Club,Intern at ResearchLab
+Christopher Anderson,18,Physics,2.09,Sophomore,Soccer Club,Part-time at MarketPlace
+Linda Anderson,25,Physics,3.84,Senior,IEEE Member,Part-time at BuildCorp
+Mary Taylor,25,Electrical Engineering,2.65,Sophomore,IEEE Member,Tutor at MathCenter
+David Martin,20,Environmental Science,3.34,Senior,Green Club,Research Assistant
+Michael Clark,21,Biology,3.01,Senior,Debate Team,Part-time at BuildCorp
+Michael Smith,18,Civil Engineering,2.5,Junior,Research Assistant,Part-time at AutoWorks
+Thomas Clark,22,Biology,2.33,Sophomore,ChemClub,Member of BioSociety
+David Harris,23,Biology,2.44,Freshman,ASCE Member,Part-time at AutoWorks
+Thomas Moore,21,Computer Science,2.38,Junior,Math Club,Part-time at AutoWorks
+Mary Harris,25,Electrical Engineering,3.06,Sophomore,Robotics Team,Research Assistant
+Emily Doe,18,Mechanical Engineering,3.99,Freshman,BioSociety,Part-time at ElectricWorks
+Mary Jackson,25,Physics,2.74,Junior,Debate Team,Tutor at MathCenter
+James Moore,25,Physics,3.35,Sophomore,BioSociety,Intern at ResearchLab
+John Smith,18,Mechanical Engineering,3.55,Junior,ChemClub,Member of BioSociety
+Christopher Wilson,20,Biology,3.82,Sophomore,ASCE Member,Intern at StartUp
+Linda Davis,24,Chemistry,3.21,Sophomore,Math Club,Part-time at AutoWorks
+David Smith,24,Civil Engineering,2.45,Junior,Business Club,Tutor at MathCenter
+David Brown,20,Chemistry,3.09,Sophomore,IEEE Member,Intern at TechCorp
+Jessica White,22,Computer Science,2.1,Junior,Math Club,Member of BioSociety
+Mary Clark,22,Biology,2.01,Senior,BioSociety,Part-time at BuildCorp
+Sarah Clark,24,Mathematics,2.73,Senior,BioSociety,Research Assistant
+Michael Wilson,20,Mathematics,2.19,Sophomore,ASCE Member,Tutor at MathCenter
+Emily Wilson,22,Mechanical Engineering,2.53,Sophomore,IEEE Member,Intern at TechCorp
+Mary Moore,25,Physics,2.29,Sophomore,IEEE Member,Part-time at ElectricWorks
+Linda Clark,21,Computer Science,2.88,Senior,Coding Club,Member of ChemClub
+Robert Anderson,18,Electrical Engineering,2.42,Senior,Coding Club,Intern at TechCorp
+Jane Moore,25,Business Administration,3.3,Junior,Green Club,Intern at ResearchLab
+Thomas Clark,21,Environmental Science,2.23,Junior,ChemClub,Research Assistant
+Robert Moore,23,Biology,3.58,Senior,Green Club,Business Club President
+Mary Martin,21,Electrical Engineering,2.71,Freshman,Math Club,Part-time at BuildCorp
+Mary Taylor,22,Civil Engineering,2.21,Sophomore,ASCE Member,Part-time at AutoWorks
+James Brown,23,Business Administration,3.39,Junior,Debate Team,Intern at ResearchLab
+Emily Clark,23,Computer Science,2.68,Freshman,Research Assistant,Member of BioSociety
+Linda Thomas,24,Environmental Science,3.83,Senior,Business Club,Member of ChemClub
+Christopher Clark,20,Mechanical Engineering,3.43,Sophomore,BioSociety,Intern at ResearchLab
+Robert Wilson,19,Chemistry,3.64,Junior,Debate Team,Part-time at ElectricWorks
+Sarah Smith,19,Electrical Engineering,3.12,Senior,Soccer Club,Member of ChemClub
+Robert Brown,24,Civil Engineering,2.07,Junior,ChemClub,Member of ChemClub
+Thomas Harris,24,Economics,3.66,Freshman,BioSociety,Member of BioSociety
+Linda Anderson,21,Biology,3.57,Sophomore,IEEE Member,Part-time at AutoWorks
+David Martin,18,Mathematics,3.66,Junior,Debate Team,Member of BioSociety
+Mary Clark,23,Chemistry,2.0,Senior,Business Club,Part-time at ElectricWorks
+David White,18,Physics,3.78,Freshman,BioSociety,Part-time at BuildCorp
+Thomas Johnson,21,Mechanical Engineering,3.68,Junior,Business Club,Part-time at AutoWorks
+Barbara Doe,19,Computer Science,3.74,Junior,Coding Club,Part-time at AutoWorks
+David Harris,18,Computer Science,2.4,Sophomore,Research Assistant,Research Assistant
+James Thomas,24,Mechanical Engineering,3.51,Junior,Coding Club,Research Assistant
+Robert Smith,25,Civil Engineering,2.39,Senior,Soccer Club,Part-time at ElectricWorks
+Jessica Brown,19,Electrical Engineering,2.28,Senior,Robotics Team,Intern at TechCorp
+Emily Smith,21,Computer Science,2.23,Freshman,Math Club,Research Assistant
+Sarah Johnson,24,Economics,2.65,Junior,Soccer Club,Tutor at MathCenter
+Barbara Taylor,18,Business Administration,2.8,Freshman,IEEE Member,Research Assistant
+James Wilson,19,Environmental Science,3.81,Sophomore,Green Club,Tutor at MathCenter
+Christopher Harris,19,Economics,3.77,Sophomore,IEEE Member,Research Assistant
+John Wilson,24,Mathematics,2.33,Senior,Green Club,Business Club President
+Emily Thomas,20,Biology,3.84,Sophomore,Robotics Team,Part-time at ElectricWorks
+Emily Davis,21,Mathematics,3.86,Junior,Green Club,Part-time at AutoWorks
+Sarah Brown,25,Mechanical Engineering,2.09,Freshman,Math Club,Part-time at ElectricWorks
+Mary Doe,23,Electrical Engineering,3.14,Freshman,BioSociety,Part-time at BuildCorp
+James Moore,23,Electrical Engineering,3.26,Sophomore,Robotics Team,Tutor at MathCenter
+Jessica Brown,20,Mechanical Engineering,2.38,Junior,BioSociety,Part-time at BuildCorp
+Sarah Clark,22,Chemistry,2.21,Freshman,Coding Club,Part-time at BuildCorp
+Christopher Taylor,18,Mathematics,3.54,Senior,Robotics Team,Member of BioSociety
+Linda Wilson,20,Economics,3.51,Junior,Green Club,Member of BioSociety
+David Clark,24,Civil Engineering,2.08,Junior,Business Club,Intern at ResearchLab
+Thomas Smith,20,Mechanical Engineering,2.76,Sophomore,Green Club,Tutor at MathCenter
+Barbara Clark,25,Physics,2.29,Sophomore,ChemClub,Intern at ResearchLab
+Barbara Martin,18,Business Administration,2.97,Junior,Robotics Team,Part-time at MarketPlace
+Mary Anderson,25,Electrical Engineering,3.38,Junior,BioSociety,Part-time at ElectricWorks
+Christopher Davis,25,Computer Science,2.23,Senior,Research Assistant,Part-time at AutoWorks
+David Wilson,18,Biology,3.58,Freshman,Robotics Team,Part-time at MarketPlace
+Sarah Doe,22,Economics,2.15,Junior,Coding Club,Part-time at MarketPlace
+Robert Clark,24,Biology,2.03,Freshman,Business Club,Intern at TechCorp
+David Martin,23,Business Administration,3.91,Junior,Business Club,Intern at TechCorp
+Barbara Davis,20,Mechanical Engineering,3.62,Freshman,Coding Club,Part-time at AutoWorks
+Jane Johnson,21,Mechanical Engineering,3.6,Senior,Math Club,Part-time at BuildCorp
+Thomas Taylor,25,Chemistry,2.42,Freshman,Green Club,Tutor at MathCenter
+David Anderson,19,Economics,2.83,Freshman,ASCE Member,Intern at ResearchLab
+David Martin,21,Mechanical Engineering,2.15,Junior,Business Club,Part-time at AutoWorks
+John Doe,18,Chemistry,2.17,Senior,Soccer Club,Part-time at AutoWorks
+Thomas White,22,Computer Science,2.73,Junior,Green Club,Part-time at MarketPlace
+Jessica Doe,25,Chemistry,3.74,Senior,Math Club,Intern at StartUp
+David Wilson,20,Civil Engineering,2.39,Freshman,ASCE Member,Part-time at BuildCorp
+Jane Smith,24,Business Administration,2.12,Senior,IEEE Member,Part-time at ElectricWorks
+Patricia Anderson,23,Environmental Science,3.2,Freshman,Soccer Club,Member of BioSociety
+Barbara Doe,21,Chemistry,2.44,Junior,ASCE Member,Member of ChemClub
+David Wilson,18,Business Administration,3.99,Freshman,Soccer Club,Research Assistant
+Jessica Anderson,25,Mathematics,2.84,Freshman,Research Assistant,Part-time at AutoWorks
+Patricia White,21,Mathematics,3.93,Sophomore,Coding Club,Intern at ResearchLab
+Patricia Davis,20,Electrical Engineering,2.45,Freshman,ASCE Member,Tutor at MathCenter
+Linda Johnson,20,Biology,3.6,Senior,ChemClub,Tutor at MathCenter
+David Thomas,24,Physics,3.92,Senior,Math Club,Research Assistant
+Michael Brown,20,Electrical Engineering,3.49,Sophomore,Debate Team,Business Club President
+Jessica Doe,24,Mathematics,2.09,Sophomore,Coding Club,Member of BioSociety
+Emily Johnson,20,Civil Engineering,2.45,Sophomore,Research Assistant,Tutor at MathCenter
+Sarah White,18,Mechanical Engineering,3.88,Sophomore,IEEE Member,Part-time at ElectricWorks
+Robert Anderson,24,Mechanical Engineering,2.49,Sophomore,Coding Club,Part-time at BuildCorp
+Sarah Martin,24,Computer Science,2.42,Junior,Business Club,Part-time at MarketPlace
+Michael Martin,23,Civil Engineering,3.86,Junior,Math Club,Business Club President
+Linda Wilson,25,Civil Engineering,3.91,Junior,ChemClub,Part-time at BuildCorp
+Jessica Martin,22,Biology,2.86,Senior,IEEE Member,Business Club President
+John Davis,24,Mechanical Engineering,2.49,Freshman,Soccer Club,Part-time at ElectricWorks
+Christopher Harris,25,Physics,2.06,Sophomore,Math Club,Intern at StartUp
+Sarah Moore,20,Civil Engineering,3.25,Sophomore,IEEE Member,Part-time at AutoWorks
+Christopher Wilson,18,Biology,3.2,Freshman,Debate Team,Intern at TechCorp
+Thomas Harris,19,Computer Science,2.32,Junior,IEEE Member,Intern at TechCorp
+Robert Johnson,23,Biology,2.98,Freshman,Robotics Team,Intern at StartUp
+Robert Thomas,19,Environmental Science,2.18,Junior,ChemClub,Research Assistant
+Mary White,24,Civil Engineering,2.22,Junior,Coding Club,Tutor at MathCenter
+James Brown,22,Physics,3.12,Sophomore,Business Club,Member of BioSociety
+Barbara Anderson,22,Mechanical Engineering,2.64,Sophomore,Green Club,Part-time at ElectricWorks
+David Anderson,21,Mathematics,3.38,Sophomore,Robotics Team,Part-time at ElectricWorks
+Mary Anderson,21,Biology,3.12,Junior,Business Club,Member of ChemClub
+John Brown,24,Mechanical Engineering,2.61,Junior,IEEE Member,Member of BioSociety
+Patricia Johnson,21,Physics,2.73,Freshman,Business Club,Intern at StartUp
+Mary Johnson,24,Environmental Science,3.16,Senior,Soccer Club,Intern at TechCorp
+Thomas Harris,18,Computer Science,2.32,Sophomore,ASCE Member,Part-time at BuildCorp
+Sarah Moore,21,Biology,3.82,Junior,Business Club,Part-time at AutoWorks
+Linda Davis,18,Mechanical Engineering,2.32,Freshman,Soccer Club,Intern at TechCorp
+Emily Wilson,19,Biology,3.9,Senior,Coding Club,Member of BioSociety
+Robert Martin,20,Economics,3.66,Freshman,ChemClub,Business Club President
+Robert Davis,18,Physics,3.09,Sophomore,Business Club,Member of BioSociety
+Jane Jackson,24,Economics,2.13,Senior,ChemClub,Part-time at AutoWorks
+Sarah Jackson,25,Physics,3.22,Senior,Soccer Club,Business Club President
+Jane Jackson,21,Mathematics,3.54,Freshman,ChemClub,Tutor at MathCenter
+Mary Smith,18,Mathematics,2.54,Senior,Green Club,Intern at ResearchLab
+Emily Doe,21,Electrical Engineering,2.16,Sophomore,Soccer Club,Intern at TechCorp
+John Wilson,25,Physics,3.23,Senior,Robotics Team,Intern at StartUp
+Barbara Johnson,21,Chemistry,2.15,Freshman,Business Club,Member of ChemClub
+John Smith,25,Mechanical Engineering,2.7,Junior,Soccer Club,Research Assistant
+Jane Doe,19,Mechanical Engineering,3.05,Junior,ASCE Member,Member of BioSociety
+Barbara Johnson,19,Computer Science,2.46,Junior,Green Club,Business Club President
+Sarah Doe,18,Physics,2.35,Senior,Robotics Team,Tutor at MathCenter
+David Johnson,22,Mathematics,2.49,Sophomore,IEEE Member,Intern at StartUp
+Jane Thomas,20,Economics,3.06,Junior,ChemClub,Part-time at BuildCorp
+Sarah Clark,18,Environmental Science,3.25,Sophomore,Coding Club,Tutor at MathCenter
+Mary Anderson,21,Mechanical Engineering,3.1,Freshman,IEEE Member,Member of BioSociety
+James Doe,24,Mechanical Engineering,3.24,Junior,Green Club,Intern at ResearchLab
+Mary Davis,25,Mechanical Engineering,3.2,Freshman,IEEE Member,Intern at ResearchLab
+Patricia Martin,18,Mechanical Engineering,3.4,Sophomore,Math Club,Intern at StartUp
+Michael Martin,24,Economics,2.77,Junior,Math Club,Tutor at MathCenter
+Barbara Johnson,19,Computer Science,3.54,Senior,Robotics Team,Tutor at MathCenter
+Mary Clark,20,Computer Science,2.14,Sophomore,Business Club,Business Club President
+Patricia Davis,20,Civil Engineering,2.66,Junior,Soccer Club,Member of ChemClub
+Mary Thomas,18,Physics,2.77,Junior,ChemClub,Research Assistant
+Michael Jackson,21,Electrical Engineering,2.86,Sophomore,ASCE Member,Intern at ResearchLab
+John Harris,25,Business Administration,2.25,Freshman,BioSociety,Tutor at MathCenter
+David Smith,24,Electrical Engineering,2.76,Sophomore,Debate Team,Intern at TechCorp
+Christopher Wilson,22,Business Administration,3.3,Junior,IEEE Member,Part-time at BuildCorp
+Christopher White,20,Electrical Engineering,2.57,Senior,BioSociety,Part-time at ElectricWorks
+Linda Clark,20,Economics,3.47,Senior,BioSociety,Member of BioSociety
+David Taylor,23,Economics,2.36,Junior,Green Club,Part-time at MarketPlace
+John Wilson,18,Physics,2.9,Junior,Business Club,Member of BioSociety
+Barbara Davis,24,Electrical Engineering,3.83,Sophomore,ASCE Member,Member of BioSociety
+David Smith,21,Biology,2.43,Junior,Coding Club,Member of ChemClub
+Thomas Taylor,22,Civil Engineering,3.29,Sophomore,IEEE Member,Part-time at AutoWorks
+James Moore,20,Physics,3.16,Junior,Research Assistant,Research Assistant
+Linda Harris,18,Biology,3.73,Senior,Robotics Team,Part-time at MarketPlace
+Michael Davis,25,Biology,3.58,Sophomore,Debate Team,Intern at ResearchLab
+Sarah Martin,22,Economics,2.65,Freshman,Coding Club,Business Club President
+Jane Martin,25,Mathematics,3.22,Junior,ChemClub,Part-time at AutoWorks
+Mary Brown,22,Physics,3.43,Junior,Debate Team,Tutor at MathCenter
+Emily Martin,25,Business Administration,2.92,Junior,Research Assistant,Member of BioSociety
+Jessica Clark,23,Physics,2.67,Junior,Soccer Club,Part-time at ElectricWorks
+Patricia Taylor,24,Civil Engineering,2.7,Senior,IEEE Member,Part-time at AutoWorks
+Christopher Johnson,20,Chemistry,3.61,Junior,ChemClub,Part-time at BuildCorp
+Robert Smith,21,Mechanical Engineering,3.57,Sophomore,ChemClub,Intern at StartUp
+Jane Doe,20,Chemistry,3.86,Sophomore,Coding Club,Business Club President
+Jessica Wilson,22,Civil Engineering,2.6,Freshman,ChemClub,Part-time at MarketPlace
+Michael Taylor,23,Mechanical Engineering,2.14,Senior,Robotics Team,Intern at StartUp
+Christopher Doe,24,Business Administration,2.13,Senior,Coding Club,Part-time at MarketPlace
+David Moore,24,Computer Science,3.61,Senior,Green Club,Intern at StartUp
+David Smith,22,Environmental Science,3.24,Freshman,Business Club,Part-time at BuildCorp
+Barbara Clark,18,Biology,3.23,Freshman,Robotics Team,Part-time at MarketPlace
+Emily Martin,23,Physics,2.78,Junior,ASCE Member,Part-time at BuildCorp
+Jessica Jackson,20,Electrical Engineering,2.84,Sophomore,Robotics Team,Tutor at MathCenter
+Emily Smith,22,Business Administration,2.79,Senior,ChemClub,Tutor at MathCenter
+Sarah Davis,21,Physics,3.03,Senior,Business Club,Member of BioSociety
+Thomas Johnson,24,Computer Science,2.79,Freshman,Soccer Club,Intern at ResearchLab
+John Smith,19,Physics,3.06,Sophomore,Debate Team,Intern at TechCorp
+Christopher Johnson,18,Environmental Science,2.08,Junior,Green Club,Intern at ResearchLab
+Robert Clark,19,Mathematics,3.71,Sophomore,Business Club,Intern at TechCorp
+Emily Johnson,20,Chemistry,2.37,Senior,Business Club,Part-time at MarketPlace
+James White,23,Chemistry,2.74,Junior,Research Assistant,Part-time at ElectricWorks
+Patricia Taylor,25,Electrical Engineering,2.17,Junior,ChemClub,Intern at StartUp
+Linda White,24,Civil Engineering,2.48,Junior,BioSociety,Intern at StartUp
+Emily Clark,25,Mathematics,3.45,Junior,Soccer Club,Member of ChemClub
+James Thomas,25,Mathematics,3.24,Freshman,Coding Club,Part-time at MarketPlace
+James Taylor,21,Environmental Science,3.57,Senior,Debate Team,Part-time at ElectricWorks
+Thomas White,25,Chemistry,3.62,Sophomore,Green Club,Member of BioSociety
+Linda Anderson,18,Environmental Science,3.5,Senior,Research Assistant,Part-time at AutoWorks
+Jane Martin,22,Business Administration,3.11,Junior,Robotics Team,Intern at ResearchLab
+Jessica Brown,22,Chemistry,2.45,Senior,Research Assistant,Member of ChemClub
+Sarah Clark,23,Civil Engineering,2.63,Junior,BioSociety,Part-time at BuildCorp
+Michael Johnson,25,Economics,3.76,Sophomore,IEEE Member,Member of BioSociety
+David White,19,Computer Science,3.97,Junior,Math Club,Member of ChemClub
+Sarah White,23,Mechanical Engineering,2.33,Freshman,IEEE Member,Research Assistant
+Jane White,22,Physics,3.36,Freshman,Robotics Team,Part-time at MarketPlace
+Jessica Johnson,23,Economics,2.85,Junior,Soccer Club,Tutor at MathCenter
+Barbara Jackson,20,Physics,2.42,Junior,Math Club,Research Assistant
+Linda Davis,20,Biology,3.37,Junior,Business Club,Tutor at MathCenter
+Patricia Taylor,19,Environmental Science,2.37,Senior,Robotics Team,Intern at ResearchLab
+Thomas Clark,20,Mechanical Engineering,2.84,Junior,BioSociety,Part-time at ElectricWorks
+Thomas Wilson,22,Business Administration,3.19,Junior,Research Assistant,Part-time at MarketPlace
+Jessica White,19,Electrical Engineering,3.67,Sophomore,ChemClub,Business Club President
+Jane Doe,23,Mechanical Engineering,2.08,Junior,Coding Club,Member of BioSociety
+Sarah White,21,Business Administration,3.51,Junior,Robotics Team,Intern at TechCorp
+Thomas Clark,22,Economics,3.15,Junior,Green Club,Part-time at AutoWorks
+John Doe,21,Economics,3.8,Junior,Debate Team,Part-time at ElectricWorks
+Christopher Taylor,22,Chemistry,3.62,Senior,BioSociety,Member of ChemClub
+Barbara Johnson,25,Economics,2.36,Freshman,Math Club,Part-time at AutoWorks
+Christopher Thomas,24,Computer Science,3.58,Senior,Coding Club,Part-time at ElectricWorks
+Emily Thomas,19,Mechanical Engineering,2.63,Senior,Robotics Team,Part-time at MarketPlace
+Emily Thomas,25,Economics,2.45,Junior,Soccer Club,Research Assistant
+John Martin,19,Environmental Science,2.28,Freshman,ASCE Member,Member of ChemClub
+Sarah Brown,20,Mathematics,3.0,Senior,IEEE Member,Intern at StartUp
+Thomas Taylor,23,Computer Science,2.91,Freshman,Coding Club,Member of ChemClub
+Patricia Anderson,18,Mathematics,2.8,Junior,BioSociety,Member of ChemClub
+Barbara Thomas,21,Environmental Science,2.04,Sophomore,Research Assistant,Business Club President
+Jessica Martin,22,Chemistry,3.07,Freshman,Green Club,Part-time at AutoWorks
+Jessica Harris,18,Mathematics,3.35,Junior,IEEE Member,Member of BioSociety
+Barbara Clark,19,Economics,2.16,Freshman,Research Assistant,Tutor at MathCenter
+Patricia Jackson,23,Electrical Engineering,2.04,Freshman,Coding Club,Member of ChemClub
+Linda Wilson,19,Mechanical Engineering,3.1,Senior,Business Club,Intern at StartUp
+Linda Anderson,23,Economics,2.86,Junior,ChemClub,Intern at StartUp
+Patricia Wilson,20,Business Administration,3.42,Junior,IEEE Member,Intern at ResearchLab
+David Moore,22,Environmental Science,2.94,Sophomore,Soccer Club,Part-time at AutoWorks
+Patricia Doe,19,Civil Engineering,3.63,Freshman,Soccer Club,Part-time at BuildCorp
+Sarah Moore,22,Electrical Engineering,3.21,Senior,ASCE Member,Intern at ResearchLab
+Patricia Moore,25,Physics,2.73,Senior,ChemClub,Tutor at MathCenter
+Christopher Doe,20,Computer Science,3.9,Freshman,Debate Team,Member of BioSociety
+Christopher Johnson,25,Civil Engineering,3.64,Sophomore,Green Club,Part-time at ElectricWorks
+Barbara Johnson,24,Electrical Engineering,3.91,Freshman,Research Assistant,Intern at TechCorp
+James Martin,25,Physics,2.42,Sophomore,ChemClub,Part-time at BuildCorp
+Thomas Doe,19,Mathematics,3.26,Sophomore,Green Club,Business Club President
+Robert Clark,18,Electrical Engineering,3.4,Sophomore,Green Club,Intern at TechCorp
+Barbara Martin,19,Business Administration,3.08,Sophomore,BioSociety,Intern at StartUp
+John Wilson,21,Economics,3.26,Sophomore,Robotics Team,Tutor at MathCenter
+Christopher Wilson,25,Mathematics,3.97,Freshman,ASCE Member,Tutor at MathCenter
+Jane Taylor,23,Civil Engineering,2.91,Senior,Soccer Club,Tutor at MathCenter
+Mary White,21,Physics,2.85,Junior,BioSociety,Intern at TechCorp
+Linda Harris,24,Economics,2.24,Senior,Coding Club,Tutor at MathCenter
+Sarah Moore,22,Biology,3.8,Senior,Coding Club,Part-time at MarketPlace
+John Jackson,25,Civil Engineering,3.72,Sophomore,BioSociety,Tutor at MathCenter
+Thomas Johnson,19,Mechanical Engineering,3.56,Freshman,Coding Club,Intern at TechCorp
+John Martin,25,Economics,2.12,Sophomore,Soccer Club,Intern at StartUp
+Jessica Moore,22,Physics,2.8,Junior,IEEE Member,Intern at ResearchLab
+Jane Smith,23,Mechanical Engineering,3.32,Freshman,Coding Club,Part-time at BuildCorp
+Mary Taylor,18,Economics,2.03,Freshman,BioSociety,Member of ChemClub
+James Harris,18,Environmental Science,3.37,Junior,Robotics Team,Intern at ResearchLab
+Mary Martin,23,Business Administration,2.0,Sophomore,IEEE Member,Intern at TechCorp
+Barbara Thomas,25,Electrical Engineering,2.77,Senior,Green Club,Member of ChemClub
+Robert Clark,25,Mechanical Engineering,2.16,Junior,Business Club,Part-time at MarketPlace
+Mary Thomas,20,Computer Science,3.89,Junior,BioSociety,Part-time at ElectricWorks
+Mary Smith,24,Mathematics,3.2,Senior,Debate Team,Intern at TechCorp
+Mary Jackson,23,Chemistry,3.3,Sophomore,Business Club,Intern at ResearchLab
+Jane Wilson,21,Electrical Engineering,2.32,Senior,BioSociety,Tutor at MathCenter
+Robert Clark,22,Computer Science,2.22,Senior,Coding Club,Business Club President
+Emily Jackson,20,Biology,3.8,Junior,Math Club,Intern at StartUp
+David Moore,22,Biology,2.04,Junior,Debate Team,Intern at StartUp
+Christopher Smith,19,Business Administration,2.7,Freshman,Robotics Team,Member of ChemClub
+Barbara Moore,21,Business Administration,2.39,Junior,ASCE Member,Tutor at MathCenter
+James Moore,20,Environmental Science,3.12,Junior,ChemClub,Member of ChemClub
+Robert Jackson,20,Electrical Engineering,3.31,Freshman,Research Assistant,Part-time at BuildCorp
+Christopher Brown,21,Mathematics,3.48,Freshman,IEEE Member,Intern at StartUp
+Robert Brown,18,Mechanical Engineering,3.4,Freshman,Debate Team,Part-time at AutoWorks
+Barbara Taylor,18,Environmental Science,3.03,Sophomore,Green Club,Part-time at AutoWorks
+Christopher Smith,18,Mathematics,3.47,Senior,Math Club,Intern at ResearchLab
+Mary Jackson,20,Civil Engineering,2.14,Junior,Research Assistant,Member of BioSociety
+Robert Anderson,24,Mechanical Engineering,3.13,Freshman,IEEE Member,Intern at ResearchLab
+Sarah Brown,20,Business Administration,2.8,Sophomore,Green Club,Part-time at MarketPlace
+James White,23,Electrical Engineering,3.51,Freshman,Green Club,Intern at StartUp
+James Taylor,25,Computer Science,2.82,Sophomore,Research Assistant,Part-time at BuildCorp
+Thomas White,19,Chemistry,3.4,Senior,IEEE Member,Member of BioSociety
+Linda Johnson,19,Business Administration,3.81,Freshman,Soccer Club,Member of ChemClub
+Patricia Johnson,22,Economics,2.08,Sophomore,BioSociety,Research Assistant
+James Clark,18,Chemistry,2.06,Senior,Math Club,Member of BioSociety
+Sarah Davis,19,Business Administration,3.41,Freshman,Coding Club,Business Club President
+Robert Jackson,24,Mechanical Engineering,2.33,Freshman,BioSociety,Member of BioSociety
+Patricia Thomas,23,Business Administration,2.5,Sophomore,Research Assistant,Tutor at MathCenter
+Sarah Anderson,20,Chemistry,3.45,Freshman,ASCE Member,Part-time at ElectricWorks
+Barbara Johnson,22,Mathematics,2.54,Senior,ASCE Member,Part-time at MarketPlace
+David Anderson,25,Economics,3.92,Freshman,Research Assistant,Member of BioSociety
+Mary Thomas,24,Physics,2.24,Sophomore,Math Club,Business Club President
+James Brown,22,Economics,3.4,Freshman,Research Assistant,Research Assistant
+Linda Taylor,25,Civil Engineering,3.21,Sophomore,ChemClub,Business Club President
+Patricia Jackson,22,Civil Engineering,2.63,Junior,Debate Team,Business Club President
+Emily Moore,19,Chemistry,2.33,Junior,ChemClub,Part-time at BuildCorp
+Jessica Johnson,22,Environmental Science,2.55,Junior,IEEE Member,Intern at TechCorp
+Sarah Taylor,20,Electrical Engineering,2.87,Senior,Soccer Club,Intern at ResearchLab
+Jane Anderson,20,Mechanical Engineering,3.7,Freshman,Research Assistant,Intern at TechCorp
+Robert Harris,22,Biology,3.36,Sophomore,IEEE Member,Part-time at AutoWorks
+Mary Moore,22,Mathematics,2.33,Senior,Math Club,Intern at TechCorp
+Michael Johnson,25,Environmental Science,3.23,Junior,Robotics Team,Business Club President
+David Clark,21,Physics,3.39,Junior,Business Club,Intern at TechCorp
+Michael White,18,Economics,3.72,Junior,Debate Team,Research Assistant
+David Johnson,18,Mechanical Engineering,3.87,Freshman,Robotics Team,Intern at ResearchLab
+Thomas Anderson,18,Computer Science,3.91,Senior,Coding Club,Part-time at ElectricWorks
+Barbara Doe,24,Mechanical Engineering,2.16,Freshman,Math Club,Member of ChemClub
+Michael Wilson,22,Physics,3.2,Freshman,Business Club,Intern at TechCorp
+Christopher Wilson,22,Mathematics,2.15,Junior,BioSociety,Part-time at MarketPlace
+Linda Wilson,19,Business Administration,3.17,Junior,IEEE Member,Part-time at BuildCorp
+Thomas Jackson,21,Business Administration,2.81,Junior,Soccer Club,Business Club President
+Patricia Harris,23,Physics,3.72,Freshman,Business Club,Member of ChemClub
+David Harris,23,Civil Engineering,2.94,Junior,Coding Club,Part-time at MarketPlace
+Jessica Martin,25,Chemistry,2.51,Freshman,Coding Club,Intern at TechCorp
+Thomas Thomas,20,Civil Engineering,2.45,Freshman,Coding Club,Part-time at MarketPlace
+Barbara Johnson,19,Environmental Science,3.1,Freshman,ASCE Member,Part-time at ElectricWorks
+Linda Davis,21,Civil Engineering,3.52,Freshman,IEEE Member,Intern at StartUp
+Barbara Wilson,22,Environmental Science,2.38,Senior,Research Assistant,Part-time at AutoWorks
+Christopher Smith,19,Mathematics,2.77,Sophomore,Debate Team,Part-time at BuildCorp
+Robert Brown,20,Chemistry,2.05,Freshman,Soccer Club,Intern at TechCorp
+Jane Moore,22,Mechanical Engineering,2.7,Sophomore,Research Assistant,Part-time at MarketPlace
+Sarah Thomas,24,Economics,2.25,Senior,Research Assistant,Part-time at ElectricWorks
+Patricia Davis,23,Chemistry,3.56,Junior,ChemClub,Intern at ResearchLab
+Linda Davis,21,Business Administration,2.85,Sophomore,Research Assistant,Member of ChemClub
+Sarah Wilson,25,Mathematics,3.02,Senior,BioSociety,Research Assistant
+Christopher Harris,18,Civil Engineering,3.4,Sophomore,Soccer Club,Part-time at MarketPlace
+Emily Johnson,24,Environmental Science,2.7,Junior,Debate Team,Part-time at BuildCorp
+Patricia Doe,20,Chemistry,2.5,Senior,Robotics Team,Member of ChemClub
+Jane Martin,22,Environmental Science,3.41,Sophomore,ASCE Member,Intern at ResearchLab
+James Taylor,22,Civil Engineering,3.44,Junior,Research Assistant,Part-time at ElectricWorks
+Thomas Doe,21,Computer Science,2.87,Freshman,Robotics Team,Member of ChemClub
+James Wilson,24,Economics,3.45,Junior,Research Assistant,Intern at TechCorp
+David Wilson,25,Chemistry,2.53,Senior,Business Club,Part-time at BuildCorp
+Barbara Clark,20,Physics,2.51,Junior,Green Club,Part-time at MarketPlace
+David Johnson,24,Computer Science,2.71,Senior,Math Club,Tutor at MathCenter
+Patricia Taylor,25,Electrical Engineering,2.6,Junior,Coding Club,Part-time at AutoWorks
+Sarah Jackson,19,Mathematics,3.95,Sophomore,Business Club,Intern at TechCorp
+Thomas White,24,Electrical Engineering,2.23,Junior,BioSociety,Part-time at ElectricWorks
+Jane Jackson,25,Computer Science,3.25,Junior,Green Club,Part-time at BuildCorp
+Thomas Clark,23,Biology,2.38,Sophomore,ChemClub,Tutor at MathCenter
+Robert White,19,Mathematics,3.71,Junior,Math Club,Part-time at BuildCorp
+Patricia Smith,20,Civil Engineering,2.73,Senior,IEEE Member,Part-time at BuildCorp
+Emily Wilson,18,Chemistry,2.81,Sophomore,Green Club,Part-time at BuildCorp
+David White,23,Computer Science,3.81,Freshman,Soccer Club,Part-time at BuildCorp
+Jessica Wilson,20,Economics,2.41,Sophomore,Green Club,Research Assistant
+Linda Jackson,23,Electrical Engineering,2.66,Freshman,Robotics Team,Part-time at AutoWorks
+John Clark,23,Economics,3.02,Junior,IEEE Member,Intern at TechCorp
+Linda Anderson,19,Chemistry,2.44,Sophomore,BioSociety,Intern at TechCorp
+Thomas Johnson,24,Mechanical Engineering,2.63,Freshman,Green Club,Business Club President
+Jane Wilson,25,Environmental Science,3.61,Junior,IEEE Member,Part-time at BuildCorp
+John Johnson,18,Biology,2.22,Junior,Business Club,Research Assistant
+Sarah Anderson,21,Physics,2.73,Senior,IEEE Member,Intern at ResearchLab
+Christopher Moore,18,Electrical Engineering,2.01,Junior,Business Club,Intern at StartUp
+Mary Moore,25,Civil Engineering,2.43,Senior,IEEE Member,Part-time at AutoWorks
+Jessica Jackson,20,Environmental Science,3.26,Senior,Soccer Club,Member of ChemClub
+Michael Jackson,24,Chemistry,4.0,Senior,Green Club,Member of ChemClub
+Linda Anderson,20,Civil Engineering,2.2,Junior,Research Assistant,Part-time at ElectricWorks
+Patricia Jackson,25,Mechanical Engineering,3.88,Senior,IEEE Member,Part-time at ElectricWorks
+Linda Doe,25,Chemistry,2.57,Sophomore,BioSociety,Part-time at AutoWorks
+John Harris,24,Computer Science,3.41,Freshman,Soccer Club,Member of ChemClub
+Mary Clark,23,Business Administration,2.21,Sophomore,Research Assistant,Part-time at ElectricWorks
+Robert Brown,25,Business Administration,2.09,Sophomore,Soccer Club,Part-time at AutoWorks
+Thomas Martin,24,Physics,3.43,Sophomore,Business Club,Part-time at MarketPlace
+Linda Anderson,21,Mathematics,2.6,Junior,Soccer Club,Intern at StartUp
+Robert Martin,25,Electrical Engineering,2.74,Sophomore,Soccer Club,Member of BioSociety
+Michael Wilson,25,Environmental Science,3.27,Junior,Math Club,Member of BioSociety
+Christopher Clark,20,Biology,3.43,Sophomore,Robotics Team,Member of BioSociety
+Robert Davis,20,Computer Science,2.4,Freshman,Green Club,Business Club President
+Robert Martin,20,Physics,2.52,Sophomore,ChemClub,Business Club President
+David Harris,23,Civil Engineering,2.73,Senior,IEEE Member,Research Assistant
+Jessica Taylor,25,Biology,2.83,Sophomore,ASCE Member,Intern at TechCorp
+Robert Davis,23,Business Administration,3.04,Freshman,BioSociety,Member of BioSociety
+Christopher Jackson,22,Physics,3.44,Junior,BioSociety,Tutor at MathCenter
+Jane Taylor,18,Computer Science,3.03,Junior,Green Club,Intern at StartUp
+Mary Brown,20,Business Administration,3.24,Sophomore,Soccer Club,Intern at StartUp
+Barbara Johnson,24,Mechanical Engineering,2.9,Senior,BioSociety,Member of ChemClub
+Michael Johnson,24,Economics,3.66,Junior,Soccer Club,Business Club President
+Patricia Martin,24,Biology,2.6,Sophomore,Green Club,Part-time at BuildCorp
+Robert Harris,21,Mathematics,2.33,Junior,Coding Club,Research Assistant
+Robert Brown,22,Environmental Science,3.03,Junior,Debate Team,Part-time at ElectricWorks
+Jessica White,25,Environmental Science,3.08,Freshman,Coding Club,Intern at StartUp
+Christopher Thomas,25,Economics,3.76,Junior,Business Club,Research Assistant
+Jane Thomas,20,Business Administration,2.16,Senior,Math Club,Intern at StartUp
+James Anderson,22,Electrical Engineering,2.93,Junior,Debate Team,Part-time at AutoWorks
+Christopher Brown,23,Physics,3.67,Sophomore,ASCE Member,Part-time at AutoWorks
+Jessica Davis,25,Electrical Engineering,2.59,Sophomore,Business Club,Intern at StartUp
+James Taylor,20,Computer Science,3.4,Freshman,Green Club,Part-time at AutoWorks
+Robert Jackson,21,Economics,2.19,Junior,Research Assistant,Intern at TechCorp
+John Moore,23,Mechanical Engineering,2.54,Senior,Business Club,Intern at ResearchLab
+Robert Johnson,20,Economics,2.77,Junior,Math Club,Part-time at AutoWorks
+Michael Moore,22,Chemistry,2.41,Junior,ChemClub,Tutor at MathCenter
+Barbara Doe,24,Computer Science,2.06,Junior,Debate Team,Intern at StartUp
+Robert Wilson,24,Environmental Science,2.91,Senior,IEEE Member,Research Assistant
+Barbara Jackson,21,Chemistry,2.23,Junior,Coding Club,Part-time at BuildCorp
+John White,19,Environmental Science,2.97,Junior,Debate Team,Intern at ResearchLab
+Emily Smith,24,Biology,3.2,Sophomore,IEEE Member,Intern at StartUp
+James Clark,23,Mathematics,3.08,Freshman,Business Club,Part-time at AutoWorks
+Barbara Davis,18,Mechanical Engineering,3.45,Senior,Math Club,Intern at TechCorp
+Thomas Jackson,19,Biology,2.76,Freshman,Debate Team,Part-time at BuildCorp
+David Johnson,22,Environmental Science,3.73,Freshman,Debate Team,Intern at TechCorp
+Jane Clark,24,Mechanical Engineering,3.4,Sophomore,Coding Club,Part-time at ElectricWorks
+Jane Thomas,25,Electrical Engineering,2.22,Senior,Coding Club,Tutor at MathCenter
+John Taylor,18,Electrical Engineering,3.06,Junior,Math Club,Part-time at ElectricWorks
+Robert Moore,23,Biology,3.23,Freshman,BioSociety,Research Assistant
+John Clark,22,Mechanical Engineering,2.75,Senior,Coding Club,Intern at StartUp
+Christopher Doe,25,Mathematics,3.07,Senior,Coding Club,Tutor at MathCenter
+Barbara Clark,24,Civil Engineering,3.99,Senior,Business Club,Part-time at MarketPlace
+David Jackson,25,Environmental Science,3.46,Junior,Soccer Club,Intern at TechCorp
+David Smith,23,Economics,3.99,Senior,Soccer Club,Intern at ResearchLab
+Sarah Moore,23,Economics,2.35,Sophomore,BioSociety,Part-time at AutoWorks
+Emily Martin,22,Physics,2.7,Junior,Business Club,Part-time at ElectricWorks
+Barbara Jackson,20,Electrical Engineering,2.09,Junior,Research Assistant,Research Assistant
+Jane Harris,25,Environmental Science,3.37,Junior,Coding Club,Intern at StartUp
+Robert Jackson,19,Chemistry,2.72,Senior,Debate Team,Member of BioSociety
+Robert Martin,18,Computer Science,3.18,Junior,Soccer Club,Member of BioSociety
+Patricia Jackson,24,Mechanical Engineering,2.82,Freshman,Coding Club,Part-time at ElectricWorks
+Jane Taylor,21,Environmental Science,3.48,Sophomore,ASCE Member,Member of BioSociety
+Christopher Taylor,20,Economics,2.08,Junior,Green Club,Part-time at ElectricWorks
+Jane Harris,22,Mathematics,3.96,Freshman,Coding Club,Member of BioSociety
+Michael Harris,20,Mechanical Engineering,3.81,Junior,Robotics Team,Intern at TechCorp
+David White,21,Chemistry,3.42,Senior,BioSociety,Member of ChemClub
+Linda Clark,25,Biology,2.58,Junior,Coding Club,Intern at StartUp
+David Smith,23,Biology,2.12,Sophomore,Debate Team,Member of ChemClub
+Linda Davis,23,Electrical Engineering,3.76,Sophomore,Math Club,Member of ChemClub
+Linda Wilson,23,Chemistry,3.53,Sophomore,IEEE Member,Tutor at MathCenter
+David White,18,Business Administration,3.72,Senior,IEEE Member,Part-time at BuildCorp
+Michael Smith,18,Business Administration,2.38,Sophomore,Business Club,Part-time at ElectricWorks
+Christopher Harris,18,Computer Science,2.79,Senior,Research Assistant,Member of ChemClub
+Michael Johnson,22,Economics,3.53,Sophomore,Soccer Club,Intern at StartUp
+Patricia Thomas,21,Chemistry,2.11,Sophomore,Green Club,Research Assistant
+Christopher Davis,18,Economics,2.28,Junior,IEEE Member,Intern at TechCorp
+Mary Taylor,21,Economics,2.89,Junior,ChemClub,Part-time at ElectricWorks
+Mary Martin,22,Electrical Engineering,3.18,Sophomore,Research Assistant,Part-time at BuildCorp
+Linda Jackson,21,Biology,3.56,Freshman,ASCE Member,Part-time at ElectricWorks
+James Anderson,21,Business Administration,3.73,Sophomore,ChemClub,Part-time at AutoWorks
+Michael Jackson,23,Computer Science,3.37,Freshman,Math Club,Business Club President
+Patricia Martin,22,Mathematics,2.44,Junior,BioSociety,Part-time at ElectricWorks
+Linda Johnson,21,Chemistry,2.35,Freshman,Green Club,Member of BioSociety
+Jessica Thomas,20,Biology,2.86,Sophomore,Math Club,Part-time at BuildCorp
+Linda Moore,19,Business Administration,3.76,Junior,Debate Team,Member of BioSociety
+John Brown,25,Mathematics,2.41,Sophomore,Research Assistant,Member of ChemClub
+John Brown,23,Electrical Engineering,2.19,Sophomore,IEEE Member,Business Club President
+Jessica Johnson,19,Physics,3.54,Sophomore,Robotics Team,Part-time at BuildCorp
+Jessica Johnson,21,Computer Science,2.14,Junior,Research Assistant,Part-time at AutoWorks
+James Moore,18,Physics,4.0,Senior,IEEE Member,Intern at TechCorp
+Michael Clark,19,Chemistry,2.86,Freshman,Math Club,Business Club President
+Patricia Moore,25,Computer Science,3.82,Freshman,Business Club,Part-time at ElectricWorks
+Barbara Moore,22,Physics,3.17,Junior,Green Club,Part-time at BuildCorp
+Mary Wilson,21,Mathematics,3.82,Junior,IEEE Member,Part-time at BuildCorp
+Sarah Jackson,24,Chemistry,2.52,Senior,Green Club,Business Club President
+Patricia Martin,22,Mechanical Engineering,3.7,Freshman,Robotics Team,Member of BioSociety
+Barbara Moore,25,Physics,3.14,Senior,Research Assistant,Member of BioSociety
+Sarah Smith,22,Chemistry,2.01,Junior,Soccer Club,Part-time at ElectricWorks
+James Anderson,23,Chemistry,2.12,Sophomore,IEEE Member,Part-time at MarketPlace
+Christopher Doe,21,Environmental Science,2.77,Freshman,Research Assistant,Part-time at AutoWorks
+David Anderson,20,Civil Engineering,2.48,Junior,Business Club,Part-time at AutoWorks
+Michael Martin,25,Mathematics,2.46,Junior,Debate Team,Intern at ResearchLab
+Robert Doe,21,Economics,2.84,Senior,ChemClub,Research Assistant
+Linda Doe,24,Civil Engineering,3.3,Freshman,Research Assistant,Member of ChemClub
+Sarah Taylor,19,Environmental Science,3.64,Freshman,IEEE Member,Business Club President
+James Clark,24,Mathematics,2.6,Senior,Business Club,Part-time at AutoWorks
+Michael Harris,23,Computer Science,2.85,Junior,Business Club,Business Club President
+Robert Jackson,22,Computer Science,2.62,Sophomore,Coding Club,Member of ChemClub
+Sarah Anderson,23,Physics,3.17,Sophomore,ChemClub,Tutor at MathCenter
+Jane Wilson,24,Electrical Engineering,3.62,Senior,Robotics Team,Research Assistant
+Emily Clark,25,Civil Engineering,2.31,Senior,Coding Club,Part-time at MarketPlace
+Sarah Harris,19,Mathematics,2.16,Sophomore,Soccer Club,Intern at StartUp
+Michael Davis,24,Physics,3.93,Sophomore,Green Club,Part-time at MarketPlace
+James White,25,Environmental Science,3.76,Senior,Soccer Club,Tutor at MathCenter
+Michael Smith,18,Mathematics,2.21,Junior,BioSociety,Part-time at BuildCorp
+Jane Clark,18,Economics,3.74,Senior,ASCE Member,Intern at StartUp
+Robert Doe,22,Environmental Science,3.7,Freshman,Coding Club,Part-time at MarketPlace
+Patricia Taylor,25,Civil Engineering,2.18,Junior,IEEE Member,Intern at TechCorp
+Linda Anderson,18,Chemistry,3.3,Sophomore,Coding Club,Intern at TechCorp
+Michael Wilson,19,Biology,3.82,Sophomore,IEEE Member,Intern at StartUp
+Thomas Jackson,18,Environmental Science,2.58,Junior,Soccer Club,Part-time at AutoWorks
+Barbara Brown,22,Civil Engineering,3.76,Sophomore,Math Club,Tutor at MathCenter
+Thomas Wilson,21,Mathematics,2.08,Junior,Soccer Club,Part-time at BuildCorp
+Barbara Brown,20,Biology,3.47,Junior,ASCE Member,Part-time at ElectricWorks
+Jane Wilson,24,Economics,3.07,Junior,Soccer Club,Research Assistant
+Christopher Taylor,19,Environmental Science,2.11,Junior,ChemClub,Tutor at MathCenter
+Jessica Anderson,25,Chemistry,3.28,Junior,Math Club,Member of BioSociety
+John Clark,20,Electrical Engineering,2.81,Senior,ASCE Member,Intern at ResearchLab
+Thomas Moore,18,Environmental Science,2.31,Senior,Green Club,Intern at StartUp
+Thomas Martin,20,Chemistry,3.72,Senior,Debate Team,Research Assistant
+Robert Wilson,24,Electrical Engineering,2.45,Sophomore,ChemClub,Part-time at AutoWorks
+Christopher Doe,20,Biology,2.3,Junior,Research Assistant,Intern at TechCorp
+Jessica Johnson,21,Biology,2.84,Junior,ASCE Member,Part-time at AutoWorks
+David Doe,21,Physics,3.47,Senior,Business Club,Business Club President
+Linda Wilson,22,Physics,2.31,Sophomore,Debate Team,Part-time at BuildCorp
+Barbara Thomas,22,Physics,2.32,Junior,Research Assistant,Member of ChemClub
+Barbara Thomas,23,Mathematics,2.29,Senior,Soccer Club,Part-time at ElectricWorks
+Jane Johnson,19,Business Administration,3.74,Freshman,Robotics Team,Member of ChemClub
+Jessica Jackson,19,Business Administration,2.39,Sophomore,IEEE Member,Intern at TechCorp
+Christopher Moore,18,Environmental Science,3.43,Sophomore,ChemClub,Part-time at AutoWorks
+John Davis,25,Civil Engineering,2.09,Senior,Business Club,Intern at TechCorp
+Sarah Doe,24,Biology,3.42,Senior,Green Club,Intern at TechCorp
+Emily Harris,25,Physics,3.95,Freshman,Green Club,Research Assistant
+Emily Davis,18,Civil Engineering,3.89,Sophomore,ChemClub,Tutor at MathCenter
+John Clark,21,Chemistry,2.16,Junior,BioSociety,Intern at ResearchLab
+Emily Martin,18,Physics,2.98,Sophomore,Business Club,Research Assistant
+James Brown,18,Chemistry,2.16,Sophomore,ASCE Member,Member of BioSociety
+Mary Brown,23,Mathematics,3.64,Sophomore,Green Club,Part-time at BuildCorp
+Robert Smith,23,Environmental Science,2.58,Senior,Math Club,Part-time at AutoWorks
+James Doe,18,Civil Engineering,2.94,Sophomore,Coding Club,Intern at StartUp
+Robert Clark,18,Civil Engineering,3.53,Senior,Green Club,Business Club President
+John Anderson,24,Mathematics,3.64,Senior,Business Club,Member of ChemClub
+Jane Doe,23,Civil Engineering,3.39,Sophomore,Math Club,Member of ChemClub
+Emily Martin,20,Physics,3.49,Junior,Business Club,Member of BioSociety
+Barbara Jackson,19,Economics,2.42,Senior,ASCE Member,Part-time at MarketPlace
+Linda Jackson,23,Mathematics,3.19,Junior,ChemClub,Member of BioSociety
+David White,23,Mechanical Engineering,3.54,Senior,Research Assistant,Member of ChemClub
+Michael White,22,Electrical Engineering,2.49,Freshman,Green Club,Member of ChemClub
+Sarah Anderson,18,Environmental Science,3.38,Junior,Coding Club,Member of ChemClub
+Emily Thomas,20,Chemistry,3.98,Junior,Coding Club,Intern at TechCorp
+Sarah Smith,19,Business Administration,2.67,Sophomore,Coding Club,Member of BioSociety
+Patricia Moore,25,Mathematics,3.55,Freshman,Business Club,Member of BioSociety
+Thomas Anderson,24,Computer Science,2.25,Junior,Math Club,Part-time at MarketPlace
+John Anderson,25,Biology,2.78,Junior,Soccer Club,Research Assistant
+Emily Doe,22,Physics,2.51,Freshman,Debate Team,Part-time at MarketPlace
+Jessica Clark,20,Physics,2.19,Senior,Robotics Team,Part-time at AutoWorks
+David Martin,25,Civil Engineering,3.86,Freshman,Debate Team,Intern at TechCorp
+James Harris,21,Physics,3.32,Junior,Business Club,Intern at TechCorp
+James Smith,19,Economics,2.01,Freshman,Green Club,Member of BioSociety
+James Thomas,20,Biology,2.71,Freshman,Robotics Team,Part-time at MarketPlace
+John Jackson,23,Mathematics,2.39,Senior,Robotics Team,Intern at StartUp
+John Clark,22,Biology,3.04,Junior,ASCE Member,Intern at TechCorp
+James Anderson,23,Computer Science,3.95,Senior,Business Club,Intern at TechCorp
+Patricia Davis,23,Business Administration,2.45,Freshman,Robotics Team,Tutor at MathCenter
+Linda Brown,24,Biology,3.57,Sophomore,ASCE Member,Member of BioSociety
+Mary Thomas,20,Mathematics,3.24,Freshman,Soccer Club,Part-time at ElectricWorks
+David Doe,23,Electrical Engineering,2.34,Freshman,Research Assistant,Intern at TechCorp
+Jessica Anderson,24,Business Administration,2.07,Freshman,Robotics Team,Part-time at AutoWorks
+Jessica Jackson,22,Mechanical Engineering,2.17,Junior,Research Assistant,Part-time at AutoWorks
+Sarah Harris,20,Computer Science,2.79,Senior,Debate Team,Part-time at ElectricWorks
+Barbara Doe,19,Biology,3.46,Junior,Debate Team,Part-time at MarketPlace
+Sarah Doe,22,Chemistry,3.02,Sophomore,Research Assistant,Tutor at MathCenter
+Emily Smith,18,Computer Science,3.87,Senior,ChemClub,Intern at ResearchLab
+Linda Johnson,19,Electrical Engineering,2.32,Sophomore,Debate Team,Part-time at ElectricWorks
+Patricia Harris,25,Computer Science,2.83,Senior,Robotics Team,Part-time at MarketPlace
+Mary Clark,23,Computer Science,3.18,Freshman,IEEE Member,Intern at ResearchLab
+Linda Wilson,20,Mathematics,2.6,Sophomore,Debate Team,Member of BioSociety
+Jane White,21,Civil Engineering,3.81,Freshman,IEEE Member,Intern at StartUp
+Jane Doe,19,Civil Engineering,3.24,Sophomore,Research Assistant,Tutor at MathCenter
+Barbara Martin,19,Computer Science,2.67,Freshman,BioSociety,Part-time at AutoWorks
+Emily Clark,21,Civil Engineering,2.25,Sophomore,Business Club,Intern at StartUp
+Jane Martin,20,Electrical Engineering,2.96,Senior,Debate Team,Member of BioSociety
+Michael Moore,19,Computer Science,2.26,Sophomore,Business Club,Intern at StartUp
+Emily Clark,24,Computer Science,2.07,Senior,ChemClub,Business Club President
+Barbara Moore,18,Mathematics,3.99,Senior,Coding Club,Part-time at BuildCorp
+Mary Wilson,20,Business Administration,2.14,Sophomore,IEEE Member,Intern at ResearchLab
+Linda Harris,18,Business Administration,2.93,Junior,Green Club,Intern at StartUp
+Sarah Smith,20,Chemistry,3.29,Sophomore,Math Club,Part-time at ElectricWorks
+Barbara Wilson,24,Electrical Engineering,3.09,Freshman,Coding Club,Part-time at MarketPlace
+Patricia Martin,20,Chemistry,2.26,Senior,ASCE Member,Intern at ResearchLab
+Jessica Brown,23,Civil Engineering,3.51,Senior,Soccer Club,Part-time at ElectricWorks
+Robert Jackson,19,Civil Engineering,3.65,Sophomore,Math Club,Part-time at ElectricWorks
+Michael Anderson,19,Biology,3.24,Sophomore,Debate Team,Part-time at MarketPlace
+Mary Moore,21,Business Administration,2.94,Sophomore,Research Assistant,Part-time at BuildCorp
+Thomas Davis,23,Business Administration,3.98,Sophomore,Debate Team,Part-time at BuildCorp
+Christopher Wilson,20,Mathematics,3.1,Junior,Research Assistant,Part-time at AutoWorks
+Jessica Davis,23,Electrical Engineering,2.64,Sophomore,Business Club,Member of BioSociety
+Robert Davis,24,Civil Engineering,2.22,Senior,BioSociety,Member of ChemClub
+Barbara Thomas,23,Physics,3.4,Sophomore,Soccer Club,Intern at StartUp
+James Wilson,21,Biology,3.62,Sophomore,Coding Club,Intern at ResearchLab
+Jane Johnson,22,Biology,2.71,Junior,Research Assistant,Part-time at BuildCorp
+David Taylor,25,Mechanical Engineering,2.72,Senior,ASCE Member,Member of BioSociety
+David Anderson,22,Computer Science,3.41,Junior,ChemClub,Member of BioSociety
+Christopher Johnson,21,Biology,3.03,Senior,ASCE Member,Tutor at MathCenter
+Thomas Thomas,21,Economics,3.78,Freshman,BioSociety,Part-time at AutoWorks
+James Smith,18,Chemistry,2.62,Junior,Business Club,Member of ChemClub
+Sarah Doe,22,Computer Science,2.3,Freshman,ASCE Member,Part-time at MarketPlace
+Jessica Anderson,24,Computer Science,2.99,Freshman,IEEE Member,Member of ChemClub
+Robert Johnson,18,Biology,3.14,Sophomore,Robotics Team,Intern at TechCorp
+James Thomas,25,Biology,2.55,Sophomore,Coding Club,Intern at ResearchLab
+Sarah Clark,23,Economics,3.77,Senior,ChemClub,Business Club President
+Barbara Martin,22,Electrical Engineering,2.45,Senior,Math Club,Part-time at ElectricWorks
+Jessica Harris,21,Environmental Science,3.64,Senior,ChemClub,Business Club President
+Sarah Johnson,20,Civil Engineering,2.46,Freshman,ASCE Member,Member of BioSociety
+John Jackson,18,Business Administration,2.95,Sophomore,Green Club,Member of ChemClub
+Patricia Moore,18,Environmental Science,2.75,Senior,Research Assistant,Member of BioSociety
+John Davis,19,Chemistry,3.35,Freshman,Green Club,Part-time at MarketPlace
+Barbara Wilson,24,Economics,2.42,Senior,Math Club,Part-time at BuildCorp
+Thomas Taylor,22,Biology,2.69,Junior,ChemClub,Part-time at BuildCorp
+John Martin,22,Economics,2.21,Sophomore,Business Club,Intern at StartUp
+Robert Davis,25,Civil Engineering,2.72,Senior,BioSociety,Part-time at ElectricWorks
+Christopher Taylor,25,Civil Engineering,3.46,Sophomore,Soccer Club,Intern at ResearchLab
+Sarah Thomas,18,Computer Science,3.46,Sophomore,BioSociety,Member of ChemClub
+Linda Johnson,24,Economics,2.15,Junior,ASCE Member,Tutor at MathCenter
+Jane Johnson,25,Mathematics,3.72,Junior,ASCE Member,Member of BioSociety
+Patricia Johnson,20,Physics,3.06,Sophomore,ChemClub,Business Club President
+James Davis,25,Chemistry,3.63,Sophomore,Robotics Team,Member of ChemClub
+Jessica Harris,19,Chemistry,3.81,Senior,Green Club,Tutor at MathCenter
+Mary Thomas,21,Mathematics,3.27,Senior,ASCE Member,Part-time at ElectricWorks
+Robert Jackson,18,Business Administration,3.5,Freshman,Math Club,Member of BioSociety
+Patricia Johnson,22,Business Administration,2.24,Junior,Robotics Team,Intern at TechCorp
+Jessica Brown,20,Business Administration,3.8,Freshman,ChemClub,Member of BioSociety
+Linda Wilson,20,Physics,2.95,Sophomore,Robotics Team,Research Assistant
+David Taylor,20,Biology,2.67,Sophomore,Robotics Team,Business Club President
+Barbara Doe,21,Environmental Science,3.3,Junior,ASCE Member,Member of BioSociety
+John Taylor,21,Electrical Engineering,2.4,Freshman,IEEE Member,Research Assistant
+Mary Thomas,19,Physics,2.52,Sophomore,Coding Club,Intern at StartUp
+Thomas Doe,22,Business Administration,3.37,Sophomore,Robotics Team,Part-time at ElectricWorks
+Thomas Davis,18,Mathematics,3.32,Senior,Math Club,Part-time at AutoWorks
+Sarah Brown,22,Mechanical Engineering,2.3,Sophomore,Research Assistant,Research Assistant
+Linda White,20,Physics,3.19,Freshman,Green Club,Member of BioSociety
+Linda Martin,18,Biology,3.18,Junior,Business Club,Member of ChemClub
+David White,25,Civil Engineering,2.17,Sophomore,ASCE Member,Intern at StartUp
+Sarah Thomas,22,Biology,2.75,Senior,ChemClub,Research Assistant
+Robert White,19,Computer Science,2.74,Junior,ChemClub,Business Club President
+Christopher White,21,Physics,2.26,Senior,Research Assistant,Intern at StartUp
+Barbara White,21,Chemistry,2.12,Freshman,ChemClub,Intern at ResearchLab
+Sarah Brown,21,Mechanical Engineering,2.25,Junior,Business Club,Member of ChemClub
+John Jackson,25,Biology,2.12,Senior,Coding Club,Tutor at MathCenter
+Sarah Martin,21,Economics,2.25,Senior,BioSociety,Tutor at MathCenter
+Emily Taylor,20,Biology,3.74,Sophomore,ASCE Member,Part-time at BuildCorp
+Robert Johnson,19,Computer Science,3.84,Freshman,ChemClub,Member of BioSociety
+Linda Clark,23,Physics,3.06,Senior,Research Assistant,Part-time at BuildCorp
+Robert Jackson,21,Physics,2.16,Junior,Debate Team,Intern at TechCorp
+John White,19,Electrical Engineering,2.39,Junior,Coding Club,Member of ChemClub
+James Wilson,23,Electrical Engineering,3.28,Freshman,Soccer Club,Tutor at MathCenter
+Mary Davis,21,Civil Engineering,2.71,Sophomore,Business Club,Research Assistant
+Barbara Johnson,20,Mechanical Engineering,2.34,Junior,ASCE Member,Intern at TechCorp
+Sarah Davis,20,Economics,2.91,Junior,ASCE Member,Part-time at ElectricWorks
+Barbara Harris,21,Biology,3.33,Freshman,Robotics Team,Part-time at MarketPlace
+Sarah White,20,Environmental Science,2.53,Freshman,Robotics Team,Part-time at BuildCorp
+John Taylor,22,Business Administration,3.5,Freshman,Green Club,Member of BioSociety
+Jane Davis,21,Biology,2.21,Sophomore,Soccer Club,Intern at TechCorp
+Linda Smith,19,Mathematics,3.57,Sophomore,Green Club,Business Club President
+Jane Johnson,21,Biology,3.81,Junior,Robotics Team,Part-time at AutoWorks
+Christopher Wilson,24,Mechanical Engineering,2.77,Sophomore,Research Assistant,Tutor at MathCenter
+Jessica Johnson,20,Biology,2.54,Junior,Green Club,Part-time at BuildCorp
+Sarah Harris,23,Electrical Engineering,3.51,Freshman,Business Club,Intern at ResearchLab
+Jane Harris,18,Mathematics,3.53,Junior,BioSociety,Intern at StartUp
+Robert Martin,22,Physics,2.12,Senior,ChemClub,Intern at StartUp
+Robert Davis,22,Chemistry,2.97,Senior,Business Club,Business Club President
+Mary Wilson,24,Biology,2.0,Freshman,ASCE Member,Part-time at MarketPlace
+James Clark,25,Environmental Science,2.1,Senior,Green Club,Business Club President
+Mary Harris,25,Computer Science,3.68,Freshman,ASCE Member,Part-time at BuildCorp
+Jane Martin,20,Business Administration,3.81,Senior,Coding Club,Part-time at ElectricWorks
+Christopher Thomas,20,Biology,2.67,Sophomore,Research Assistant,Business Club President
+John Harris,22,Environmental Science,2.77,Junior,ASCE Member,Intern at StartUp
+Sarah Wilson,20,Computer Science,2.91,Junior,Debate Team,Member of BioSociety
+James Brown,20,Physics,3.03,Sophomore,Debate Team,Intern at TechCorp
+James Doe,18,Civil Engineering,3.12,Freshman,Robotics Team,Member of ChemClub
+Emily Doe,21,Mechanical Engineering,3.83,Sophomore,ChemClub,Member of ChemClub
+Emily Smith,24,Mechanical Engineering,2.37,Sophomore,Robotics Team,Part-time at MarketPlace
+Linda Moore,20,Mechanical Engineering,3.59,Freshman,BioSociety,Intern at ResearchLab
+Emily Doe,20,Mechanical Engineering,2.4,Freshman,Green Club,Business Club President
+Christopher Martin,25,Mathematics,2.55,Sophomore,ChemClub,Intern at TechCorp
+John White,18,Computer Science,3.83,Senior,Robotics Team,Intern at TechCorp
+Thomas Doe,19,Business Administration,2.29,Freshman,Robotics Team,Member of BioSociety
+Emily Wilson,25,Civil Engineering,2.5,Freshman,Research Assistant,Part-time at BuildCorp
+Robert Johnson,22,Physics,3.01,Sophomore,ASCE Member,Member of BioSociety
+Barbara White,24,Economics,3.67,Junior,IEEE Member,Member of BioSociety
+Robert Harris,19,Economics,3.03,Sophomore,Soccer Club,Research Assistant
+Christopher Davis,23,Mathematics,3.91,Sophomore,Research Assistant,Tutor at MathCenter
+David Wilson,19,Civil Engineering,3.29,Sophomore,Coding Club,Tutor at MathCenter
+Christopher Anderson,23,Economics,3.82,Freshman,Robotics Team,Member of ChemClub
+Sarah Jackson,23,Business Administration,3.35,Junior,Debate Team,Tutor at MathCenter
+Michael White,23,Electrical Engineering,2.99,Freshman,ChemClub,Part-time at ElectricWorks
+Robert Moore,18,Mechanical Engineering,3.17,Junior,BioSociety,Business Club President
+David Smith,18,Biology,2.62,Sophomore,Green Club,Part-time at BuildCorp
+Jane White,18,Computer Science,3.95,Junior,Business Club,Part-time at MarketPlace
+Barbara White,24,Mathematics,3.58,Sophomore,Research Assistant,Part-time at MarketPlace
+James Brown,25,Mathematics,3.94,Junior,BioSociety,Member of ChemClub
+Jane Taylor,23,Economics,2.58,Sophomore,IEEE Member,Part-time at ElectricWorks
+Sarah Doe,23,Business Administration,3.23,Sophomore,Research Assistant,Intern at TechCorp
+Thomas Brown,21,Physics,2.79,Sophomore,IEEE Member,Intern at TechCorp
+Barbara Smith,25,Economics,2.96,Freshman,Debate Team,Part-time at MarketPlace
+Emily Clark,22,Electrical Engineering,3.84,Senior,Debate Team,Tutor at MathCenter
+Mary Thomas,25,Environmental Science,2.51,Junior,Debate Team,Member of ChemClub
+Emily White,21,Mathematics,2.88,Sophomore,ChemClub,Intern at StartUp
+David Doe,23,Civil Engineering,3.78,Sophomore,BioSociety,Research Assistant
+Patricia Taylor,24,Electrical Engineering,2.93,Freshman,Math Club,Part-time at AutoWorks
+Mary Anderson,22,Mathematics,3.63,Sophomore,IEEE Member,Intern at TechCorp
+Jane Davis,25,Physics,2.16,Junior,Research Assistant,Part-time at AutoWorks
+Mary Harris,18,Economics,2.9,Freshman,Robotics Team,Intern at ResearchLab
+Michael Smith,20,Chemistry,2.19,Junior,BioSociety,Part-time at BuildCorp
+Barbara Johnson,24,Physics,2.93,Sophomore,Research Assistant,Business Club President
+Robert Jackson,18,Business Administration,2.2,Sophomore,Business Club,Intern at TechCorp
+Sarah Clark,24,Mathematics,3.28,Senior,ChemClub,Part-time at BuildCorp
+Jessica Jackson,23,Environmental Science,2.74,Freshman,BioSociety,Tutor at MathCenter
+Sarah Doe,19,Chemistry,3.64,Junior,Business Club,Part-time at BuildCorp
+Michael Wilson,22,Electrical Engineering,2.87,Sophomore,Robotics Team,Intern at StartUp
+Christopher Anderson,22,Business Administration,3.33,Senior,Coding Club,Intern at TechCorp
+Christopher Wilson,24,Biology,2.62,Junior,Business Club,Member of BioSociety
+Robert Jackson,24,Biology,2.56,Freshman,ASCE Member,Member of ChemClub
+John Jackson,21,Civil Engineering,3.69,Junior,ASCE Member,Intern at TechCorp
+Robert Smith,20,Chemistry,2.03,Senior,Green Club,Member of ChemClub
+Thomas Thomas,25,Mathematics,3.59,Senior,BioSociety,Tutor at MathCenter
+Michael Wilson,19,Chemistry,3.32,Freshman,Research Assistant,Intern at TechCorp
+Jessica Thomas,18,Physics,2.18,Senior,BioSociety,Intern at StartUp
+Emily White,20,Mechanical Engineering,2.61,Sophomore,Debate Team,Member of ChemClub
+Jessica Jackson,21,Chemistry,2.88,Junior,Soccer Club,Part-time at ElectricWorks
+Emily Brown,25,Economics,2.53,Sophomore,Math Club,Member of BioSociety
+Michael Smith,22,Electrical Engineering,2.95,Freshman,Business Club,Intern at TechCorp
+Michael White,22,Mechanical Engineering,3.8,Junior,ChemClub,Part-time at BuildCorp
+Jane Davis,24,Environmental Science,2.77,Junior,BioSociety,Part-time at BuildCorp
+Thomas Thomas,20,Chemistry,2.01,Junior,Green Club,Business Club President
+Thomas Johnson,24,Mechanical Engineering,2.32,Freshman,BioSociety,Tutor at MathCenter
+David Davis,19,Electrical Engineering,2.91,Sophomore,Business Club,Part-time at MarketPlace
+Michael Brown,24,Biology,3.94,Senior,Soccer Club,Intern at ResearchLab
+James Thomas,20,Economics,2.45,Senior,Business Club,Part-time at MarketPlace
+David Taylor,22,Chemistry,3.37,Freshman,ChemClub,Member of BioSociety
+Sarah Wilson,19,Physics,2.03,Junior,Math Club,Part-time at AutoWorks
+Sarah Doe,19,Electrical Engineering,2.2,Senior,BioSociety,Business Club President
+Michael Harris,21,Chemistry,2.07,Freshman,Debate Team,Research Assistant
+Robert Doe,21,Computer Science,3.71,Junior,BioSociety,Intern at StartUp
+Jane Clark,23,Economics,2.09,Senior,BioSociety,Research Assistant
+Mary Thomas,24,Environmental Science,2.47,Freshman,Business Club,Part-time at AutoWorks
+Christopher Taylor,25,Computer Science,3.67,Junior,Debate Team,Part-time at MarketPlace
+Sarah Davis,25,Mechanical Engineering,2.1,Junior,Debate Team,Business Club President
+Christopher Doe,22,Economics,3.57,Senior,Robotics Team,Business Club President
+Jessica White,21,Business Administration,2.09,Freshman,Green Club,Part-time at ElectricWorks
+Robert Johnson,21,Computer Science,3.8,Freshman,IEEE Member,Member of ChemClub
+Christopher Wilson,25,Physics,2.79,Sophomore,IEEE Member,Intern at TechCorp
+James Taylor,22,Biology,3.39,Sophomore,Math Club,Business Club President
+Mary Wilson,25,Chemistry,2.76,Senior,IEEE Member,Intern at TechCorp
+Linda Wilson,20,Mechanical Engineering,2.97,Senior,IEEE Member,Tutor at MathCenter
+Michael Harris,20,Civil Engineering,2.04,Sophomore,ChemClub,Member of BioSociety
+Barbara Doe,23,Mathematics,2.01,Junior,BioSociety,Intern at StartUp
+Sarah Brown,23,Business Administration,2.21,Senior,Green Club,Tutor at MathCenter
+Robert White,22,Business Administration,3.19,Junior,IEEE Member,Part-time at BuildCorp
+Michael Harris,23,Environmental Science,3.63,Freshman,Soccer Club,Part-time at BuildCorp
+Michael Wilson,25,Mathematics,2.13,Junior,BioSociety,Intern at ResearchLab
+Thomas Doe,18,Chemistry,2.55,Freshman,Robotics Team,Intern at StartUp
+Thomas Johnson,19,Computer Science,2.47,Sophomore,Soccer Club,Part-time at AutoWorks
+Jane Harris,23,Electrical Engineering,2.75,Senior,Math Club,Tutor at MathCenter
+Thomas Smith,18,Electrical Engineering,2.66,Sophomore,Math Club,Part-time at AutoWorks
+John Davis,25,Business Administration,2.6,Freshman,Business Club,Part-time at BuildCorp
+Patricia Wilson,23,Business Administration,3.83,Junior,Soccer Club,Part-time at BuildCorp
+David Doe,19,Civil Engineering,3.98,Senior,Green Club,Member of ChemClub
+Patricia Doe,18,Business Administration,3.99,Senior,Coding Club,Research Assistant
+Jessica Martin,21,Biology,3.42,Junior,BioSociety,Intern at StartUp
+Mary White,18,Chemistry,3.69,Sophomore,BioSociety,Member of BioSociety
+Michael Wilson,24,Computer Science,2.13,Junior,Math Club,Research Assistant
+Patricia Moore,23,Chemistry,2.33,Junior,BioSociety,Part-time at MarketPlace
+John Moore,22,Economics,2.52,Sophomore,BioSociety,Part-time at ElectricWorks
+Michael Brown,20,Business Administration,2.01,Junior,Green Club,Part-time at ElectricWorks
+David Davis,18,Environmental Science,2.04,Freshman,Coding Club,Business Club President
+Jane Wilson,21,Physics,3.13,Sophomore,Soccer Club,Member of ChemClub
+Jane Martin,18,Physics,2.89,Senior,BioSociety,Part-time at AutoWorks
+Emily Jackson,23,Electrical Engineering,3.44,Freshman,Debate Team,Part-time at BuildCorp
+Patricia White,25,Chemistry,2.95,Freshman,Research Assistant,Research Assistant
+Mary Jackson,19,Physics,2.14,Junior,Math Club,Business Club President
+Linda Taylor,22,Computer Science,2.51,Senior,Math Club,Intern at ResearchLab
+Robert Martin,18,Economics,3.46,Senior,Robotics Team,Member of BioSociety
+David Harris,22,Computer Science,2.6,Junior,Math Club,Tutor at MathCenter
+John Doe,22,Electrical Engineering,2.7,Senior,Math Club,Intern at ResearchLab
+Barbara Wilson,18,Physics,2.39,Junior,IEEE Member,Part-time at ElectricWorks
+David Martin,19,Physics,3.32,Senior,IEEE Member,Part-time at BuildCorp
+Emily Martin,20,Biology,3.46,Senior,Business Club,Tutor at MathCenter
+Barbara White,25,Civil Engineering,2.47,Freshman,ASCE Member,Part-time at AutoWorks
+Jessica Thomas,21,Chemistry,3.98,Sophomore,Green Club,Intern at ResearchLab
+Mary Taylor,22,Biology,3.45,Junior,ChemClub,Member of ChemClub
+Patricia Thomas,25,Economics,3.11,Junior,Robotics Team,Member of BioSociety
+Mary Thomas,23,Civil Engineering,3.2,Sophomore,Business Club,Part-time at ElectricWorks
+Patricia White,20,Economics,2.24,Sophomore,BioSociety,Part-time at ElectricWorks
+Emily Davis,19,Environmental Science,3.95,Freshman,IEEE Member,Part-time at ElectricWorks
+Sarah Moore,19,Chemistry,2.2,Senior,ASCE Member,Member of BioSociety
+Emily Davis,22,Chemistry,2.55,Freshman,ASCE Member,Intern at TechCorp
+Emily Taylor,21,Civil Engineering,2.99,Junior,Debate Team,Intern at StartUp
+Thomas Harris,21,Computer Science,2.6,Freshman,Coding Club,Intern at ResearchLab
+Michael Davis,21,Computer Science,3.99,Senior,Soccer Club,Business Club President
+Linda Wilson,25,Physics,3.93,Freshman,Debate Team,Part-time at BuildCorp
+Barbara Wilson,22,Electrical Engineering,3.44,Senior,Soccer Club,Intern at TechCorp
+David Smith,23,Mathematics,3.14,Sophomore,ASCE Member,Part-time at BuildCorp
+James White,22,Biology,3.57,Sophomore,Robotics Team,Tutor at MathCenter
+Mary Taylor,22,Business Administration,2.04,Junior,Coding Club,Tutor at MathCenter
+John Martin,18,Environmental Science,3.54,Sophomore,Math Club,Part-time at BuildCorp
+Sarah Harris,24,Electrical Engineering,3.65,Sophomore,Math Club,Intern at TechCorp
+Emily Anderson,19,Computer Science,2.53,Junior,Research Assistant,Member of BioSociety
+Barbara Johnson,23,Economics,3.04,Sophomore,IEEE Member,Research Assistant
+Barbara Moore,21,Economics,2.98,Senior,ASCE Member,Research Assistant
+Linda Johnson,20,Electrical Engineering,3.18,Sophomore,Math Club,Part-time at AutoWorks
+Linda Wilson,21,Mathematics,2.5,Sophomore,Debate Team,Member of BioSociety
+David Harris,19,Mechanical Engineering,3.4,Sophomore,Research Assistant,Part-time at MarketPlace
+David Moore,20,Computer Science,3.26,Freshman,BioSociety,Intern at ResearchLab
+Sarah Taylor,21,Biology,3.86,Senior,Coding Club,Intern at StartUp
+Robert Davis,25,Computer Science,3.62,Freshman,ASCE Member,Tutor at MathCenter
+Christopher Davis,23,Physics,3.6,Freshman,Research Assistant,Part-time at MarketPlace
+Linda Smith,21,Environmental Science,2.69,Senior,BioSociety,Member of ChemClub
+Michael Clark,23,Electrical Engineering,2.15,Freshman,ChemClub,Tutor at MathCenter
+Thomas Clark,19,Mathematics,3.73,Freshman,ASCE Member,Part-time at BuildCorp
+Christopher Thomas,19,Civil Engineering,3.08,Senior,BioSociety,Member of ChemClub
+Thomas Johnson,23,Computer Science,3.6,Senior,BioSociety,Tutor at MathCenter
+Thomas Martin,25,Computer Science,3.27,Junior,Coding Club,Part-time at BuildCorp
+James Brown,21,Electrical Engineering,2.33,Senior,Robotics Team,Research Assistant
+Robert Thomas,18,Mechanical Engineering,2.55,Senior,BioSociety,Part-time at AutoWorks
+Linda Harris,23,Mechanical Engineering,3.7,Senior,Green Club,Research Assistant
+Robert Brown,20,Biology,3.39,Junior,Debate Team,Part-time at BuildCorp
+Patricia Moore,24,Computer Science,3.69,Junior,Green Club,Part-time at MarketPlace
+Sarah Clark,25,Biology,2.74,Sophomore,Soccer Club,Part-time at BuildCorp
+Michael Martin,25,Environmental Science,3.48,Sophomore,Debate Team,Part-time at AutoWorks
+Linda Moore,22,Business Administration,2.47,Freshman,ChemClub,Business Club President
+Christopher Jackson,21,Mechanical Engineering,3.79,Junior,Coding Club,Member of BioSociety
+Thomas Brown,20,Chemistry,3.94,Junior,BioSociety,Member of ChemClub
+James Wilson,21,Computer Science,3.83,Freshman,Green Club,Member of BioSociety
+Patricia Moore,23,Mathematics,2.96,Junior,Debate Team,Tutor at MathCenter
+Jane Moore,20,Civil Engineering,3.95,Freshman,ASCE Member,Business Club President
+Jessica Thomas,24,Physics,2.41,Sophomore,Green Club,Intern at StartUp
+Thomas Taylor,23,Environmental Science,3.5,Junior,Business Club,Part-time at ElectricWorks
+John Wilson,20,Mathematics,2.93,Sophomore,Robotics Team,Member of ChemClub
+Mary Moore,19,Physics,3.25,Senior,Robotics Team,Member of ChemClub
+Mary Moore,24,Economics,2.55,Junior,BioSociety,Part-time at ElectricWorks
+Sarah Brown,22,Economics,3.02,Freshman,Debate Team,Intern at ResearchLab
+James Jackson,20,Chemistry,2.99,Freshman,Business Club,Part-time at BuildCorp
+Sarah Davis,22,Mechanical Engineering,2.02,Sophomore,Business Club,Part-time at AutoWorks
+John Smith,19,Electrical Engineering,2.71,Senior,Coding Club,Intern at ResearchLab
+Robert Smith,22,Electrical Engineering,2.36,Freshman,Math Club,Intern at TechCorp
+David Johnson,22,Economics,3.52,Sophomore,Soccer Club,Research Assistant
+Mary Johnson,21,Mechanical Engineering,2.1,Sophomore,IEEE Member,Part-time at AutoWorks
+Linda Taylor,25,Physics,3.98,Junior,Business Club,Business Club President
+Jessica Smith,22,Chemistry,2.94,Junior,BioSociety,Intern at TechCorp
+John Wilson,21,Chemistry,3.28,Sophomore,ASCE Member,Part-time at ElectricWorks
+Mary Brown,19,Physics,2.79,Sophomore,Math Club,Tutor at MathCenter
+Emily Doe,24,Civil Engineering,2.68,Senior,Soccer Club,Part-time at BuildCorp
+Mary Clark,21,Computer Science,2.92,Senior,IEEE Member,Tutor at MathCenter
+Michael Clark,23,Environmental Science,2.29,Sophomore,Soccer Club,Part-time at AutoWorks
+Christopher Taylor,25,Business Administration,2.9,Freshman,Soccer Club,Part-time at BuildCorp
+Robert White,21,Civil Engineering,2.48,Freshman,Coding Club,Part-time at ElectricWorks
+Linda Wilson,25,Mechanical Engineering,2.12,Sophomore,Math Club,Part-time at MarketPlace
+John Taylor,18,Economics,2.49,Senior,Coding Club,Part-time at MarketPlace
+Jane Clark,18,Economics,3.12,Senior,ASCE Member,Part-time at MarketPlace
+David Clark,25,Chemistry,3.06,Senior,ASCE Member,Member of BioSociety
+Robert Davis,25,Biology,3.42,Junior,ASCE Member,Tutor at MathCenter
+Sarah Anderson,19,Civil Engineering,3.2,Sophomore,Green Club,Intern at ResearchLab
+Sarah Moore,18,Business Administration,3.32,Junior,Debate Team,Intern at StartUp
+Patricia Harris,18,Mechanical Engineering,2.25,Senior,Soccer Club,Business Club President
+Michael Thomas,24,Mechanical Engineering,3.05,Freshman,ASCE Member,Intern at ResearchLab
+Sarah Anderson,19,Environmental Science,2.02,Sophomore,Coding Club,Business Club President
+Thomas Jackson,25,Economics,2.45,Senior,ASCE Member,Intern at ResearchLab
+Jane Smith,24,Environmental Science,3.94,Sophomore,Robotics Team,Part-time at AutoWorks
+Robert Wilson,20,Biology,3.73,Senior,BioSociety,Part-time at AutoWorks
+James Harris,19,Computer Science,2.92,Senior,Robotics Team,Part-time at AutoWorks
+Mary Wilson,25,Chemistry,2.22,Sophomore,Debate Team,Part-time at ElectricWorks
+Michael Anderson,23,Economics,2.36,Senior,Debate Team,Intern at TechCorp
+Sarah Moore,25,Civil Engineering,2.63,Sophomore,BioSociety,Part-time at BuildCorp
+Patricia Smith,21,Biology,3.46,Senior,Soccer Club,Part-time at MarketPlace

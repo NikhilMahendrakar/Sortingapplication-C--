@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TYLPJMSTiuEZ/q0PWZV3hPHCj+WsdzSWqK+MX+hHRJlMesUD8tmspQWJYn2CHRpU3g8fgejcDkJvbbdd1jabbQ==",
+  "success": true,
+  "projectFilePath": "/Users/nikhil/Documents/SummerProjects/Sortingapplication(C#)/StudentSorter/StudentSorter.csproj",
+  "expectedPackageFiles": [
+    "/Users/nikhil/.nuget/packages/csvhelper/33.0.1/csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
