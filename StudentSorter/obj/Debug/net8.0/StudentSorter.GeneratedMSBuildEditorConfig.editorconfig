@@ -9,51 +9,51 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StudentSorter
 build_property.RootNamespace = StudentSorter
-build_property.ProjectDir = /Users/nikhil/Documents/SummerProjects/Sortingapplication(C#)/StudentSorter/
+build_property.ProjectDir = /Users/nikhil/Documents/TestFolder/CSVSorter/SortingApplication/StudentSorter/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/nikhil/Documents/SummerProjects/Sortingapplication(C#)/StudentSorter
+build_property.MSBuildProjectDirectory = /Users/nikhil/Documents/TestFolder/CSVSorter/SortingApplication/StudentSorter
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/nikhil/Documents/SummerProjects/Sortingapplication(C\#)/StudentSorter/Views/Home/Index.cshtml]
+[/Users/nikhil/Documents/TestFolder/CSVSorter/SortingApplication/StudentSorter/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nikhil/Documents/SummerProjects/Sortingapplication(C\#)/StudentSorter/Views/Home/Privacy.cshtml]
+[/Users/nikhil/Documents/TestFolder/CSVSorter/SortingApplication/StudentSorter/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nikhil/Documents/SummerProjects/Sortingapplication(C\#)/StudentSorter/Views/Shared/Error.cshtml]
+[/Users/nikhil/Documents/TestFolder/CSVSorter/SortingApplication/StudentSorter/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nikhil/Documents/SummerProjects/Sortingapplication(C\#)/StudentSorter/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/nikhil/Documents/TestFolder/CSVSorter/SortingApplication/StudentSorter/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nikhil/Documents/SummerProjects/Sortingapplication(C\#)/StudentSorter/Views/Student/index.cshtml]
+[/Users/nikhil/Documents/TestFolder/CSVSorter/SortingApplication/StudentSorter/Views/Student/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudC9pbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nikhil/Documents/SummerProjects/Sortingapplication(C\#)/StudentSorter/Views/Student/Results.cshtml]
+[/Users/nikhil/Documents/TestFolder/CSVSorter/SortingApplication/StudentSorter/Views/Student/Results.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudC9SZXN1bHRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nikhil/Documents/SummerProjects/Sortingapplication(C\#)/StudentSorter/Views/Student/SelectFields.cshtml]
+[/Users/nikhil/Documents/TestFolder/CSVSorter/SortingApplication/StudentSorter/Views/Student/SelectFields.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3R1ZGVudC9TZWxlY3RGaWVsZHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nikhil/Documents/SummerProjects/Sortingapplication(C\#)/StudentSorter/Views/_ViewImports.cshtml]
+[/Users/nikhil/Documents/TestFolder/CSVSorter/SortingApplication/StudentSorter/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nikhil/Documents/SummerProjects/Sortingapplication(C\#)/StudentSorter/Views/_ViewStart.cshtml]
+[/Users/nikhil/Documents/TestFolder/CSVSorter/SortingApplication/StudentSorter/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/nikhil/Documents/SummerProjects/Sortingapplication(C\#)/StudentSorter/Views/Shared/_Layout.cshtml]
+[/Users/nikhil/Documents/TestFolder/CSVSorter/SortingApplication/StudentSorter/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9zs1j5v3i7

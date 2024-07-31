@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nikhil/Documents/SummerProjects/Sortingapplication(C#)/StudentSorter/StudentSorter.csproj": {}
+    "/Users/nikhil/Documents/TestFolder/CSVSorter/SortingApplication/StudentSorter/StudentSorter.csproj": {}
   },
   "projects": {
-    "/Users/nikhil/Documents/SummerProjects/Sortingapplication(C#)/StudentSorter/StudentSorter.csproj": {
+    "/Users/nikhil/Documents/TestFolder/CSVSorter/SortingApplication/StudentSorter/StudentSorter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nikhil/Documents/SummerProjects/Sortingapplication(C#)/StudentSorter/StudentSorter.csproj",
+        "projectUniqueName": "/Users/nikhil/Documents/TestFolder/CSVSorter/SortingApplication/StudentSorter/StudentSorter.csproj",
         "projectName": "StudentSorter",
-        "projectPath": "/Users/nikhil/Documents/SummerProjects/Sortingapplication(C#)/StudentSorter/StudentSorter.csproj",
+        "projectPath": "/Users/nikhil/Documents/TestFolder/CSVSorter/SortingApplication/StudentSorter/StudentSorter.csproj",
         "packagesPath": "/Users/nikhil/.nuget/packages/",
-        "outputPath": "/Users/nikhil/Documents/SummerProjects/Sortingapplication(C#)/StudentSorter/obj/",
+        "outputPath": "/Users/nikhil/Documents/TestFolder/CSVSorter/SortingApplication/StudentSorter/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nikhil/.nuget/NuGet/NuGet.Config"
