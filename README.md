@@ -1,6 +1,6 @@
 # StudentSorter
 
-A web application built with C# and .NET Core to upload, sort, and display student data using various sorting algorithms. The application allows users to upload a CSV file, select a column to sort by, and view the sorted results using different sorting algorithms.
+A web application built with C# and .NET Core to upload, sort, and display student data using various sorting algorithms. The application allows users to upload a CSV file, select a column to sort by, and view the sorted results using different sorting algorithms. This application is built to analyse different sorting algorithms and how they perform on different types of Data.
 
 ## Features
 
