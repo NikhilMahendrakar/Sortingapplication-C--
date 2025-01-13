@@ -58,11 +58,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nikhil/Documents/TestFolder/CSVSorter/SortingApplication/StudentSorter/StudentSorter.csproj",
+      "projectUniqueName": "/Users/nikhil/Documents/SummerProjects/Sortingapplication(C#)/StudentSorter/StudentSorter.csproj",
       "projectName": "StudentSorter",
-      "projectPath": "/Users/nikhil/Documents/TestFolder/CSVSorter/SortingApplication/StudentSorter/StudentSorter.csproj",
+      "projectPath": "/Users/nikhil/Documents/SummerProjects/Sortingapplication(C#)/StudentSorter/StudentSorter.csproj",
       "packagesPath": "/Users/nikhil/.nuget/packages/",
-      "outputPath": "/Users/nikhil/Documents/TestFolder/CSVSorter/SortingApplication/StudentSorter/obj/",
+      "outputPath": "/Users/nikhil/Documents/SummerProjects/Sortingapplication(C#)/StudentSorter/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nikhil/.nuget/NuGet/NuGet.Config"

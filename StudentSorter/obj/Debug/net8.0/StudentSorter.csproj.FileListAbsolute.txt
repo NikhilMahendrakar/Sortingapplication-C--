@@ -31,3 +31,4 @@
 /Users/nikhil/Documents/SummerProjects/Sortingapplication(C#)/StudentSorter/obj/Debug/net8.0/StudentSorter.pdb
 /Users/nikhil/Documents/SummerProjects/Sortingapplication(C#)/StudentSorter/obj/Debug/net8.0/StudentSorter.genruntimeconfig.cache
 /Users/nikhil/Documents/SummerProjects/Sortingapplication(C#)/StudentSorter/obj/Debug/net8.0/ref/StudentSorter.dll
+/Users/nikhil/Documents/SummerProjects/Sortingapplication(C#)/StudentSorter/obj/Debug/net8.0/StudentSorter.sourcelink.json

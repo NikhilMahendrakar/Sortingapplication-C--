@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StudentSorter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0a08dc3160ff0b0f04444f0acbd92a1bb648e71")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70a267935e3c0484e9ee8d8caa3eea56885a16bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("StudentSorter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StudentSorter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
